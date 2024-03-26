@@ -1,0 +1,3651 @@
+model,manufacturer,type,cylinders,size,drive
+malibu,chevrolet,sedan,4 cylinders,mid-size,fwd
+cts-v,cadillac,sedan,8 cylinders,mid-size,rwd
+328i,bmw,sedan,4 cylinders,mid-size,rwd
+odyssey,honda,mini-van,6 cylinders,full-size,fwd
+super duty f-350 drw,ford,truck,8 cylinders,full-size,4wd
+f-350 sd,ford,truck,8 cylinders,full-size,4wd
+camry,toyota,sedan,4 cylinders,full-size,fwd
+malibu,chevrolet,sedan,4 cylinders,full-size,fwd
+town & country,chrysler,mini-van,6 cylinders,full-size,fwd
+sorento,kia,SUV,6 cylinders,full-size,4wd
+cube sl,nissan,sedan,4 cylinders,full-size,fwd
+tacoma 4x4,toyota,truck,6 cylinders,mid-size,4wd
+focus,ford,sedan,4 cylinders,compact,fwd
+2500,ram,truck,8 cylinders,full-size,4wd
+accord se,honda,sedan,4 cylinders,full-size,fwd
+gla 250 4matic,mercedes-benz,SUV,4 cylinders,compact,4wd
+silverado 1500,chevrolet,truck,8 cylinders,full-size,rwd
+sierra 1500 sle,gmc,truck,8 cylinders,full-size,rwd
+c/v tradesman cargo,ram,mini-van,6 cylinders,full-size,fwd
+super duty f-250 srw,ford,pickup,8 cylinders,full-size,4wd
+tiguan,volkswagen,SUV,4 cylinders,full-size,rwd
+f-150,ford,pickup,6 cylinders,full-size,rwd
+200,chrysler,sedan,4 cylinders,mid-size,fwd
+1500,ram,pickup,8 cylinders,full-size,4wd
+fusion se,ford,sedan,4 cylinders,mid-size,fwd
+camry,toyota,sedan,4 cylinders,mid-size,fwd
+transit 250 van,ford,van,6 cylinders,full-size,rwd
+i35,infiniti,sedan,6 cylinders,full-size,fwd
+sonic,chevrolet,wagon,4 cylinders,compact,fwd
+e150,ford,van,6 cylinders,full-size,rwd
+e-class,mercedes-benz,sedan,10 cylinders,compact,4wd
+e350,ford,van,8 cylinders,full-size,rwd
+g3500 15' box,chevrolet,truck,8 cylinders,full-size,rwd
+cr-v,honda,SUV,4 cylinders,full-size,4wd
+is,lexus,sedan,10 cylinders,compact,4wd
+land cruiser landcruiser,toyota,SUV,6 cylinders,full-size,4wd
+cr-v,honda,SUV,4 cylinders,mid-size,4wd
+5,mazda,mini-van,4 cylinders,mid-size,fwd
+qx70,infiniti,SUV,6 cylinders,full-size,4wd
+legacy,subaru,wagon,4 cylinders,compact,4wd
+grand cherokee,jeep,SUV,8 cylinders,full-size,4wd
+fusion sel,ford,sedan,4 cylinders,full-size,fwd
+mazda3 5-door,mazda,hatchback,4 cylinders,compact,fwd
+tiguan,volkswagen,SUV,4 cylinders,full-size,4wd
+rav4 sport,toyota,SUV,6 cylinders,mid-size,4wd
+highlander hybrid limited,toyota,SUV,6 cylinders,full-size,4wd
+econoline,ford,truck,10 cylinders,full-size,rwd
+civic sedan,honda,sedan,4 cylinders,compact,fwd
+benz ml350,mercedes-benz,SUV,6 cylinders,mid-size,rwd
+beetle,volkswagen,hatchback,4 cylinders,compact,fwd
+wrangler,jeep,SUV,6 cylinders,full-size,4wd
+f-150,ford,SUV,8 cylinders,full-size,4wd
+colorado,chevrolet,truck,6 cylinders,full-size,4wd
+silverado 2500hd,chevrolet,truck,8 cylinders,full-size,4wd
+f-150,ford,pickup,8 cylinders,full-size,rwd
+crv,honda,SUV,4 cylinders,mid-size,4wd
+wrangler unlimited,jeep,SUV,6 cylinders,mid-size,4wd
+f-150 xl,ford,pickup,8 cylinders,full-size,4wd
+jetta 1.8t turbo,volkswagen,sedan,4 cylinders,mid-size,fwd
+e-350 xl super duty,ford,truck,8 cylinders,full-size,rwd
+tundra,toyota,truck,8 cylinders,full-size,rwd
+sorento,kia,SUV,4 cylinders,mid-size,fwd
+g6,pontiac,other,4 cylinders,full-size,fwd
+f450,ford,truck,8 cylinders,full-size,rwd
+cobalt lt,chevrolet,sedan,4 cylinders,compact,fwd
+genesis,hyundai,sedan,8 cylinders,full-size,rwd
+tahoe lt,chevrolet,SUV,8 cylinders,full-size,4wd
+pilot ex-l,honda,SUV,6 cylinders,full-size,4wd
+q5,audi,SUV,6 cylinders,full-size,4wd
+accent,hyundai,sedan,4 cylinders,full-size,fwd
+gle,mercedes-benz,SUV,6 cylinders,mid-size,4wd
+cr-v,honda,SUV,4 cylinders,compact,4wd
+xf,jaguar,sedan,6 cylinders,mid-size,4wd
+4runner,toyota,SUV,6 cylinders,full-size,rwd
+caravan,dodge,mini-van,6 cylinders,full-size,fwd
+explorer,ford,SUV,8 cylinders,full-size,4wd
+c4500 kodiak,chevrolet,truck,8 cylinders,full-size,rwd
+silverado 2500hd,chevrolet,pickup,8 cylinders,full-size,4wd
+xterra,nissan,SUV,6 cylinders,mid-size,4wd
+grand cherokee larado,jeep,SUV,6 cylinders,mid-size,rwd
+f-150,ford,pickup,6 cylinders,full-size,4wd
+corolla,toyota,sedan,4 cylinders,compact,4wd
+wrangler,jeep,SUV,6 cylinders,mid-size,4wd
+sierra 1500,gmc,truck,8 cylinders,full-size,4wd
+"yaris -- 46, k miles",toyota,sedan,4 cylinders,mid-size,fwd
+a8,audi,sedan,8 cylinders,full-size,4wd
+wrangler unlimited,jeep,SUV,6 cylinders,full-size,4wd
+sierra 2500hd,gmc,pickup,8 cylinders,full-size,4wd
+mdx,acura,SUV,6 cylinders,full-size,4wd
+silverado 1500,chevrolet,truck,8 cylinders,full-size,4wd
+yukon,gmc,SUV,8 cylinders,full-size,4wd
+grand marquis,mercury,sedan,8 cylinders,full-size,rwd
+cooper hardtop,mini,hatchback,4 cylinders,compact,fwd
+express 2500,chevrolet,van,8 cylinders,full-size,rwd
+2500,ram,truck,6 cylinders,full-size,4wd
+f150 xlt 4x4,ford,truck,8 cylinders,full-size,4wd
+corolla,toyota,sedan,4 cylinders,compact,rwd
+cruze,chevrolet,sedan,4 cylinders,mid-size,fwd
+golf r,volkswagen,hatchback,4 cylinders,compact,4wd
+explorer sport trac xlt,ford,pickup,6 cylinders,mid-size,4wd
+lightning svt,ford,pickup,8 cylinders,compact,rwd
+edge,ford,sedan,6 cylinders,full-size,4wd
+charger,dodge,sedan,10 cylinders,compact,4wd
+s2000,honda,convertible,4 cylinders,compact,rwd
+explorer awd,ford,SUV,6 cylinders,full-size,4wd
+passat,volkswagen,sedan,5 cylinders,full-size,fwd
+500 pop,fiat,hatchback,4 cylinders,sub-compact,fwd
+yukon xl denali,gmc,SUV,8 cylinders,full-size,4wd
+q7,audi,SUV,6 cylinders,full-size,4wd
+nitro heat 4x4,dodge,SUV,6 cylinders,full-size,4wd
+a4,audi,wagon,4 cylinders,mid-size,4wd
+cr-v,honda,SUV,4 cylinders,mid-size,fwd
+f-150,ford,truck,8 cylinders,full-size,rwd
+yukon slt,gmc,SUV,8 cylinders,full-size,4wd
+vanagon wolfsburg camper,volkswagen,van,4 cylinders,mid-size,rwd
+santa fe sport,hyundai,SUV,4 cylinders,compact,fwd
+f-150,ford,pickup,8 cylinders,full-size,4wd
+forester,subaru,SUV,4 cylinders,mid-size,4wd
+mustang fastback,ford,hatchback,6 cylinders,mid-size,rwd
+accord ex,honda,sedan,4 cylinders,full-size,fwd
+town/country,chrysler,van,6 cylinders,compact,fwd
+f150,ford,truck,8 cylinders,mid-size,rwd
+2500,chevrolet,pickup,8 cylinders,full-size,rwd
+sonic lt sedan,chevrolet,sedan,4 cylinders,full-size,fwd
+odyssey exl,honda,mini-van,6 cylinders,mid-size,fwd
+gs,lexus,sedan,6 cylinders,compact,4wd
+rav4 awd,toyota,SUV,4 cylinders,compact,4wd
+corolla s,toyota,sedan,4 cylinders,mid-size,fwd
+explorer,ford,SUV,6 cylinders,mid-size,fwd
+sentra,nissan,sedan,4 cylinders,compact,fwd
+e 350 sd 15 pass van,ford,van,8 cylinders,full-size,rwd
+accord,honda,sedan,6 cylinders,mid-size,fwd
+m4,bmw,convertible,6 cylinders,compact,rwd
+accord,honda,coupe,4 cylinders,compact,fwd
+1500,ram,van,6 cylinders,full-size,rwd
+passat,volkswagen,sedan,4 cylinders,mid-size,fwd
+lacrosse cxl 4dr sedan,buick,sedan,6 cylinders,full-size,fwd
+f-150,ford,truck,8 cylinders,full-size,4wd
+traverse,chevrolet,SUV,6 cylinders,full-size,rwd
+traverse lt,chevrolet,SUV,6 cylinders,full-size,fwd
+altima,nissan,sedan,4 cylinders,mid-size,fwd
+f-250,ford,truck,10 cylinders,full-size,rwd
+titan,nissan,pickup,8 cylinders,full-size,4wd
+taurus sel,ford,sedan,6 cylinders,full-size,fwd
+grand caravan,dodge,van,6 cylinders,full-size,fwd
+thunderbird convertible,ford,convertible,8 cylinders,compact,rwd
+malibu ls,chevrolet,sedan,4 cylinders,full-size,fwd
+altima 2.5s,nissan,sedan,4 cylinders,full-size,fwd
+benz e350 4matic,mercedes-benz,sedan,6 cylinders,full-size,4wd
+1500,ram,truck,8 cylinders,mid-size,4wd
+f150,ford,pickup,8 cylinders,full-size,rwd
+grand marquis ls,mercury,sedan,8 cylinders,full-size,rwd
+tacoma,toyota,truck,6 cylinders,mid-size,rwd
+silverado 1500,chevrolet,truck,8 cylinders,mid-size,4wd
+challenger,dodge,coupe,6 cylinders,mid-size,rwd
+odyssey,honda,van,10 cylinders,full-size,4wd
+f-250,ford,pickup,8 cylinders,full-size,4wd
+x1,bmw,SUV,4 cylinders,full-size,4wd
+cabriolet,volkswagen,convertible,4 cylinders,compact,fwd
+f-150 xlt supercab 4x4,ford,pickup,8 cylinders,full-size,4wd
+rav4,toyota,SUV,4 cylinders,full-size,fwd
+genesis,hyundai,sedan,6 cylinders,full-size,rwd
+pilot,honda,SUV,6 cylinders,mid-size,fwd
+fit,honda,sedan,4 cylinders,full-size,fwd
+crown victoria interceptor,ford,sedan,8 cylinders,full-size,rwd
+escape titanium 4wd,ford,SUV,4 cylinders,full-size,4wd
+camaro,chevrolet,coupe,8 cylinders,mid-size,4wd
+benz e320,mercedes-benz,sedan,6 cylinders,mid-size,4wd
+a6,audi,sedan,4 cylinders,full-size,fwd
+sentra,nissan,sedan,4 cylinders,mid-size,fwd
+yukon xl,gmc,SUV,8 cylinders,full-size,rwd
+f-150,ford,truck,6 cylinders,full-size,4wd
+avalanche 1500,chevrolet,SUV,8 cylinders,full-size,rwd
+1500 classic,ram,truck,8 cylinders,mid-size,4wd
+explorer xlt 4x4,ford,SUV,6 cylinders,mid-size,4wd
+safari cargo,gmc,van,6 cylinders,mid-size,rwd
+patriot sport,jeep,SUV,4 cylinders,mid-size,4wd
+corvette,chevrolet,coupe,8 cylinders,mid-size,rwd
+645ci,bmw,convertible,8 cylinders,mid-size,rwd
+sentra,nissan,sedan,6 cylinders,mid-size,rwd
+5500,ram,truck,6 cylinders,full-size,4wd
+odyssey ex-l,honda,van,6 cylinders,full-size,fwd
+charger,dodge,sedan,6 cylinders,mid-size,rwd
+gs 350,lexus,sedan,6 cylinders,mid-size,rwd
+frontier crew cab,nissan,pickup,6 cylinders,mid-size,4wd
+compass latitude,jeep,SUV,4 cylinders,mid-size,4wd
+f250 xlt crew 4x4 diesel,ford,pickup,8 cylinders,full-size,4wd
+corornet,dodge,coupe,8 cylinders,full-size,rwd
+topkick c7500 boom truck,gmc,truck,8 cylinders,full-size,rwd
+enclave,buick,SUV,6 cylinders,mid-size,4wd
+1500,chevrolet,truck,8 cylinders,full-size,rwd
+cooper s,mini,coupe,4 cylinders,compact,fwd
+740gl,volvo,sedan,4 cylinders,full-size,rwd
+pt cruiser,chrysler,convertible,4 cylinders,mid-size,fwd
+prius,toyota,hatchback,4 cylinders,sub-compact,fwd
+big horn,ram,truck,8 cylinders,full-size,rwd
+xv crosstrek,subaru,SUV,4 cylinders,compact,4wd
+outlook,saturn,SUV,6 cylinders,full-size,4wd
+dakota,dodge,pickup,8 cylinders,mid-size,4wd
+camaro,chevrolet,coupe,6 cylinders,full-size,rwd
+econoline,ford,van,8 cylinders,full-size,rwd
+ls v8,lincoln,sedan,8 cylinders,full-size,rwd
+escalade,cadillac,SUV,10 cylinders,full-size,4wd
+f150 xlt,ford,pickup,8 cylinders,full-size,4wd
+cherokee trailhawk 4x4 gas,jeep,SUV,4 cylinders,mid-size,fwd
+edge limited,ford,SUV,6 cylinders,full-size,4wd
+sierra,gmc,truck,8 cylinders,full-size,4wd
+fusion,ford,sedan,4 cylinders,mid-size,fwd
+300,chrysler,sedan,6 cylinders,full-size,fwd
+frontier,nissan,truck,4 cylinders,mid-size,rwd
+tundra,toyota,truck,10 cylinders,full-size,4wd
+mx-5 miata,mazda,convertible,4 cylinders,mid-size,rwd
+grand cherokee laredo 4x4,jeep,SUV,6 cylinders,mid-size,4wd
+1500,ram,truck,8 cylinders,full-size,4wd
+grand cherokee,jeep,SUV,6 cylinders,full-size,rwd
+3-series,bmw,sedan,6 cylinders,compact,rwd
+gs 450h,lexus,sedan,6 cylinders,mid-size,rwd
+mustang,ford,coupe,6 cylinders,mid-size,rwd
+3500 slt,ram,truck,6 cylinders,full-size,4wd
+accord,honda,sedan,6 cylinders,full-size,rwd
+es300,lexus,sedan,6 cylinders,mid-size,fwd
+sonata,hyundai,sedan,4 cylinders,mid-size,fwd
+sierra 1500 sle crew,gmc,pickup,8 cylinders,full-size,4wd
+suburban,chevrolet,SUV,8 cylinders,full-size,rwd
+500 pop 2dr hatchback,fiat,hatchback,4 cylinders,sub-compact,fwd
+wrangler,jeep,SUV,10 cylinders,full-size,4wd
+fusion se,ford,sedan,4 cylinders,compact,fwd
+escape,ford,SUV,4 cylinders,mid-size,fwd
+bel air,chevrolet,sedan,8 cylinders,full-size,rwd
+impala,chevrolet,coupe,8 cylinders,full-size,rwd
+tundra crewmax,toyota,truck,8 cylinders,full-size,4wd
+focus se,ford,sedan,4 cylinders,compact,fwd
+trax,chevrolet,wagon,4 cylinders,compact,4wd
+passat se,volkswagen,sedan,3 cylinders,full-size,fwd
+juke,nissan,wagon,4 cylinders,compact,fwd
+scion xb,toyota,hatchback,4 cylinders,mid-size,fwd
+silverado hd ext cab,chevrolet,truck,8 cylinders,full-size,rwd
+silverado 1500,chevrolet,pickup,8 cylinders,full-size,4wd
+impreza awd,subaru,wagon,4 cylinders,mid-size,4wd
+civic,honda,sedan,4 cylinders,compact,fwd
+solstice,pontiac,convertible,4 cylinders,compact,rwd
+camry solara sle,toyota,sedan,4 cylinders,full-size,fwd
+b4000,mazda,pickup,6 cylinders,compact,rwd
+f-type,jaguar,coupe,6 cylinders,compact,rwd
+f-150,ford,pickup,8 cylinders,full-size,fwd
+patriot,jeep,SUV,4 cylinders,compact,fwd
+sierra 1500,gmc,pickup,6 cylinders,full-size,4wd
+metris cargo 3dr,mercedes-benz,van,4 cylinders,full-size,fwd
+q5,audi,SUV,4 cylinders,full-size,4wd
+terrain slt1,gmc,SUV,4 cylinders,mid-size,4wd
+yukon hybrid,gmc,SUV,8 cylinders,full-size,rwd
+silverado lt z71,chevrolet,truck,8 cylinders,compact,4wd
+challenger srt8,dodge,coupe,8 cylinders,full-size,rwd
+tahoe ltz,chevrolet,SUV,8 cylinders,full-size,4wd
+yaris hatchback,toyota,coupe,4 cylinders,compact,fwd
+veloster,hyundai,coupe,4 cylinders,compact,fwd
+traverse lt2,chevrolet,SUV,6 cylinders,full-size,fwd
+200 limited sedan 4d,chrysler,sedan,4 cylinders,mid-size,fwd
+sorento,kia,SUV,6 cylinders,mid-size,rwd
+corolla,toyota,sedan,6 cylinders,compact,fwd
+fx35,infiniti,SUV,6 cylinders,compact,rwd
+silverado 2500 diesel,chevrolet,truck,8 cylinders,full-size,4wd
+sierra 2500hd,gmc,truck,8 cylinders,full-size,4wd
+captiva sport,chevrolet,SUV,4 cylinders,mid-size,fwd
+camara ss 2ss coupe,chevrolet,coupe,8 cylinders,compact,rwd
+4runner,toyota,SUV,6 cylinders,mid-size,4wd
+tundra,toyota,truck,8 cylinders,mid-size,4wd
+740i,bmw,sedan,6 cylinders,full-size,rwd
+focus,ford,hatchback,4 cylinders,compact,fwd
+2 dr sedan deluxe,ford,sedan,8 cylinders,full-size,rwd
+expedition,ford,SUV,8 cylinders,full-size,4wd
+camry le,toyota,sedan,4 cylinders,mid-size,fwd
+650i,bmw,other,8 cylinders,sub-compact,rwd
+f150 xlt 4x4,ford,pickup,6 cylinders,full-size,4wd
+sienna,toyota,mini-van,6 cylinders,full-size,fwd
+edge 4dr sel fwd,ford,sedan,6 cylinders,mid-size,fwd
+impala,chevrolet,sedan,6 cylinders,mid-size,fwd
+spark,chevrolet,hatchback,4 cylinders,sub-compact,fwd
+optima,kia,sedan,4 cylinders,full-size,fwd
+/ wrangler,jeep,other,6 cylinders,mid-size,4wd
+corrolla,toyota,sedan,4 cylinders,compact,fwd
+3-series,bmw,coupe,6 cylinders,sub-compact,rwd
+3500,ram,pickup,6 cylinders,full-size,4wd
+expedition xlt,ford,SUV,8 cylinders,full-size,4wd
+tahoe ls,chevrolet,SUV,8 cylinders,full-size,rwd
+jetta gli,volkswagen,sedan,4 cylinders,compact,fwd
+sport,rover,SUV,6 cylinders,full-size,4wd
+avalon,toyota,coupe,6 cylinders,full-size,fwd
+taurus,ford,sedan,6 cylinders,mid-size,fwd
+highlander limited,toyota,SUV,6 cylinders,mid-size,4wd
+mustang gt convertible,ford,convertible,8 cylinders,compact,rwd
+s550,mercedes-benz,sedan,8 cylinders,full-size,4wd
+outback limited,subaru,wagon,4 cylinders,compact,4wd
+impala,chevrolet,sedan,6 cylinders,full-size,fwd
+tacoma,toyota,truck,6 cylinders,mid-size,4wd
+rogue sport,nissan,SUV,4 cylinders,compact,fwd
+focus zx5 se,ford,hatchback,4 cylinders,compact,fwd
+es350,lexus,sedan,6 cylinders,mid-size,fwd
+nova,chevrolet,coupe,8 cylinders,full-size,rwd
+cherokee fwd 4dr latitude,jeep,SUV,4 cylinders,mid-size,fwd
+ls,lincoln,sedan,6 cylinders,compact,rwd
+outback,subaru,wagon,4 cylinders,mid-size,4wd
+5 series,bmw,sedan,8 cylinders,compact,rwd
+f-550,ford,truck,10 cylinders,full-size,rwd
+frontier,nissan,truck,4 cylinders,full-size,rwd
+concorde lxi,chrysler,sedan,6 cylinders,mid-size,fwd
+five hundred,ford,sedan,6 cylinders,mid-size,fwd
+civic,honda,coupe,4 cylinders,compact,fwd
+wrangler,jeep,SUV,6 cylinders,full-size,fwd
+odyssey ex-l,honda,mini-van,6 cylinders,full-size,fwd
+rogue sv awd,nissan,SUV,4 cylinders,mid-size,4wd
+mustang,ford,coupe,6 cylinders,full-size,rwd
+4runner,toyota,SUV,8 cylinders,full-size,4wd
+suburban,chevrolet,SUV,8 cylinders,full-size,4wd
+cx-7,mazda,SUV,4 cylinders,compact,fwd
+prius,toyota,hatchback,4 cylinders,mid-size,fwd
+sienna le,toyota,van,6 cylinders,full-size,rwd
+328i x-drive,bmw,sedan,6 cylinders,compact,4wd
+durango,dodge,SUV,8 cylinders,full-size,4wd
+f-250 super duty xl,ford,pickup,8 cylinders,full-size,rwd
+c7c042,gmc,truck,6 cylinders,full-size,rwd
+rogue,nissan,SUV,4 cylinders,full-size,4wd
+cx-5,mazda,SUV,4 cylinders,full-size,rwd
+silverado 1500 crew cab,chevrolet,pickup,8 cylinders,full-size,4wd
+optima,kia,sedan,4 cylinders,mid-size,fwd
+odyssey ex,honda,mini-van,6 cylinders,mid-size,fwd
+tundra 4wd truck,toyota,truck,8 cylinders,full-size,4wd
+fusion hybrid,ford,sedan,4 cylinders,mid-size,fwd
+camaro,chevrolet,convertible,6 cylinders,mid-size,rwd
+challenger,dodge,coupe,8 cylinders,full-size,rwd
+f-350 super duty,ford,pickup,10 cylinders,full-size,4wd
+dakota r/t,dodge,truck,8 cylinders,mid-size,4wd
+m5,bmw,sedan,8 cylinders,mid-size,rwd
+town car,lincoln,sedan,8 cylinders,full-size,rwd
+f350 lariat,ford,truck,8 cylinders,full-size,4wd
+sienna,toyota,van,6 cylinders,mid-size,fwd
+tahoe ltz,chevrolet,SUV,8 cylinders,full-size,fwd
+grand prix,pontiac,other,8 cylinders,full-size,rwd
+avalon limited,toyota,sedan,6 cylinders,full-size,fwd
+xc60,volvo,SUV,6 cylinders,mid-size,4wd
+forester x,subaru,sedan,4 cylinders,full-size,4wd
+tahoe,chevrolet,SUV,8 cylinders,full-size,4wd
+murano,nissan,SUV,6 cylinders,full-size,4wd
+scion tc trd,toyota,hatchback,4 cylinders,mid-size,fwd
+express,chevrolet,truck,8 cylinders,full-size,rwd
+528i,bmw,sedan,4 cylinders,full-size,rwd
+escape limited,ford,SUV,6 cylinders,compact,fwd
+vibe,pontiac,hatchback,4 cylinders,mid-size,fwd
+edge,ford,SUV,6 cylinders,mid-size,fwd
+civic cpe,honda,coupe,4 cylinders,sub-compact,fwd
+seville,cadillac,sedan,8 cylinders,mid-size,fwd
+excursion xlt,ford,SUV,8 cylinders,full-size,4wd
+g35 coupe,infiniti,coupe,6 cylinders,mid-size,rwd
+murano,nissan,SUV,6 cylinders,mid-size,fwd
+legacy,subaru,sedan,4 cylinders,compact,4wd
+highlander,toyota,SUV,6 cylinders,mid-size,4wd
+4runner sport,toyota,SUV,8 cylinders,full-size,4wd
+1500 slt 4x4,ram,truck,8 cylinders,full-size,4wd
+camry le 4dr sedan,toyota,sedan,4 cylinders,mid-size,fwd
+sl-class,mercedes-benz,convertible,8 cylinders,mid-size,rwd
+f-350,ford,pickup,8 cylinders,full-size,4wd
+escape xlt,ford,SUV,6 cylinders,mid-size,4wd
+f450 crew cab 11,ford,truck,8 cylinders,full-size,rwd
+cherokee,jeep,SUV,6 cylinders,mid-size,4wd
+monterey breezeway,mercury,coupe,8 cylinders,full-size,rwd
+sienna le,toyota,mini-van,6 cylinders,mid-size,fwd
+jetta tdi,volkswagen,sedan,4 cylinders,compact,fwd
+f-150 xlt crewcab 4x4,ford,pickup,8 cylinders,full-size,4wd
+avenger se,dodge,sedan,4 cylinders,compact,fwd
+explorer 4x4,ford,SUV,6 cylinders,full-size,4wd
+transit t150,ford,van,6 cylinders,full-size,rwd
+silverado 1500 lt 4x4,chevrolet,truck,8 cylinders,full-size,4wd
+silverado 1500,chevrolet,pickup,6 cylinders,full-size,rwd
+taurus,ford,sedan,6 cylinders,full-size,fwd
+silverado 2500 crewcab,chevrolet,pickup,8 cylinders,full-size,4wd
+s-10,chevrolet,truck,6 cylinders,mid-size,4wd
+acadia,gmc,SUV,6 cylinders,full-size,fwd
+highlander,toyota,SUV,6 cylinders,full-size,4wd
+pilot,honda,wagon,6 cylinders,compact,fwd
+model s,tesla,sedan,other,full-size,4wd
+trailblazer,chevrolet,SUV,6 cylinders,full-size,4wd
+tahoe,chevrolet,SUV,8 cylinders,full-size,rwd
+c-class,mercedes-benz,sedan,6 cylinders,compact,rwd
+f-250 sd,ford,truck,8 cylinders,full-size,rwd
+e350 cutaway,ford,van,8 cylinders,full-size,rwd
+f-250 xlt,ford,truck,8 cylinders,compact,4wd
+wrx,subaru,sedan,4 cylinders,full-size,4wd
+civic lx,honda,sedan,4 cylinders,compact,fwd
+uplander ls,chevrolet,mini-van,6 cylinders,full-size,fwd
+"sprinter 2500, 158""wb",dodge,van,5 cylinders,full-size,rwd
+enclave cxl,buick,SUV,6 cylinders,full-size,4wd
+soul,kia,wagon,4 cylinders,mid-size,fwd
+ranger sport,ford,pickup,6 cylinders,compact,4wd
+silverado,chevrolet,truck,8 cylinders,full-size,4wd
+5 series,bmw,sedan,6 cylinders,mid-size,4wd
+gti,volkswagen,hatchback,4 cylinders,compact,4wd
+escalade premium,cadillac,SUV,8 cylinders,full-size,rwd
+edge,ford,SUV,6 cylinders,mid-size,4wd
+miata mx-5,mazda,convertible,4 cylinders,compact,rwd
+x5,bmw,SUV,8 cylinders,full-size,4wd
+f-150,ford,truck,6 cylinders,mid-size,4wd
+4500 st regular cab fltbd,ram,truck,6 cylinders,full-size,4wd
+ranger,ford,pickup,6 cylinders,mid-size,4wd
+wrangler,jeep,SUV,6 cylinders,mid-size,rwd
+rogue awd,nissan,SUV,4 cylinders,mid-size,4wd
+silverado 1500,chevrolet,truck,6 cylinders,full-size,rwd
+accent,hyundai,sedan,4 cylinders,sub-compact,fwd
+tahoe ltz,chevrolet,SUV,8 cylinders,full-size,rwd
+corolla,toyota,sedan,4 cylinders,compact,fwd
+silverado,chevrolet,pickup,8 cylinders,full-size,4wd
+envoy sle 4wd,gmc,SUV,6 cylinders,mid-size,4wd
+transit connect,ford,mini-van,4 cylinders,mid-size,fwd
+prius 3,toyota,hatchback,4 cylinders,mid-size,fwd
+x5,bmw,SUV,6 cylinders,full-size,4wd
+cadenza limited,kia,sedan,6 cylinders,full-size,fwd
+corrolla s,toyota,sedan,4 cylinders,sub-compact,fwd
+mustang v6 premium,ford,coupe,6 cylinders,mid-size,rwd
+tacoma,toyota,truck,4 cylinders,full-size,rwd
+f250 super duty lariat,ford,truck,8 cylinders,full-size,4wd
+es 330,lexus,sedan,6 cylinders,mid-size,fwd
+city express cargo,chevrolet,van,4 cylinders,mid-size,fwd
+town & country,chrysler,van,6 cylinders,full-size,fwd
+versa note,nissan,hatchback,4 cylinders,sub-compact,fwd
+encore,buick,SUV,4 cylinders,mid-size,fwd
+camry 2000,toyota,sedan,4 cylinders,mid-size,fwd
+silverado 1500,chevrolet,truck,6 cylinders,full-size,4wd
+ranger,ford,pickup,6 cylinders,mid-size,rwd
+silverado,chevrolet,pickup,8 cylinders,full-size,rwd
+sonata limited,hyundai,sedan,4 cylinders,full-size,fwd
+cherokee,jeep,SUV,6 cylinders,compact,4wd
+3500,ram,truck,6 cylinders,full-size,4wd
+bonanza,chevrolet,truck,8 cylinders,full-size,rwd
+passat se,volkswagen,sedan,5 cylinders,full-size,fwd
+1500 avalanche,chevrolet,truck,8 cylinders,full-size,rwd
+silverado,chevrolet,truck,6 cylinders,full-size,4wd
+patriot,jeep,SUV,4 cylinders,mid-size,fwd
+outlander,mitsubishi,SUV,4 cylinders,compact,fwd
+2500,ram,truck,8 cylinders,full-size,rwd
+silverado 1500 4x4,chevrolet,pickup,8 cylinders,full-size,4wd
+volt premium,chevrolet,sedan,4 cylinders,compact,fwd
+325i,bmw,sedan,6 cylinders,compact,rwd
+genesis coupe,hyundai,coupe,4 cylinders,mid-size,rwd
+c230 kompressor,mercedes-benz,sedan,4 cylinders,mid-size,rwd
+wrangler,jeep,SUV,4 cylinders,full-size,4wd
+ranier,buick,SUV,5 cylinders,sub-compact,4wd
+f-150 xlt,ford,truck,8 cylinders,full-size,rwd
+corvette,chevrolet,coupe,8 cylinders,sub-compact,rwd
+suburban 1500,chevrolet,SUV,8 cylinders,full-size,rwd
+mkz,lincoln,sedan,6 cylinders,mid-size,fwd
+pathfinder,nissan,SUV,6 cylinders,mid-size,4wd
+box truck,ram,truck,8 cylinders,full-size,4wd
+f250 super duty,ford,truck,8 cylinders,full-size,4wd
+accord lx,honda,sedan,4 cylinders,full-size,fwd
+navigator,lincoln,van,6 cylinders,full-size,4wd
+g35 coupe,infiniti,coupe,6 cylinders,compact,rwd
+rx350 f sport awd,lexus,SUV,6 cylinders,full-size,4wd
+3500 bighorn,ram,truck,8 cylinders,full-size,4wd
+enclave,buick,SUV,6 cylinders,full-size,fwd
+1500,ram,pickup,6 cylinders,full-size,rwd
+econoline commercial cutaway,ford,truck,8 cylinders,full-size,rwd
+suburban ltz,chevrolet,SUV,8 cylinders,full-size,rwd
+g3500 extended cargo van,chevrolet,van,8 cylinders,full-size,rwd
+f150 xl,ford,truck,6 cylinders,full-size,rwd
+sierra 1500 denali,gmc,truck,8 cylinders,full-size,4wd
+flex,ford,SUV,6 cylinders,full-size,4wd
+santa fe,hyundai,SUV,6 cylinders,full-size,4wd
+highlander awd,toyota,SUV,6 cylinders,mid-size,4wd
+f-550,ford,truck,8 cylinders,full-size,4wd
+highlander awd,toyota,SUV,6 cylinders,full-size,4wd
+soul,kia,wagon,4 cylinders,compact,fwd
+escape,ford,SUV,6 cylinders,full-size,fwd
+compass,jeep,SUV,4 cylinders,compact,fwd
+optima,kia,sedan,4 cylinders,compact,fwd
+express cargo van,chevrolet,van,8 cylinders,full-size,rwd
+c-class,mercedes-benz,sedan,4 cylinders,compact,rwd
+altima s sedan 2.5l auto,nissan,sedan,4 cylinders,mid-size,fwd
+fusion sel,ford,sedan,4 cylinders,mid-size,fwd
+c-20,chevrolet,pickup,8 cylinders,full-size,rwd
+tacoma trd sport longbed,toyota,truck,6 cylinders,mid-size,4wd
+crown victoria lx,ford,sedan,8 cylinders,full-size,rwd
+corolla le,toyota,sedan,4 cylinders,compact,fwd
+rx 350,lexus,SUV,6 cylinders,mid-size,4wd
+e300 4matic,mercedes-benz,sedan,4 cylinders,full-size,4wd
+altima sl,nissan,sedan,4 cylinders,full-size,fwd
+passat,volkswagen,wagon,4 cylinders,mid-size,fwd
+lancer,mitsubishi,sedan,4 cylinders,compact,fwd
+rogue,nissan,SUV,4 cylinders,compact,fwd
+3,mazda,sedan,4 cylinders,full-size,fwd
+terrain,gmc,SUV,4 cylinders,mid-size,fwd
+5 series 528i,bmw,sedan,6 cylinders,mid-size,rwd
+edge sel,ford,SUV,6 cylinders,mid-size,fwd
+accord 1991,honda,sedan,4 cylinders,compact,fwd
+forester 2.5 x premium,subaru,wagon,4 cylinders,mid-size,4wd
+super duty f-350 drw,ford,pickup,8 cylinders,full-size,4wd
+f-250,ford,pickup,6 cylinders,full-size,4wd
+titan,nissan,truck,8 cylinders,full-size,rwd
+landcruiser,toyota,offroad,6 cylinders,full-size,4wd
+outback awd,subaru,wagon,4 cylinders,mid-size,4wd
+escalade,cadillac,pickup,8 cylinders,full-size,4wd
+silverado 2500 hd,chevrolet,truck,8 cylinders,full-size,rwd
+malibu ltz,chevrolet,mini-van,6 cylinders,mid-size,fwd
+charger,dodge,sedan,6 cylinders,full-size,rwd
+sportage,kia,other,4 cylinders,mid-size,fwd
+milan i-4 4dr sedan,mercury,sedan,4 cylinders,compact,fwd
+300,chrysler,sedan,6 cylinders,full-size,rwd
+slk 230,mercedes-benz,coupe,4 cylinders,compact,rwd
+2500,ram,pickup,6 cylinders,full-size,4wd
+f-250,ford,pickup,8 cylinders,full-size,rwd
+versa sv sedan,nissan,sedan,4 cylinders,compact,fwd
+f-150 crew cab,ford,truck,8 cylinders,full-size,fwd
+vandura 2500,gmc,van,8 cylinders,full-size,rwd
+mx-5 miata,mazda,convertible,4 cylinders,sub-compact,rwd
+f150,ford,truck,8 cylinders,full-size,4wd
+tundra limited 2owner lo,toyota,pickup,8 cylinders,full-size,rwd
+silverado 2500hd,chevrolet,truck,8 cylinders,full-size,fwd
+elantra,hyundai,sedan,4 cylinders,compact,fwd
+civic,honda,sedan,4 cylinders,sub-compact,fwd
+1500,ram,pickup,8 cylinders,full-size,rwd
+frontier sv,nissan,truck,4 cylinders,full-size,rwd
+e320,mercedes-benz,sedan,6 cylinders,mid-size,rwd
+cls550,mercedes-benz,coupe,8 cylinders,full-size,rwd
+f150,ford,truck,6 cylinders,full-size,4wd
+crv,honda,SUV,4 cylinders,full-size,fwd
+terrain awd,gmc,SUV,4 cylinders,full-size,4wd
+elantra touring se,hyundai,hatchback,4 cylinders,compact,fwd
+cx-7,mazda,SUV,4 cylinders,mid-size,fwd
+miata,mazda,convertible,4 cylinders,compact,rwd
+rx 330,lexus,SUV,6 cylinders,mid-size,fwd
+equinox lt,chevrolet,SUV,4 cylinders,full-size,fwd
+murano sl awd,nissan,SUV,6 cylinders,mid-size,4wd
+s500,mercedes-benz,sedan,8 cylinders,full-size,rwd
+gti 2.0t,volkswagen,wagon,4 cylinders,compact,fwd
+grand cherokee,jeep,SUV,6 cylinders,mid-size,rwd
+legacy,subaru,sedan,4 cylinders,mid-size,4wd
+dts,cadillac,sedan,8 cylinders,full-size,fwd
+escape,ford,SUV,6 cylinders,mid-size,4wd
+a4 2.0t quattro,audi,sedan,4 cylinders,mid-size,4wd
+dakota,dodge,pickup,8 cylinders,mid-size,rwd
+f350,ford,truck,8 cylinders,full-size,rwd
+grand am,pontiac,sedan,4 cylinders,compact,fwd
+f250,ford,truck,8 cylinders,full-size,4wd
+equinox,chevrolet,SUV,4 cylinders,full-size,4wd
+mazda3,mazda,sedan,4 cylinders,compact,fwd
+clk-class 500,mercedes-benz,coupe,8 cylinders,mid-size,rwd
+fusion sel awd,ford,sedan,6 cylinders,full-size,4wd
+accord cpe,honda,coupe,4 cylinders,mid-size,fwd
+hhr lt,chevrolet,truck,4 cylinders,compact,fwd
+f550,ford,truck,10 cylinders,full-size,4wd
+silverado 1500 lt 4x4,chevrolet,pickup,8 cylinders,full-size,4wd
+3500 4x4,ram,pickup,6 cylinders,full-size,4wd
+mustang gt,ford,coupe,8 cylinders,mid-size,rwd
+fiesta se,ford,sedan,10 cylinders,compact,4wd
+sierra 1500,gmc,pickup,8 cylinders,full-size,rwd
+freestyle sel,ford,wagon,6 cylinders,mid-size,fwd
+cc,volkswagen,sedan,4 cylinders,mid-size,fwd
+yukon xl,gmc,SUV,8 cylinders,full-size,4wd
+patriot latitude,jeep,SUV,4 cylinders,full-size,4wd
+trailblazer,chevrolet,SUV,6 cylinders,mid-size,4wd
+wrangler sahara unlimited,jeep,offroad,6 cylinders,full-size,4wd
+escape se,ford,SUV,4 cylinders,mid-size,fwd
+grand cherokee laredo,jeep,SUV,6 cylinders,full-size,4wd
+edge sel,ford,SUV,6 cylinders,mid-size,4wd
+3500,chevrolet,truck,8 cylinders,full-size,rwd
+sentra s,nissan,sedan,4 cylinders,mid-size,fwd
+avalanche lt,chevrolet,truck,8 cylinders,full-size,rwd
+f250 lariat 4x4,ford,truck,8 cylinders,full-size,4wd
+2500 meg0a cab,ram,pickup,6 cylinders,full-size,4wd
+cls 550,mercedes-benz,sedan,8 cylinders,compact,rwd
+fj cruiser,toyota,SUV,6 cylinders,full-size,4wd
+taurus,ford,sedan,4 cylinders,full-size,4wd
+camry,toyota,SUV,4 cylinders,full-size,fwd
+camaro,chevrolet,coupe,10 cylinders,mid-size,4wd
+sienna le,toyota,mini-van,6 cylinders,full-size,fwd
+c-max energi,ford,hatchback,4 cylinders,compact,fwd
+cooper,mini,convertible,4 cylinders,mid-size,fwd
+express 3500,chevrolet,van,8 cylinders,full-size,rwd
+benz e350,mercedes-benz,sedan,6 cylinders,mid-size,4wd
+f-150 xlt,ford,truck,8 cylinders,mid-size,4wd
+escape s,ford,SUV,4 cylinders,mid-size,fwd
+c7e042,gmc,truck,6 cylinders,full-size,rwd
+traverse,chevrolet,SUV,6 cylinders,full-size,fwd
+altima,nissan,sedan,4 cylinders,full-size,fwd
+dart,dodge,sedan,4 cylinders,compact,fwd
+500 abarth,fiat,hatchback,4 cylinders,compact,fwd
+f-150 xlt 4x4,ford,truck,8 cylinders,full-size,4wd
+mustang,ford,coupe,8 cylinders,compact,rwd
+clubman,mini,wagon,4 cylinders,compact,fwd
+corvette,chevrolet,other,8 cylinders,compact,rwd
+nitro slt,dodge,SUV,6 cylinders,full-size,rwd
+versa,nissan,sedan,4 cylinders,compact,fwd
+g20 van,chevrolet,van,8 cylinders,full-size,rwd
+sierra 1500,gmc,pickup,6 cylinders,full-size,rwd
+intrepid,dodge,sedan,4 cylinders,mid-size,fwd
+wrangler unlimited,jeep,convertible,6 cylinders,full-size,4wd
+pathfinder sl,nissan,SUV,6 cylinders,full-size,fwd
+4runner sr5,toyota,SUV,6 cylinders,compact,4wd
+terrian,gmc,SUV,4 cylinders,mid-size,fwd
+f-350 sd,ford,truck,8 cylinders,full-size,rwd
+benz s430 4matic,mercedes-benz,sedan,8 cylinders,full-size,4wd
+silverado,chevrolet,truck,8 cylinders,full-size,fwd
+4runner 4wd,toyota,SUV,6 cylinders,mid-size,4wd
+wrangler yj 4x4,jeep,convertible,4 cylinders,mid-size,4wd
+sienna,toyota,van,6 cylinders,full-size,4wd
+miata mx-5 touring,mazda,convertible,4 cylinders,compact,rwd
+cls-class,mercedes-benz,sedan,8 cylinders,mid-size,rwd
+challenger,dodge,coupe,10 cylinders,mid-size,4wd
+colorado,chevrolet,pickup,4 cylinders,mid-size,rwd
+forester,subaru,wagon,4 cylinders,mid-size,4wd
+econoline,ford,van,8 cylinders,mid-size,rwd
+civic,honda,hatchback,4 cylinders,compact,fwd
+1500 tradesman 4wd,ram,truck,8 cylinders,full-size,4wd
+1500,ram,truck,8 cylinders,mid-size,rwd
+silverado 2500hd 4x4,chevrolet,truck,8 cylinders,full-size,4wd
+tundra 4x4 double cab,toyota,pickup,8 cylinders,full-size,4wd
+avalanche,chevrolet,truck,8 cylinders,full-size,fwd
+corvette,chevrolet,coupe,8 cylinders,compact,rwd
+explorer,ford,SUV,6 cylinders,mid-size,4wd
+beetle,volkswagen,coupe,4 cylinders,compact,fwd
+accord,honda,sedan,4 cylinders,full-size,fwd
+encore,buick,SUV,4 cylinders,compact,fwd
+cc 2.0t - leather and heated seats - bluetooth -,volkswagen,sedan,4 cylinders,mid-size,fwd
+prius,toyota,sedan,4 cylinders,mid-size,fwd
+fusion energi plug-in,ford,sedan,4 cylinders,mid-size,fwd
+mdx,acura,SUV,6 cylinders,mid-size,4wd
+camaro,chevrolet,coupe,6 cylinders,compact,rwd
+4runner sr5,toyota,SUV,6 cylinders,mid-size,rwd
+legacy 2.5i premium,subaru,sedan,4 cylinders,mid-size,4wd
+mustang ecoboost premium,ford,convertible,4 cylinders,full-size,rwd
+tundra 4wd truck,toyota,pickup,8 cylinders,full-size,4wd
+duramax,chevrolet,truck,8 cylinders,full-size,4wd
+highlander sport,toyota,SUV,6 cylinders,mid-size,fwd
+mazda3 touring,mazda,sedan,4 cylinders,compact,fwd
+frontier,nissan,truck,6 cylinders,full-size,4wd
+f150 xlt,ford,pickup,8 cylinders,full-size,rwd
+2500 mega cab 2wd,ram,truck,6 cylinders,full-size,rwd
+150 d,ford,van,8 cylinders,full-size,rwd
+equinox,chevrolet,SUV,4 cylinders,full-size,fwd
+odyssey,honda,van,6 cylinders,full-size,fwd
+slk350,mercedes-benz,convertible,6 cylinders,compact,rwd
+express cargo van,chevrolet,van,6 cylinders,full-size,rwd
+accord,honda,sedan,4 cylinders,mid-size,fwd
+g37 sedan,infiniti,sedan,6 cylinders,mid-size,fwd
+tundra 2wd truck,toyota,truck,8 cylinders,mid-size,rwd
+tahoe,chevrolet,SUV,8 cylinders,mid-size,rwd
+excursion eddie bauer 4 x 4,ford,SUV,8 cylinders,full-size,4wd
+sportage lx awd,kia,SUV,4 cylinders,mid-size,4wd
+altima,nissan,sedan,6 cylinders,mid-size,fwd
+300zx 2+2,nissan,coupe,6 cylinders,compact,rwd
+f-650,ford,other,6 cylinders,full-size,rwd
+veracruz,hyundai,SUV,6 cylinders,full-size,fwd
+camry xle,toyota,sedan,6 cylinders,compact,fwd
+cx5 grand touring,mazda,SUV,4 cylinders,mid-size,4wd
+patriot latitude,jeep,SUV,4 cylinders,mid-size,4wd
+x5 sdrive35i,bmw,SUV,6 cylinders,full-size,rwd
+silverado,chevrolet,truck,6 cylinders,sub-compact,4wd
+passat tdi,volkswagen,sedan,4 cylinders,full-size,fwd
+prius,toyota,sedan,4 cylinders,compact,fwd
+s80,volvo,truck,12 cylinders,full-size,rwd
+f-250 super duty diesel tr,ford,truck,8 cylinders,full-size,4wd
+silverado 1500,chevrolet,pickup,8 cylinders,full-size,rwd
+flex limited,ford,SUV,6 cylinders,full-size,rwd
+q70l,infiniti,sedan,10 cylinders,compact,4wd
+transit connect,ford,van,4 cylinders,mid-size,fwd
+grand caravan,dodge,van,6 cylinders,mid-size,fwd
+durango awd,dodge,SUV,6 cylinders,full-size,4wd
+focus,ford,sedan,4 cylinders,full-size,fwd
+z3,bmw,convertible,6 cylinders,compact,rwd
+3 series 335i,bmw,sedan,6 cylinders,mid-size,rwd
+sienna,toyota,van,6 cylinders,full-size,fwd
+gx470 4wd,lexus,SUV,8 cylinders,full-size,4wd
+wrangler unlimited sport s,jeep,SUV,6 cylinders,full-size,4wd
+savana 3500 utility van,gmc,van,8 cylinders,full-size,rwd
+"is 250 c , convertible",lexus,convertible,6 cylinders,compact,rwd
+e350,mercedes-benz,coupe,6 cylinders,full-size,rwd
+eldorado biarritz,cadillac,coupe,8 cylinders,full-size,rwd
+city express,chevrolet,van,4 cylinders,mid-size,fwd
+tucson gl,hyundai,SUV,4 cylinders,compact,fwd
+dakota slt crew cab,dodge,truck,8 cylinders,full-size,4wd
+mks,lincoln,sedan,6 cylinders,full-size,fwd
+7-series,bmw,sedan,8 cylinders,compact,rwd
+wrangler unlimited sahara,jeep,SUV,6 cylinders,full-size,4wd
+f-350,ford,truck,8 cylinders,full-size,4wd
+camry le,toyota,sedan,6 cylinders,mid-size,fwd
+1500 4x4 quad cab,ram,truck,8 cylinders,full-size,4wd
+x3 sport,bmw,SUV,6 cylinders,compact,4wd
+rav4,toyota,SUV,4 cylinders,mid-size,4wd
+300c hemi,chrysler,sedan,8 cylinders,full-size,rwd
+2500 suburban,chevrolet,SUV,8 cylinders,full-size,rwd
+soul,kia,SUV,4 cylinders,full-size,fwd
+impreza outback sport,subaru,hatchback,4 cylinders,compact,fwd
+mkz,lincoln,sedan,4 cylinders,full-size,fwd
+f550 super duty xlt,ford,truck,8 cylinders,full-size,4wd
+corvette,chevrolet,coupe,8 cylinders,full-size,fwd
+mazda6,mazda,sedan,4 cylinders,mid-size,fwd
+benz ml350,mercedes-benz,SUV,6 cylinders,full-size,4wd
+econoline,ford,truck,8 cylinders,full-size,rwd
+ats,cadillac,sedan,4 cylinders,full-size,rwd
+1500 slt 4x4,ram,pickup,8 cylinders,full-size,4wd
+patriot sport,jeep,sedan,4 cylinders,compact,fwd
+transit t-350,ford,van,6 cylinders,full-size,rwd
+f-350 super duty,ford,truck,8 cylinders,full-size,rwd
+xj6 sedan,jaguar,sedan,6 cylinders,full-size,rwd
+silverado 1500 lt1 4x4,chevrolet,truck,8 cylinders,full-size,4wd
+vue hybrid,saturn,SUV,4 cylinders,mid-size,fwd
+1500,ram,truck,8 cylinders,full-size,rwd
+3-series,bmw,convertible,6 cylinders,mid-size,rwd
+cherokee latitude,jeep,SUV,4 cylinders,mid-size,fwd
+silverado 3500hd,chevrolet,pickup,8 cylinders,full-size,rwd
+challenger,dodge,coupe,8 cylinders,mid-size,rwd
+milan,mercury,sedan,4 cylinders,mid-size,fwd
+128i,bmw,coupe,6 cylinders,compact,rwd
+eldorado,cadillac,coupe,8 cylinders,full-size,rwd
+sierra 4x4,gmc,truck,6 cylinders,full-size,4wd
+wrangler,jeep,SUV,6 cylinders,compact,4wd
+grand caravan,dodge,mini-van,6 cylinders,full-size,fwd
+promaster 1500,ram,van,6 cylinders,full-size,fwd
+b2500,mazda,truck,4 cylinders,mid-size,rwd
+yukon denali xl,gmc,SUV,8 cylinders,full-size,4wd
+645ci,bmw,coupe,8 cylinders,full-size,rwd
+accord ex-l,honda,mini-van,6 cylinders,full-size,fwd
+accent,hyundai,hatchback,4 cylinders,compact,fwd
+suburban lt,chevrolet,SUV,8 cylinders,full-size,4wd
+f250 supercab xlt lariat,ford,pickup,8 cylinders,full-size,4wd
+silverado z71,chevrolet,truck,8 cylinders,full-size,4wd
+1500 4x4,ram,pickup,8 cylinders,full-size,4wd
+f150 fx4 4x4,ford,truck,8 cylinders,full-size,4wd
+explorer sport,ford,SUV,6 cylinders,mid-size,rwd
+silverado 1500,chevrolet,truck,10 cylinders,full-size,rwd
+sierra 3500 duramax diesel,gmc,truck,8 cylinders,full-size,4wd
+e350 box truck,ford,truck,8 cylinders,full-size,rwd
+civic lx,honda,SUV,6 cylinders,mid-size,4wd
+econoline e250,ford,van,8 cylinders,full-size,rwd
+cr-v lx,honda,SUV,4 cylinders,sub-compact,fwd
+4runner,toyota,SUV,4 cylinders,full-size,4wd
+f-150 xlt supercab,ford,truck,8 cylinders,full-size,4wd
+3,mazda,hatchback,4 cylinders,compact,fwd
+corolla xse,toyota,sedan,4 cylinders,full-size,fwd
+avalanche,chevrolet,truck,8 cylinders,full-size,rwd
+rav4,toyota,SUV,4 cylinders,compact,fwd
+4runner,toyota,SUV,6 cylinders,full-size,fwd
+f-250,ford,truck,8 cylinders,full-size,4wd
+murano platinum awd,nissan,SUV,6 cylinders,full-size,4wd
+accent,hyundai,hatchback,4 cylinders,mid-size,fwd
+mkz,lincoln,sedan,6 cylinders,mid-size,rwd
+3500 drw diesel tradesman,ram,pickup,6 cylinders,full-size,4wd
+civic lx sedan,honda,sedan,4 cylinders,compact,fwd
+tahoe z71,chevrolet,SUV,8 cylinders,full-size,4wd
+sorento,kia,SUV,6 cylinders,mid-size,4wd
+wrangler sport,jeep,other,6 cylinders,full-size,4wd
+ranger ext cab,ford,pickup,6 cylinders,mid-size,rwd
+pt cruiser touring,chrysler,wagon,4 cylinders,full-size,fwd
+town car cartier,lincoln,sedan,8 cylinders,full-size,rwd
+accord lx,honda,sedan,4 cylinders,mid-size,fwd
+328xi sport,bmw,wagon,6 cylinders,mid-size,4wd
+silverado 3500hd,chevrolet,truck,8 cylinders,full-size,rwd
+juke,nissan,SUV,4 cylinders,full-size,fwd
+explorer,ford,SUV,6 cylinders,full-size,4wd
+cx-5,mazda,SUV,4 cylinders,mid-size,fwd
+f350,ford,pickup,8 cylinders,full-size,rwd
+forte,kia,coupe,4 cylinders,compact,fwd
+dakota,dodge,pickup,6 cylinders,mid-size,rwd
+sebring convertible,chrysler,convertible,6 cylinders,mid-size,fwd
+rx400h,lexus,SUV,6 cylinders,mid-size,4wd
+vibe,pontiac,hatchback,4 cylinders,compact,rwd
+civic lx,honda,sedan,4 cylinders,mid-size,fwd
+f450 f-450 utility,ford,truck,8 cylinders,full-size,rwd
+rx350,lexus,SUV,6 cylinders,full-size,fwd
+focus st,ford,hatchback,4 cylinders,compact,fwd
+yukon sle 1500,gmc,SUV,8 cylinders,full-size,rwd
+prelude,honda,coupe,4 cylinders,compact,fwd
+rio,kia,sedan,4 cylinders,compact,fwd
+3500,ram,truck,8 cylinders,full-size,rwd
+town and country,chrysler,mini-van,6 cylinders,full-size,fwd
+escape,ford,SUV,4 cylinders,compact,fwd
+sierra 3500hd bucket boom,gmc,truck,8 cylinders,full-size,rwd
+impala lt,chevrolet,sedan,6 cylinders,full-size,fwd
+1 series,bmw,coupe,6 cylinders,sub-compact,rwd
+odyssey exl,honda,mini-van,6 cylinders,full-size,fwd
+2500,ram,pickup,8 cylinders,full-size,4wd
+outlander,mitsubishi,SUV,6 cylinders,full-size,fwd
+4runner,toyota,SUV,6 cylinders,full-size,4wd
+f250 super duty,ford,pickup,8 cylinders,full-size,4wd
+cherokee latitude,jeep,SUV,6 cylinders,mid-size,4wd
+2500,chevrolet,truck,8 cylinders,full-size,rwd
+maxima,nissan,sedan,6 cylinders,mid-size,fwd
+f350 diesels powerstroke,ford,truck,8 cylinders,full-size,4wd
+cherokee latitude 4x4,jeep,SUV,4 cylinders,mid-size,4wd
+versa,nissan,sedan,4 cylinders,mid-size,fwd
+q7 quattro,audi,SUV,8 cylinders,full-size,4wd
+s60 2.5t awd,volvo,sedan,5 cylinders,mid-size,4wd
+super duty f-550 drw,ford,pickup,8 cylinders,full-size,rwd
+m5,bmw,sedan,8 cylinders,full-size,rwd
+sierra sle crewcab 4x4,gmc,pickup,8 cylinders,full-size,4wd
+cruze lt,chevrolet,sedan,4 cylinders,mid-size,fwd
+silverado,chevrolet,truck,8 cylinders,full-size,rwd
+altima 3.5,nissan,sedan,6 cylinders,full-size,fwd
+grand caravan sxt,dodge,mini-van,6 cylinders,full-size,fwd
+expedition limited,ford,SUV,8 cylinders,full-size,4wd
+malibu maxx lt,chevrolet,hatchback,6 cylinders,full-size,fwd
+mkz,lincoln,sedan,6 cylinders,full-size,fwd
+soul,kia,hatchback,4 cylinders,mid-size,fwd
+envoy denali,gmc,truck,8 cylinders,full-size,4wd
+yukon,gmc,SUV,8 cylinders,full-size,rwd
+v70 wagon,volvo,wagon,5 cylinders,mid-size,fwd
+cruze ltz rs,chevrolet,sedan,4 cylinders,mid-size,fwd
+venza,toyota,SUV,6 cylinders,mid-size,fwd
+elantra gt,hyundai,hatchback,4 cylinders,mid-size,fwd
+explorer,ford,SUV,6 cylinders,full-size,fwd
+yukon denali,gmc,truck,8 cylinders,full-size,4wd
+ilx 2.0l,acura,sedan,4 cylinders,compact,fwd
+silverado 1500 ls 4dr,chevrolet,truck,8 cylinders,full-size,rwd
+e250 cargo van,ford,van,8 cylinders,full-size,rwd
+f-150 fx4 4x4,ford,pickup,8 cylinders,full-size,4wd
+jetta 2.0l s,volkswagen,sedan,4 cylinders,compact,fwd
+sorento lx,kia,SUV,6 cylinders,full-size,fwd
+durango rt,dodge,SUV,8 cylinders,mid-size,rwd
+prelude,honda,coupe,4 cylinders,sub-compact,fwd
+corolla le,toyota,sedan,4 cylinders,full-size,fwd
+rx 330,lexus,SUV,6 cylinders,full-size,4wd
+tahoe ltz 4wd,chevrolet,SUV,8 cylinders,full-size,4wd
+grand caravan,dodge,mini-van,6 cylinders,mid-size,fwd
+350z,nissan,coupe,6 cylinders,sub-compact,rwd
+f-150,ford,truck,6 cylinders,full-size,rwd
+edge,ford,SUV,4 cylinders,mid-size,fwd
+transit,ford,van,6 cylinders,full-size,rwd
+f150 xlt supercab,ford,pickup,6 cylinders,full-size,4wd
+e-250,ford,van,8 cylinders,full-size,rwd
+5-series 535i,bmw,sedan,6 cylinders,full-size,rwd
+edge,ford,SUV,6 cylinders,full-size,4wd
+cx-5,mazda,SUV,4 cylinders,compact,4wd
+frontier,nissan,pickup,6 cylinders,mid-size,rwd
+sedona,kia,mini-van,6 cylinders,mid-size,fwd
+a4 quattro premium plus,audi,sedan,4 cylinders,full-size,4wd
+verano,buick,sedan,4 cylinders,mid-size,fwd
+dakota sport,dodge,pickup,8 cylinders,mid-size,4wd
+sequoia,toyota,SUV,8 cylinders,full-size,rwd
+sierra 1500,gmc,truck,8 cylinders,mid-size,4wd
+elantra gls,hyundai,sedan,4 cylinders,compact,fwd
+rav4 limited,toyota,SUV,4 cylinders,full-size,4wd
+eldorado,cadillac,convertible,8 cylinders,full-size,fwd
+colorado,chevrolet,pickup,5 cylinders,full-size,4wd
+bus,volkswagen,SUV,4 cylinders,full-size,fwd
+lw300,saturn,sedan,6 cylinders,mid-size,fwd
+x3 3.0si,bmw,SUV,6 cylinders,mid-size,4wd
+silverado 1500 4wd,chevrolet,truck,8 cylinders,full-size,4wd
+impala ls,chevrolet,sedan,6 cylinders,full-size,fwd
+f-350,ford,truck,8 cylinders,full-size,rwd
+soul plus,kia,SUV,4 cylinders,mid-size,fwd
+3500 diesel,ram,pickup,6 cylinders,full-size,4wd
+mustang,ford,convertible,4 cylinders,compact,rwd
+2500 slt manual,ram,mini-van,8 cylinders,full-size,rwd
+metris passenger van,mercedes-benz,van,4 cylinders,full-size,rwd
+super duty f-250,ford,pickup,8 cylinders,full-size,4wd
+328d,bmw,sedan,4 cylinders,compact,rwd
+econoline e350 rv van,ford,van,8 cylinders,full-size,rwd
+savana explorer ltd,gmc,van,8 cylinders,full-size,rwd
+mustang gt premium,ford,coupe,8 cylinders,mid-size,rwd
+r350 bluetec,mercedes-benz,other,6 cylinders,full-size,4wd
+tucson,hyundai,SUV,4 cylinders,mid-size,fwd
+ranger,ford,truck,6 cylinders,mid-size,rwd
+e150 econoline,ford,van,6 cylinders,full-size,rwd
+camry xle,toyota,sedan,4 cylinders,full-size,fwd
+jetta,volkswagen,sedan,4 cylinders,compact,fwd
+benz c300,mercedes-benz,sedan,6 cylinders,mid-size,fwd
+grand cherokee 4x4 v8,jeep,SUV,8 cylinders,full-size,4wd
+t100 sr5,toyota,pickup,6 cylinders,full-size,4wd
+focus se,ford,sedan,3 cylinders,mid-size,fwd
+accord,honda,sedan,4 cylinders,compact,fwd
+capri,mercury,hatchback,8 cylinders,mid-size,rwd
+colorado,chevrolet,truck,6 cylinders,mid-size,rwd
+enclave,buick,SUV,6 cylinders,full-size,4wd
+jetta sportwagen,volkswagen,wagon,4 cylinders,compact,fwd
+tl w tech pkg,acura,sedan,6 cylinders,full-size,fwd
+srx luxury awd,cadillac,SUV,8 cylinders,mid-size,4wd
+civic,honda,sedan,4 cylinders,compact,4wd
+fiesta,ford,sedan,3 cylinders,compact,fwd
+deville sedan,cadillac,sedan,8 cylinders,mid-size,fwd
+sorento,kia,SUV,6 cylinders,mid-size,fwd
+mazdaspeed3 gt,mazda,hatchback,4 cylinders,mid-size,fwd
+f150 4x4,ford,pickup,8 cylinders,full-size,4wd
+s60,volvo,sedan,4 cylinders,mid-size,fwd
+tacoma,toyota,truck,4 cylinders,sub-compact,4wd
+645ci,bmw,convertible,8 cylinders,full-size,rwd
+m4,bmw,coupe,6 cylinders,mid-size,rwd
+legacy 2.5i limited,subaru,sedan,4 cylinders,mid-size,4wd
+300 limited 4dr,chrysler,sedan,6 cylinders,full-size,rwd
+captiva sport,chevrolet,SUV,4 cylinders,full-size,fwd
+rogue s,nissan,SUV,4 cylinders,compact,fwd
+sport trac 4x4 tacoma,ford,pickup,6 cylinders,full-size,4wd
+lacrosse,buick,sedan,6 cylinders,full-size,fwd
+forte koup,kia,coupe,4 cylinders,compact,fwd
+f250,ford,pickup,8 cylinders,full-size,4wd
+rs7 4.0t quattro prestige,audi,sedan,8 cylinders,compact,4wd
+outback 3.0r l l bean awd,subaru,wagon,6 cylinders,mid-size,4wd
+forester (natl),subaru,SUV,4 cylinders,full-size,4wd
+soul,kia,SUV,4 cylinders,compact,fwd
+tundra,toyota,pickup,8 cylinders,full-size,4wd
+rav4,toyota,SUV,4 cylinders,full-size,4wd
+e350 cargo van,ford,van,8 cylinders,full-size,rwd
+sorento sx awd,kia,SUV,6 cylinders,mid-size,4wd
+traverse ltz awd,chevrolet,SUV,6 cylinders,full-size,4wd
+edge,ford,SUV,4 cylinders,mid-size,4wd
+town country,chrysler,van,6 cylinders,full-size,rwd
+ii nova,chevrolet,coupe,8 cylinders,compact,rwd
+mdx sh-awd w/tech,acura,SUV,6 cylinders,full-size,4wd
+sierra c/k 1500,gmc,truck,8 cylinders,full-size,rwd
+cruze ls,chevrolet,sedan,4 cylinders,mid-size,fwd
+3-series 328i,bmw,sedan,4 cylinders,compact,rwd
+camry le,toyota,sedan,4 cylinders,mid-size,rwd
+g35x,infiniti,sedan,6 cylinders,mid-size,4wd
+santa fe,hyundai,SUV,4 cylinders,mid-size,fwd
+blazer,chevrolet,SUV,6 cylinders,mid-size,4wd
+terrain sle,gmc,SUV,4 cylinders,full-size,fwd
+escalade,cadillac,SUV,8 cylinders,full-size,rwd
+outlander,mitsubishi,SUV,4 cylinders,full-size,fwd
+cooper countryman s,mini,hatchback,4 cylinders,compact,fwd
+xf,jaguar,sedan,8 cylinders,mid-size,rwd
+f350 super duty,ford,truck,8 cylinders,full-size,rwd
+c20,chevrolet,truck,8 cylinders,full-size,rwd
+gl-class,mercedes-benz,SUV,8 cylinders,full-size,4wd
+jetta s,volkswagen,sedan,4 cylinders,mid-size,fwd
+transit van,ford,van,6 cylinders,full-size,rwd
+jetta,volkswagen,wagon,4 cylinders,mid-size,fwd
+f350,ford,truck,8 cylinders,full-size,4wd
+xc-90,volvo,SUV,6 cylinders,mid-size,fwd
+dart sxt,dodge,sedan,4 cylinders,mid-size,fwd
+escape xlt 4x4,ford,SUV,6 cylinders,mid-size,4wd
+civic lx-p,honda,coupe,4 cylinders,compact,fwd
+4500 regular cab fltbd,ram,truck,6 cylinders,full-size,4wd
+taurus sel awd,ford,sedan,6 cylinders,mid-size,4wd
+tl-s,acura,sedan,6 cylinders,full-size,fwd
+gx 460 premium,lexus,SUV,8 cylinders,full-size,4wd
+camry xle,toyota,sedan,6 cylinders,mid-size,fwd
+tahoe,chevrolet,SUV,6 cylinders,full-size,4wd
+f-250 sd,ford,truck,8 cylinders,full-size,4wd
+tundra sr5,toyota,truck,8 cylinders,full-size,rwd
+impreza,subaru,hatchback,4 cylinders,mid-size,4wd
+sentra sv,nissan,sedan,4 cylinders,mid-size,fwd
+325i,bmw,sedan,6 cylinders,full-size,rwd
+ion,saturn,sedan,4 cylinders,mid-size,fwd
+jetta gls,volkswagen,sedan,4 cylinders,compact,fwd
+savana cargo van,gmc,van,8 cylinders,full-size,4wd
+express passenger,chevrolet,van,8 cylinders,full-size,4wd
+is 200t,lexus,sedan,4 cylinders,compact,rwd
+a4 quattro,audi,hatchback,4 cylinders,mid-size,4wd
+equinox ls awd,chevrolet,SUV,6 cylinders,mid-size,4wd
+titan se king cab,nissan,truck,8 cylinders,full-size,fwd
+armada,nissan,SUV,8 cylinders,full-size,rwd
+golf,volkswagen,hatchback,5 cylinders,compact,fwd
+thunderbird,ford,convertible,8 cylinders,compact,rwd
+mks,lincoln,sedan,4 cylinders,mid-size,fwd
+"f-350 super duty xl, extend",ford,pickup,8 cylinders,full-size,rwd
+pt cruiser convertible,chrysler,convertible,4 cylinders,mid-size,fwd
+2500,ram,pickup,6 cylinders,full-size,rwd
+f350 xl,ford,pickup,8 cylinders,full-size,4wd
+tacoma,toyota,truck,4 cylinders,mid-size,rwd
+f150 xlt,ford,truck,8 cylinders,mid-size,4wd
+montana minivan,pontiac,mini-van,6 cylinders,full-size,fwd
+eclipse,mitsubishi,convertible,4 cylinders,sub-compact,fwd
+rx 350,lexus,SUV,6 cylinders,mid-size,fwd
+equinox,chevrolet,SUV,4 cylinders,mid-size,4wd
+charger se,dodge,sedan,6 cylinders,full-size,rwd
+edge limited,ford,SUV,6 cylinders,mid-size,fwd
+grand cherokee,jeep,SUV,8 cylinders,mid-size,4wd
+p30 step van,chevrolet,truck,8 cylinders,full-size,4wd
+impala ltz,chevrolet,sedan,6 cylinders,full-size,fwd
+focus se,ford,sedan,4 cylinders,full-size,fwd
+3 series 328i xdrive,bmw,sedan,6 cylinders,mid-size,4wd
+f-550 crew cab drw 4wd,ford,truck,8 cylinders,full-size,4wd
+explorer sport,ford,SUV,6 cylinders,full-size,4wd
+pathfinder,nissan,SUV,6 cylinders,mid-size,fwd
+spectra,kia,sedan,6 cylinders,full-size,rwd
+town car signature,lincoln,sedan,8 cylinders,full-size,rwd
+civic,honda,sedan,4 cylinders,mid-size,fwd
+dakota st 4x4 crew cab,dodge,pickup,6 cylinders,mid-size,4wd
+jetta sedan,volkswagen,sedan,4 cylinders,compact,fwd
+benz 300sl,mercedes-benz,convertible,6 cylinders,mid-size,rwd
+s40 2.4i,volvo,sedan,5 cylinders,mid-size,fwd
+outlander sport es awd,mitsubishi,SUV,4 cylinders,full-size,4wd
+rogue,nissan,SUV,4 cylinders,mid-size,4wd
+century,buick,sedan,6 cylinders,full-size,fwd
+f-150 supercab,ford,pickup,8 cylinders,full-size,4wd
+town & country touring,chrysler,van,6 cylinders,full-size,fwd
+jimmy sls 4x4 rust free,gmc,SUV,6 cylinders,full-size,4wd
+grand cherokee,jeep,SUV,6 cylinders,full-size,4wd
+3-series,bmw,sedan,4 cylinders,compact,rwd
+sierra 1500,gmc,truck,6 cylinders,full-size,rwd
+avalanche 2500,chevrolet,truck,8 cylinders,full-size,4wd
+grand cherokee laredo,jeep,SUV,8 cylinders,mid-size,4wd
+fiesta,ford,hatchback,4 cylinders,sub-compact,fwd
+crv,honda,SUV,4 cylinders,full-size,4wd
+f-350 super duty,ford,other,8 cylinders,full-size,4wd
+montana,pontiac,mini-van,6 cylinders,mid-size,fwd
+outlander sel loaded,mitsubishi,SUV,4 cylinders,full-size,fwd
+nomad wagon,chevrolet,wagon,8 cylinders,full-size,rwd
+m38,jeep,convertible,4 cylinders,mid-size,4wd
+flex,ford,SUV,6 cylinders,mid-size,4wd
+benz glk 350,mercedes-benz,SUV,6 cylinders,full-size,4wd
+rabbit convertible,volkswagen,convertible,4 cylinders,compact,fwd
+1500 classic,ram,truck,10 cylinders,full-size,4wd
+forester,subaru,hatchback,4 cylinders,full-size,4wd
+belair,chevrolet,sedan,8 cylinders,full-size,rwd
+passat tdi se,volkswagen,sedan,4 cylinders,full-size,fwd
+rx 300 luxury suv,lexus,SUV,6 cylinders,mid-size,4wd
+wrangler x,jeep,SUV,6 cylinders,full-size,4wd
+escape hybrid,ford,SUV,4 cylinders,mid-size,4wd
+grand cherokee,jeep,other,6 cylinders,mid-size,4wd
+wrangler sahara,jeep,SUV,6 cylinders,mid-size,4wd
+crossfire,chrysler,hatchback,6 cylinders,sub-compact,rwd
+camaro,chevrolet,hatchback,6 cylinders,mid-size,rwd
+avenger,dodge,sedan,4 cylinders,mid-size,fwd
+nv 200,nissan,van,4 cylinders,mid-size,fwd
+challenger gt coupe 2d,dodge,coupe,6 cylinders,full-size,rwd
+allante,cadillac,convertible,8 cylinders,full-size,fwd
+expedition limited,ford,SUV,8 cylinders,full-size,rwd
+elantra,hyundai,sedan,4 cylinders,mid-size,fwd
+benz ml350,mercedes-benz,SUV,6 cylinders,full-size,fwd
+escape xlt,ford,SUV,4 cylinders,mid-size,fwd
+sierra allterrain 4wd,gmc,truck,8 cylinders,full-size,4wd
+f-150 xlt supercrew 4x4,ford,pickup,6 cylinders,full-size,4wd
+tucson,hyundai,SUV,4 cylinders,compact,fwd
+sedona ex,kia,mini-van,6 cylinders,full-size,fwd
+tl,acura,sedan,6 cylinders,full-size,fwd
+corvette,chevrolet,convertible,8 cylinders,full-size,rwd
+jetta,volkswagen,sedan,5 cylinders,compact,fwd
+f-100,ford,pickup,8 cylinders,full-size,rwd
+f150 lariat 4wd,ford,pickup,8 cylinders,full-size,4wd
+tacoma,toyota,truck,6 cylinders,full-size,4wd
+dakota slt,dodge,truck,10 cylinders,full-size,4wd
+gti vr6 r32,volkswagen,hatchback,6 cylinders,compact,fwd
+expess 3500 extended,chevrolet,van,8 cylinders,full-size,rwd
+caprice,chevrolet,coupe,8 cylinders,full-size,rwd
+encore preferred 2,buick,SUV,4 cylinders,compact,4wd
+silverado 1500 ls,chevrolet,truck,8 cylinders,mid-size,4wd
+ranger xlt extended cab,ford,pickup,6 cylinders,compact,rwd
+benz c-350,mercedes-benz,sedan,6 cylinders,full-size,rwd
+3 series 328xi,bmw,sedan,6 cylinders,mid-size,4wd
+sierra 1500,gmc,pickup,8 cylinders,full-size,4wd
+300 d,mercedes-benz,sedan,5 cylinders,full-size,rwd
+explorer xlt,ford,SUV,6 cylinders,full-size,fwd
+cobalt,chevrolet,coupe,4 cylinders,mid-size,fwd
+z4,bmw,convertible,6 cylinders,compact,rwd
+firebird trans am gta,pontiac,coupe,8 cylinders,mid-size,rwd
+trax ls,chevrolet,SUV,4 cylinders,compact,fwd
+mustang,ford,coupe,6 cylinders,compact,rwd
+tundra 4wd truck sr5,toyota,pickup,8 cylinders,full-size,4wd
+rav4 le awd,toyota,SUV,4 cylinders,sub-compact,4wd
+cummins 3500 laramie,ram,pickup,6 cylinders,full-size,rwd
+g37 convertible,infiniti,coupe,6 cylinders,compact,rwd
+forrester,subaru,SUV,4 cylinders,mid-size,4wd
+f-150 fx4,ford,truck,8 cylinders,full-size,4wd
+q5 2.0t awd premium plus,audi,SUV,4 cylinders,mid-size,4wd
+equinox ltz,chevrolet,SUV,6 cylinders,mid-size,fwd
+escape limited,ford,SUV,6 cylinders,mid-size,fwd
+chevelle ss 396,chevrolet,coupe,8 cylinders,full-size,rwd
+eurovan,volkswagen,mini-van,6 cylinders,full-size,rwd
+3500,ram,truck,10 cylinders,full-size,4wd
+cherokee,jeep,SUV,4 cylinders,mid-size,4wd
+q5 3.2 quattro premium,audi,SUV,4 cylinders,full-size,4wd
+tacoma double cab 4x4,toyota,truck,6 cylinders,mid-size,fwd
+accord ex-l,honda,sedan,4 cylinders,mid-size,fwd
+benz e350,mercedes-benz,sedan,6 cylinders,compact,4wd
+captiva,chevrolet,SUV,6 cylinders,full-size,fwd
+b4000,mazda,pickup,6 cylinders,mid-size,4wd
+super duty f-550 drw,ford,pickup,8 cylinders,full-size,4wd
+f-250 super duty,ford,pickup,8 cylinders,full-size,rwd
+ls 460,lexus,sedan,8 cylinders,mid-size,rwd
+e-450,ford,truck,10 cylinders,full-size,rwd
+jetta se,volkswagen,sedan,5 cylinders,mid-size,fwd
+tacoma,toyota,pickup,6 cylinders,mid-size,rwd
+sierra,gmc,pickup,8 cylinders,full-size,4wd
+ls 430,lexus,sedan,8 cylinders,mid-size,rwd
+wrangler,jeep,other,4 cylinders,mid-size,4wd
+avalon,toyota,sedan,6 cylinders,full-size,fwd
+qx60,infiniti,SUV,6 cylinders,full-size,4wd
+equinox,chevrolet,SUV,4 cylinders,mid-size,fwd
+sts,cadillac,sedan,8 cylinders,mid-size,rwd
+forte lx,kia,sedan,4 cylinders,compact,fwd
+durango,dodge,SUV,8 cylinders,mid-size,4wd
+excursion eddie bauer,ford,truck,10 cylinders,full-size,4wd
+eos,volkswagen,convertible,4 cylinders,mid-size,fwd
+regal,buick,sedan,6 cylinders,mid-size,fwd
+titan xd,nissan,pickup,8 cylinders,full-size,4wd
+xk convertible,jaguar,coupe,8 cylinders,full-size,rwd
+expedition,ford,SUV,8 cylinders,full-size,rwd
+outlander,mitsubishi,SUV,4 cylinders,mid-size,4wd
+murano sl awd,nissan,SUV,6 cylinders,full-size,4wd
+cts sedan,cadillac,sedan,6 cylinders,mid-size,4wd
+outlook,saturn,SUV,6 cylinders,mid-size,fwd
+ranger xlt,ford,pickup,6 cylinders,mid-size,rwd
+malibu lt,chevrolet,sedan,4 cylinders,mid-size,fwd
+cts coupe awd,cadillac,coupe,6 cylinders,full-size,4wd
+crown victoria police,ford,sedan,8 cylinders,full-size,rwd
+dakota,dodge,pickup,6 cylinders,full-size,rwd
+benz 450sl,mercedes-benz,convertible,8 cylinders,full-size,rwd
+rx 330,lexus,SUV,6 cylinders,mid-size,4wd
+f-250 king ranch 4wd,ford,truck,8 cylinders,full-size,4wd
+envoy xl slt,gmc,SUV,6 cylinders,full-size,4wd
+rav4,toyota,SUV,4 cylinders,compact,4wd
+corolla s,toyota,sedan,4 cylinders,compact,fwd
+ls600h l,lexus,sedan,8 cylinders,full-size,4wd
+charger r/t,dodge,sedan,8 cylinders,mid-size,rwd
+forester limited,subaru,SUV,4 cylinders,mid-size,4wd
+tundra double cab trd,toyota,truck,8 cylinders,full-size,4wd
+cj5,jeep,convertible,8 cylinders,compact,4wd
+m37x,infiniti,sedan,6 cylinders,full-size,4wd
+transit diesel,ford,pickup,6 cylinders,full-size,4wd
+1500 silverado,chevrolet,pickup,8 cylinders,full-size,rwd
+titan,nissan,truck,8 cylinders,full-size,4wd
+edge titanium awd,ford,SUV,4 cylinders,mid-size,4wd
+challenger srt-8,dodge,coupe,8 cylinders,full-size,rwd
+grand cherokee,jeep,SUV,6 cylinders,mid-size,4wd
+highlander,toyota,SUV,4 cylinders,full-size,fwd
+tucson value awd,hyundai,SUV,4 cylinders,mid-size,4wd
+528i,bmw,sedan,4 cylinders,mid-size,rwd
+cooper,mini,coupe,4 cylinders,compact,fwd
+a8 l quattro,audi,sedan,8 cylinders,full-size,4wd
+m-class,mercedes-benz,SUV,10 cylinders,full-size,4wd
+equinox,chevrolet,SUV,4 cylinders,compact,fwd
+altima 2.5 sl,nissan,sedan,4 cylinders,compact,fwd
+cobalt,chevrolet,coupe,4 cylinders,mid-size,4wd
+300 s,chrysler,sedan,6 cylinders,full-size,rwd
+wrangler unlimited,jeep,offroad,6 cylinders,full-size,4wd
+premium sr5 4x4 4runner,toyota,SUV,4 cylinders,full-size,4wd
+xf,jaguar,sedan,8 cylinders,full-size,rwd
+civic ex,honda,sedan,4 cylinders,compact,fwd
+econoline cargo van,ford,van,8 cylinders,mid-size,rwd
+ls 460,lexus,sedan,8 cylinders,full-size,rwd
+corolla,toyota,sedan,4 cylinders,mid-size,fwd
+a3 quattro,audi,wagon,4 cylinders,mid-size,4wd
+lesabre,buick,sedan,6 cylinders,mid-size,fwd
+frontier crew cab,nissan,pickup,6 cylinders,mid-size,rwd
+tundra trd off road,toyota,truck,8 cylinders,full-size,rwd
+rav4 limited 3rd row,toyota,SUV,6 cylinders,mid-size,fwd
+f150,ford,pickup,6 cylinders,full-size,4wd
+camaro,chevrolet,coupe,4 cylinders,compact,rwd
+accord sport sedan 4d se,honda,sedan,4 cylinders,full-size,fwd
+tl,acura,sedan,6 cylinders,mid-size,fwd
+sonata se,hyundai,sedan,4 cylinders,mid-size,fwd
+envoy slt,gmc,SUV,6 cylinders,mid-size,rwd
+murano le,nissan,SUV,6 cylinders,mid-size,4wd
+f-150 fx4 4x4,ford,truck,8 cylinders,full-size,4wd
+forester premium,subaru,SUV,4 cylinders,mid-size,4wd
+c-max hybrid,ford,hatchback,4 cylinders,compact,fwd
+durango limited,dodge,SUV,6 cylinders,full-size,rwd
+cx7,mazda,SUV,4 cylinders,full-size,fwd
+535i xdrive,bmw,sedan,6 cylinders,mid-size,4wd
+fit sport,honda,wagon,4 cylinders,compact,fwd
+navigator,lincoln,SUV,8 cylinders,full-size,fwd
+acadia,gmc,SUV,6 cylinders,mid-size,fwd
+golf,volkswagen,hatchback,4 cylinders,full-size,fwd
+3500,ram,truck,other,full-size,4wd
+element,honda,SUV,4 cylinders,full-size,fwd
+f-250 super duty,ford,truck,8 cylinders,full-size,rwd
+mustang,ford,coupe,8 cylinders,mid-size,rwd
+1500,ram,pickup,8 cylinders,full-size,fwd
+tacoma extended cab,toyota,pickup,6 cylinders,compact,rwd
+mountaineer awd,mercury,SUV,6 cylinders,full-size,4wd
+sierra 2500 hd,gmc,truck,8 cylinders,full-size,4wd
+super duty f-350 srw,ford,pickup,8 cylinders,full-size,4wd
+3,mazda,sedan,4 cylinders,mid-size,fwd
+pilot exl,honda,SUV,6 cylinders,full-size,4wd
+sierra 1500,gmc,truck,8 cylinders,full-size,rwd
+passat se tdi,volkswagen,sedan,4 cylinders,mid-size,fwd
+328i,bmw,sedan,6 cylinders,full-size,rwd
+discovery sport,rover,SUV,4 cylinders,full-size,4wd
+silverado hd,chevrolet,truck,8 cylinders,full-size,4wd
+f-350 super duty lariat di,ford,truck,8 cylinders,full-size,4wd
+superduty,ford,truck,8 cylinders,full-size,4wd
+focus,ford,hatchback,4 cylinders,mid-size,fwd
+e250 econoline,ford,other,6 cylinders,full-size,rwd
+5 series 530i,bmw,sedan,6 cylinders,mid-size,rwd
+silverado 2500 lt 4x4,chevrolet,pickup,8 cylinders,full-size,4wd
+1500 4x4,ram,truck,8 cylinders,full-size,4wd
+335i m,bmw,coupe,6 cylinders,compact,rwd
+mkx,lincoln,SUV,6 cylinders,mid-size,fwd
+lesabre custom,buick,sedan,6 cylinders,full-size,fwd
+5 series 550i xdrive,bmw,sedan,8 cylinders,mid-size,fwd
+wrx,subaru,sedan,4 cylinders,mid-size,4wd
+a4 2.0t,audi,sedan,4 cylinders,mid-size,fwd
+f-250sd,ford,truck,8 cylinders,full-size,4wd
+2500 4x4,ram,pickup,6 cylinders,full-size,4wd
+benz ml350,mercedes-benz,SUV,6 cylinders,mid-size,4wd
+civic ex-l,honda,sedan,4 cylinders,mid-size,fwd
+escape hybrid,ford,SUV,4 cylinders,compact,fwd
+explorer limited,ford,SUV,6 cylinders,mid-size,4wd
+2500 laramie,ram,truck,8 cylinders,full-size,4wd
+accord ex,honda,sedan,4 cylinders,compact,fwd
+charger,dodge,sedan,8 cylinders,mid-size,rwd
+silverado,chevrolet,pickup,6 cylinders,full-size,rwd
+f150,ford,pickup,8 cylinders,full-size,4wd
+f-150,ford,truck,10 cylinders,full-size,4wd
+outback,subaru,SUV,4 cylinders,mid-size,4wd
+cts,cadillac,sedan,6 cylinders,mid-size,rwd
+express 3500 cargo van,chevrolet,van,8 cylinders,full-size,rwd
+g coupe,infiniti,coupe,6 cylinders,compact,rwd
+impreza 2.0 sport premium,subaru,hatchback,4 cylinders,compact,4wd
+f250 super duty crew cab,ford,truck,8 cylinders,full-size,4wd
+dakota,dodge,truck,6 cylinders,compact,rwd
+mustang,ford,coupe,8 cylinders,full-size,rwd
+silverado 1500 4x4,chevrolet,truck,8 cylinders,full-size,4wd
+2500 4x4 truck,ram,pickup,8 cylinders,full-size,4wd
+escalade,cadillac,SUV,8 cylinders,full-size,4wd
+altima 2.5,nissan,sedan,4 cylinders,mid-size,fwd
+flex limited,ford,SUV,6 cylinders,full-size,fwd
+fiesta,ford,hatchback,4 cylinders,mid-size,fwd
+f-250 super duty,ford,pickup,8 cylinders,full-size,4wd
+mirage g4 es,mitsubishi,sedan,3 cylinders,compact,fwd
+transit connect xlt,ford,van,4 cylinders,compact,fwd
+focus wagon,ford,wagon,4 cylinders,mid-size,fwd
+tacoma prerunner v6,toyota,truck,6 cylinders,mid-size,rwd
+escape xlt 4x4,ford,SUV,4 cylinders,mid-size,4wd
+m3 sedan,bmw,sedan,8 cylinders,mid-size,rwd
+outlander sport,mitsubishi,SUV,4 cylinders,full-size,4wd
+corolla le,toyota,sedan,4 cylinders,mid-size,fwd
+charger,dodge,sedan,6 cylinders,full-size,4wd
+fj cruiser 4wd at,toyota,offroad,6 cylinders,full-size,4wd
+3500,ram,truck,8 cylinders,full-size,4wd
+camaro rs,chevrolet,coupe,6 cylinders,compact,rwd
+echo,toyota,sedan,4 cylinders,mid-size,fwd
+sonata gls,hyundai,sedan,6 cylinders,compact,fwd
+polara 330 hemi,dodge,coupe,8 cylinders,full-size,rwd
+tahoe 4x4,chevrolet,SUV,8 cylinders,full-size,4wd
+hhr,chevrolet,sedan,4 cylinders,compact,fwd
+f150,ford,truck,6 cylinders,full-size,rwd
+sonata,hyundai,sedan,4 cylinders,full-size,fwd
+elantra,hyundai,hatchback,4 cylinders,mid-size,4wd
+titan xd,nissan,truck,8 cylinders,full-size,rwd
+clk 320 coupe,mercedes-benz,coupe,6 cylinders,mid-size,rwd
+e450 box truck/cube van,ford,truck,10 cylinders,full-size,rwd
+impala premiere,chevrolet,sedan,6 cylinders,full-size,fwd
+focus,ford,sedan,4 cylinders,mid-size,fwd
+silverado 4 x 4,chevrolet,pickup,8 cylinders,full-size,4wd
+elantra se,hyundai,sedan,4 cylinders,compact,fwd
+freelander,land rover,SUV,6 cylinders,mid-size,4wd
+focus sedan white,ford,sedan,4 cylinders,compact,fwd
+rl,acura,sedan,6 cylinders,full-size,fwd
+commander,jeep,SUV,6 cylinders,full-size,4wd
+soul 1.6l,kia,SUV,4 cylinders,full-size,fwd
+tundra,toyota,truck,8 cylinders,full-size,4wd
+cobalt lt,chevrolet,sedan,4 cylinders,full-size,fwd
+dakota st,dodge,truck,6 cylinders,full-size,rwd
+cruze ls,chevrolet,sedan,4 cylinders,compact,fwd
+willys,jeep,offroad,4 cylinders,full-size,4wd
+benz clk 350,mercedes-benz,convertible,6 cylinders,mid-size,rwd
+pt cruiser,chrysler,sedan,4 cylinders,compact,fwd
+compass,jeep,SUV,4 cylinders,full-size,fwd
+"f350 crew cab, 4wd",ford,truck,8 cylinders,full-size,4wd
+monte carlo,chevrolet,coupe,8 cylinders,full-size,rwd
+cl-class,mercedes-benz,coupe,8 cylinders,mid-size,rwd
+f350 diesels powerstroke,ford,pickup,8 cylinders,full-size,4wd
+impala lt,chevrolet,sedan,4 cylinders,full-size,fwd
+super duty f-550 drw,ford,pickup,10 cylinders,full-size,4wd
+sorento,kia,SUV,6 cylinders,full-size,fwd
+impreza wrx sti,subaru,sedan,4 cylinders,mid-size,4wd
+cherokee,jeep,SUV,4 cylinders,full-size,fwd
+outback limited,subaru,wagon,4 cylinders,mid-size,4wd
+focus se,ford,sedan,4 cylinders,mid-size,fwd
+impreza wrx,subaru,hatchback,4 cylinders,compact,4wd
+3 series,bmw,coupe,6 cylinders,sub-compact,rwd
+sorrento,kia,truck,6 cylinders,full-size,fwd
+silverado 1500 z71,chevrolet,truck,8 cylinders,full-size,4wd
+g37 sedan journey,infiniti,sedan,6 cylinders,mid-size,fwd
+civic ex,honda,sedan,4 cylinders,mid-size,fwd
+1500 crew cab v8 4x4,ram,truck,8 cylinders,full-size,4wd
+pathfinder se,nissan,SUV,6 cylinders,mid-size,4wd
+1500 laramie,ram,truck,8 cylinders,full-size,4wd
+eos lux,volkswagen,convertible,4 cylinders,compact,fwd
+s60 turbo,volvo,sedan,5 cylinders,full-size,4wd
+tacoma,toyota,pickup,6 cylinders,mid-size,4wd
+ranger xlt 4x4,ford,pickup,6 cylinders,mid-size,4wd
+camry hybrid,toyota,sedan,4 cylinders,full-size,fwd
+rx330,lexus,SUV,6 cylinders,mid-size,4wd
+f250 fx4 diesel 4x4,ford,pickup,8 cylinders,full-size,4wd
+corvette,chevrolet,coupe,8 cylinders,full-size,rwd
+2500 diesel,ram,pickup,6 cylinders,full-size,4wd
+4 series,bmw,coupe,4 cylinders,sub-compact,4wd
+forester 2.5i,subaru,wagon,4 cylinders,full-size,4wd
+f550 4x4,ford,pickup,8 cylinders,full-size,4wd
+es 350,lexus,sedan,6 cylinders,compact,fwd
+2500 hd,chevrolet,pickup,8 cylinders,full-size,rwd
+lacrosse cxs,buick,sedan,6 cylinders,full-size,fwd
+ranger xlt,ford,pickup,4 cylinders,compact,rwd
+eclipse,mitsubishi,coupe,6 cylinders,compact,fwd
+330ci convertible,bmw,convertible,6 cylinders,compact,fwd
+yukon xl 4wd,gmc,SUV,8 cylinders,full-size,4wd
+2500 passenger,chevrolet,van,8 cylinders,full-size,rwd
+pilot ex,honda,SUV,6 cylinders,full-size,rwd
+rabbit,volkswagen,hatchback,4 cylinders,mid-size,fwd
+rav4,toyota,SUV,4 cylinders,mid-size,fwd
+forester 2.5x limited,subaru,SUV,4 cylinders,full-size,4wd
+charger daytona r/t,dodge,sedan,8 cylinders,full-size,rwd
+super duty f-350 srw,ford,truck,8 cylinders,full-size,4wd
+journey sxt,dodge,SUV,6 cylinders,full-size,fwd
+camaro,chevrolet,coupe,6 cylinders,full-size,fwd
+tacoma prerunner v6,toyota,pickup,6 cylinders,mid-size,rwd
+sierra,gmc,pickup,8 cylinders,full-size,rwd
+civic lx,honda,coupe,4 cylinders,mid-size,fwd
+santa fe,hyundai,SUV,4 cylinders,full-size,fwd
+2500 quad cab slt pic,ram,truck,6 cylinders,full-size,4wd
+sierra 2500,gmc,truck,8 cylinders,full-size,rwd
+tl - new tires - sunroof - heated seats -,acura,sedan,6 cylinders,mid-size,fwd
+wrangler unlimited sport,jeep,SUV,6 cylinders,full-size,4wd
+shelby gt500,ford,coupe,8 cylinders,mid-size,4wd
+mkx,lincoln,SUV,6 cylinders,mid-size,4wd
+f350,ford,truck,10 cylinders,full-size,rwd
+f-350 super duty,ford,pickup,8 cylinders,full-size,rwd
+explorer,ford,SUV,8 cylinders,mid-size,rwd
+matrix s,toyota,hatchback,4 cylinders,mid-size,fwd
+outback 2.5i wagon,subaru,wagon,4 cylinders,mid-size,4wd
+rx 350,lexus,SUV,6 cylinders,full-size,4wd
+grand caravan crew,dodge,mini-van,6 cylinders,mid-size,rwd
+gx460 awd-white,lexus,SUV,6 cylinders,full-size,4wd
+sienna,toyota,mini-van,6 cylinders,full-size,4wd
+acadia sle2 awd,gmc,SUV,6 cylinders,mid-size,4wd
+f-450 sd,ford,truck,8 cylinders,full-size,4wd
+fusion s,ford,sedan,6 cylinders,full-size,fwd
+p30 step van,chevrolet,other,8 cylinders,mid-size,rwd
+forte eco,kia,sedan,4 cylinders,compact,fwd
+1500 slt,ram,pickup,8 cylinders,full-size,4wd
+f-350 lairiat,ford,truck,8 cylinders,full-size,4wd
+town & country touring,chrysler,mini-van,6 cylinders,full-size,fwd
+escape titanium,ford,SUV,4 cylinders,full-size,4wd
+pilot,honda,SUV,6 cylinders,full-size,4wd
+f350 lariat 4x4 dually,ford,truck,8 cylinders,full-size,4wd
+prius hybrid hatchback,toyota,hatchback,4 cylinders,compact,fwd
+impala,chevrolet,sedan,4 cylinders,full-size,fwd
+equinox lt,chevrolet,SUV,4 cylinders,compact,fwd
+xterra,nissan,SUV,6 cylinders,mid-size,rwd
+astra ( fully loaded),saturn,coupe,4 cylinders,full-size,fwd
+impala,chevrolet,other,6 cylinders,mid-size,fwd
+grand cherokee limited 4x4,jeep,offroad,8 cylinders,compact,4wd
+cooper countryman s,mini,offroad,4 cylinders,mid-size,fwd
+verano convenience package,buick,sedan,4 cylinders,mid-size,fwd
+silverado 2500hd z71,chevrolet,truck,8 cylinders,full-size,4wd
+civic coupe,honda,coupe,4 cylinders,compact,fwd
+altima 2.5 s,nissan,sedan,4 cylinders,mid-size,fwd
+fusion,ford,sedan,4 cylinders,compact,fwd
+cts,cadillac,sedan,8 cylinders,full-size,rwd
+patriot sport,jeep,SUV,4 cylinders,full-size,4wd
+durango,dodge,other,8 cylinders,full-size,rwd
+safari,gmc,mini-van,6 cylinders,mid-size,rwd
+rendezvous,buick,van,6 cylinders,full-size,fwd
+corvette,chevrolet,hatchback,8 cylinders,full-size,rwd
+xlr,cadillac,convertible,8 cylinders,mid-size,rwd
+charger r/t,dodge,sedan,8 cylinders,full-size,rwd
+malibu hybrid,chevrolet,sedan,4 cylinders,full-size,fwd
+lr2,rover,SUV,4 cylinders,full-size,4wd
+forte,kia,sedan,4 cylinders,compact,fwd
+pacifica,chrysler,van,6 cylinders,full-size,4wd
+g6,pontiac,sedan,4 cylinders,mid-size,fwd
+model s,tesla,hatchback,10 cylinders,compact,4wd
+colorado work truck,chevrolet,pickup,4 cylinders,mid-size,fwd
+silverado 2500hd,chevrolet,truck,8 cylinders,full-size,rwd
+fusion,ford,sedan,6 cylinders,mid-size,fwd
+300c awd hemi,chrysler,sedan,8 cylinders,full-size,4wd
+tundra,toyota,pickup,8 cylinders,full-size,rwd
+challenger r/t hemi,dodge,coupe,8 cylinders,mid-size,rwd
+avalanche,chevrolet,truck,8 cylinders,full-size,4wd
+grand caravan se,dodge,mini-van,6 cylinders,full-size,fwd
+328xi,bmw,sedan,6 cylinders,compact,4wd
+echo,toyota,sedan,4 cylinders,compact,fwd
+mountaineer,mercury,SUV,8 cylinders,full-size,4wd
+f-450 sd,ford,truck,8 cylinders,full-size,rwd
+civic sdn,honda,sedan,4 cylinders,sub-compact,fwd
+liberty 4x4,jeep,SUV,6 cylinders,full-size,4wd
+town and country,chrysler,mini-van,6 cylinders,mid-size,fwd
+300 limited,chrysler,sedan,6 cylinders,full-size,fwd
+transit cargo van,ford,van,6 cylinders,full-size,rwd
+wrangler 4wd,jeep,offroad,6 cylinders,mid-size,4wd
+f250 fx diesel 4x4,ford,truck,8 cylinders,full-size,4wd
+evoque,rover,SUV,4 cylinders,mid-size,4wd
+f350 super duty 4x4,ford,truck,8 cylinders,full-size,4wd
+mk2,jaguar,sedan,8 cylinders,compact,rwd
+explorer xlt,ford,SUV,8 cylinders,full-size,4wd
+envoy,gmc,SUV,8 cylinders,mid-size,rwd
+fiesta se,ford,sedan,4 cylinders,mid-size,fwd
+2500 laramie 4x4,ram,truck,6 cylinders,full-size,4wd
+terrain,gmc,SUV,4 cylinders,compact,4wd
+cooper paceman,mini,coupe,4 cylinders,sub-compact,fwd
+sierra 1500 sle 4x4,gmc,truck,8 cylinders,full-size,4wd
+lancer es,mitsubishi,sedan,4 cylinders,mid-size,fwd
+camaro ss 1le,chevrolet,coupe,8 cylinders,compact,rwd
+forte koup,kia,coupe,4 cylinders,mid-size,fwd
+6 s,mazda,sedan,4 cylinders,full-size,fwd
+mdx,acura,SUV,6 cylinders,full-size,fwd
+2500 4x4,ram,truck,8 cylinders,full-size,4wd
+beetle,volkswagen,sedan,4 cylinders,compact,rwd
+sienna le awd,toyota,van,6 cylinders,full-size,4wd
+civic ex coupe 2d,honda,coupe,4 cylinders,mid-size,fwd
+city express cargo van,chevrolet,van,4 cylinders,sub-compact,rwd
+s80 2.5t,volvo,sedan,5 cylinders,full-size,fwd
+camry se 4dr sedan,toyota,sedan,4 cylinders,mid-size,fwd
+celica,toyota,hatchback,4 cylinders,compact,fwd
+gto,pontiac,coupe,8 cylinders,mid-size,rwd
+cts,cadillac,sedan,6 cylinders,full-size,rwd
+altima,nissan,coupe,4 cylinders,mid-size,fwd
+land cruiser,toyota,SUV,8 cylinders,full-size,4wd
+aerostar van,ford,mini-van,6 cylinders,mid-size,rwd
+focus ses,ford,sedan,4 cylinders,compact,fwd
+elantra se,hyundai,sedan,4 cylinders,mid-size,fwd
+3 i sv,mazda,sedan,4 cylinders,mid-size,fwd
+fusion,ford,sedan,4 cylinders,full-size,fwd
+pilot ex-l,honda,SUV,6 cylinders,mid-size,fwd
+tl w/navigation,acura,sedan,6 cylinders,mid-size,fwd
+trailblazer ext lt,chevrolet,SUV,8 cylinders,full-size,4wd
+crv lx,honda,SUV,4 cylinders,mid-size,fwd
+avalon xl.,toyota,coupe,6 cylinders,full-size,fwd
+durango limited,dodge,SUV,8 cylinders,full-size,4wd
+f450,ford,truck,8 cylinders,full-size,4wd
+deluxe convertible,chevrolet,convertible,6 cylinders,full-size,rwd
+altima 3.5,nissan,sedan,6 cylinders,mid-size,fwd
+silverado 1500 lt,chevrolet,truck,8 cylinders,full-size,rwd
+f350,ford,pickup,other,full-size,4wd
+sonata,hyundai,sedan,6 cylinders,mid-size,fwd
+passat,volkswagen,sedan,4 cylinders,full-size,fwd
+juke,nissan,SUV,4 cylinders,mid-size,fwd
+versa sv,nissan,sedan,4 cylinders,mid-size,fwd
+escape,ford,SUV,4 cylinders,full-size,4wd
+f-150 lariat 4x4 crewcab,ford,pickup,8 cylinders,full-size,4wd
+silverado 2500,chevrolet,truck,8 cylinders,full-size,4wd
+f-150 super crew,ford,pickup,8 cylinders,full-size,rwd
+yukon denali,gmc,SUV,8 cylinders,full-size,4wd
+cruze limited,chevrolet,sedan,4 cylinders,compact,fwd
+a4,audi,convertible,6 cylinders,compact,4wd
+accord ex,honda,sedan,4 cylinders,mid-size,fwd
+rogue,nissan,SUV,4 cylinders,full-size,fwd
+grand prix,pontiac,sedan,6 cylinders,mid-size,fwd
+titan sl lifted truck 4w,nissan,truck,8 cylinders,full-size,4wd
+cooper clubman,mini,coupe,4 cylinders,compact,rwd
+silverado 1500,chevrolet,truck,8 cylinders,mid-size,rwd
+sierra 1500 4wd truck local,gmc,truck,8 cylinders,full-size,4wd
+grand voyager,chrysler,mini-van,6 cylinders,full-size,rwd
+370z roadster,nissan,convertible,6 cylinders,compact,rwd
+tundra double cab 4x4,toyota,pickup,8 cylinders,full-size,4wd
+silverado,chevrolet,pickup,6 cylinders,mid-size,rwd
+forester premium,subaru,wagon,4 cylinders,full-size,4wd
+cx-9,mazda,SUV,6 cylinders,full-size,4wd
+rogue,nissan,SUV,4 cylinders,mid-size,fwd
+a4,audi,convertible,4 cylinders,compact,fwd
+escalade hybrid,cadillac,SUV,8 cylinders,full-size,4wd
+ridgeline,honda,truck,6 cylinders,full-size,4wd
+benz c250 sport,mercedes-benz,sedan,4 cylinders,compact,rwd
+outback 2.5i,subaru,wagon,4 cylinders,mid-size,4wd
+sierra 2500hd slt,gmc,truck,8 cylinders,full-size,4wd
+xc90 awd,volvo,SUV,5 cylinders,mid-size,4wd
+rendezvous,buick,SUV,6 cylinders,full-size,rwd
+f150 supercrew cab fx2,ford,truck,8 cylinders,full-size,rwd
+ls 460 l,lexus,sedan,8 cylinders,full-size,rwd
+forester 2.5i premium,subaru,SUV,4 cylinders,mid-size,4wd
+camry le 4dr sedan,toyota,sedan,6 cylinders,full-size,fwd
+edge titanium,ford,SUV,4 cylinders,mid-size,4wd
+g6,pontiac,sedan,4 cylinders,compact,fwd
+2500,ram,pickup,6 cylinders,full-size,fwd
+2500 laramie longhorn,ram,truck,6 cylinders,full-size,4wd
+f250,ford,pickup,8 cylinders,full-size,fwd
+savannah 2500,gmc,van,8 cylinders,full-size,fwd
+excursion limited,ford,SUV,10 cylinders,full-size,rwd
+maxima se,nissan,sedan,6 cylinders,mid-size,fwd
+300zx,nissan,coupe,6 cylinders,mid-size,fwd
+promaster 1500 van,ram,van,6 cylinders,full-size,fwd
+malibu lt,chevrolet,sedan,6 cylinders,mid-size,fwd
+camaro,chevrolet,coupe,8 cylinders,full-size,rwd
+528i,bmw,sedan,6 cylinders,full-size,rwd
+romeo spider quadrifoglio,alfa-romeo,convertible,4 cylinders,compact,rwd
+edge sel plus,ford,SUV,6 cylinders,mid-size,fwd
+town & country,chrysler,van,6 cylinders,mid-size,fwd
+1500,gmc,SUV,8 cylinders,full-size,4wd
+lancer,mitsubishi,sedan,4 cylinders,mid-size,4wd
+magnum,dodge,wagon,6 cylinders,full-size,rwd
+3 series 328i,bmw,sedan,6 cylinders,full-size,rwd
+jetta,volkswagen,sedan,4 cylinders,mid-size,fwd
+f150 lariat,ford,truck,6 cylinders,full-size,4wd
+town country,chrysler,van,6 cylinders,full-size,fwd
+equinox lt sport,chevrolet,SUV,4 cylinders,mid-size,fwd
+pickup 2500,ram,truck,8 cylinders,full-size,4wd
+sonic,chevrolet,hatchback,4 cylinders,compact,fwd
+accord loaded,honda,sedan,4 cylinders,mid-size,fwd
+accord ex-l,honda,sedan,4 cylinders,full-size,fwd
+f350 super duty,ford,pickup,8 cylinders,full-size,4wd
+c70,volvo,convertible,5 cylinders,mid-size,fwd
+tl 3.2,acura,sedan,6 cylinders,mid-size,fwd
+sport,rover,SUV,8 cylinders,full-size,4wd
+pilot,honda,SUV,6 cylinders,mid-size,4wd
+c3500,chevrolet,truck,8 cylinders,full-size,rwd
+f350 dually,ford,truck,8 cylinders,full-size,4wd
+ranger super cab sport,ford,pickup,6 cylinders,mid-size,4wd
+edge,ford,SUV,6 cylinders,full-size,fwd
+express 2500 cargo,chevrolet,mini-van,8 cylinders,full-size,rwd
+sentra,nissan,sedan,4 cylinders,sub-compact,fwd
+3-series,bmw,sedan,6 cylinders,compact,4wd
+dart sxt,dodge,sedan,4 cylinders,full-size,fwd
+srx,cadillac,SUV,6 cylinders,full-size,fwd
+tsx,acura,sedan,4 cylinders,compact,fwd
+santa fe,hyundai,SUV,6 cylinders,compact,fwd
+sienna le,toyota,van,6 cylinders,mid-size,fwd
+frontier,nissan,pickup,4 cylinders,mid-size,rwd
+camaro,chevrolet,coupe,6 cylinders,mid-size,rwd
+gs430,lexus,SUV,6 cylinders,full-size,fwd
+e-series cutaway,ford,truck,8 cylinders,full-size,rwd
+borrego,kia,SUV,6 cylinders,full-size,4wd
+grand cherokee laredo,jeep,SUV,6 cylinders,mid-size,rwd
+corolla,toyota,sedan,10 cylinders,compact,4wd
+4 runner sr5 premium,toyota,SUV,6 cylinders,full-size,4wd
+versa s,nissan,hatchback,4 cylinders,compact,fwd
+f-150 lariat 4x4,ford,pickup,6 cylinders,full-size,4wd
+ranger sport,ford,truck,6 cylinders,mid-size,rwd
+equinox lt 2.4l,chevrolet,SUV,4 cylinders,mid-size,fwd
+s10 extended cab,chevrolet,pickup,6 cylinders,compact,rwd
+jetta,volkswagen,sedan,5 cylinders,mid-size,fwd
+tacoma,toyota,truck,6 cylinders,full-size,rwd
+promaster,ram,van,6 cylinders,mid-size,fwd
+f-350 sd,ford,truck,10 cylinders,full-size,4wd
+f150 lariat sport,ford,truck,8 cylinders,full-size,4wd
+odyssey,honda,mini-van,6 cylinders,mid-size,fwd
+mustang gt premium,ford,coupe,8 cylinders,compact,rwd
+sti,subaru,sedan,4 cylinders,mid-size,4wd
+accord,honda,coupe,10 cylinders,mid-size,4wd
+670,volvo,truck,6 cylinders,full-size,4wd
+impala ls,chevrolet,sedan,6 cylinders,mid-size,fwd
+4runner limited,toyota,SUV,6 cylinders,mid-size,rwd
+335i coupe,bmw,coupe,6 cylinders,mid-size,rwd
+1500 quad cab,ram,pickup,8 cylinders,full-size,fwd
+cooper hardtop,mini,coupe,4 cylinders,compact,fwd
+journey se,dodge,hatchback,4 cylinders,full-size,rwd
+acadia,gmc,SUV,6 cylinders,full-size,4wd
+camry le 4dr sedan,toyota,sedan,4 cylinders,full-size,fwd
+rdx,acura,SUV,10 cylinders,full-size,4wd
+rx,lexus,SUV,6 cylinders,mid-size,fwd
+sorento sx limited,kia,SUV,6 cylinders,full-size,4wd
+transit,ford,van,6 cylinders,mid-size,rwd
+1500 silverado,chevrolet,truck,8 cylinders,full-size,4wd
+santa fe,hyundai,SUV,6 cylinders,full-size,fwd
+cooper,mini,sedan,4 cylinders,compact,fwd
+savana box,gmc,truck,8 cylinders,full-size,rwd
+focus st,ford,hatchback,4 cylinders,full-size,fwd
+2500 slt big horn,ram,truck,6 cylinders,full-size,4wd
+golf,volkswagen,sedan,4 cylinders,compact,fwd
+silverado 2500 2wd uti,chevrolet,pickup,8 cylinders,full-size,rwd
+escalade awd,cadillac,SUV,8 cylinders,full-size,4wd
+accord ex 4-door sedan,honda,sedan,4 cylinders,mid-size,fwd
+express 3500 extended,chevrolet,van,8 cylinders,full-size,rwd
+silverado 2500 hd,chevrolet,truck,8 cylinders,full-size,4wd
+yaris,toyota,sedan,4 cylinders,sub-compact,fwd
+land cruiser,toyota,SUV,8 cylinders,full-size,fwd
+caliber,dodge,SUV,4 cylinders,mid-size,fwd
+denali yukon xl,gmc,SUV,8 cylinders,full-size,4wd
+civic sedan,honda,sedan,4 cylinders,mid-size,fwd
+aura xe 4dr sedan,saturn,sedan,6 cylinders,mid-size,fwd
+prius,toyota,hatchback,4 cylinders,compact,fwd
+1 ton 3800,chevrolet,truck,6 cylinders,full-size,rwd
+caravan,dodge,van,6 cylinders,full-size,fwd
+compass,jeep,SUV,4 cylinders,compact,4wd
+murano,nissan,SUV,6 cylinders,mid-size,4wd
+coupe,ford,coupe,8 cylinders,compact,rwd
+ion 3,saturn,sedan,4 cylinders,mid-size,fwd
+altima 2.5 s,nissan,sedan,4 cylinders,compact,fwd
+escape,ford,SUV,4 cylinders,sub-compact,fwd
+4runner,toyota,SUV,6 cylinders,mid-size,rwd
+camaro ss 2ss,chevrolet,coupe,8 cylinders,compact,rwd
+f 150 lariat 4x4,ford,pickup,6 cylinders,full-size,4wd
+fusion hybrid se sedan,ford,sedan,4 cylinders,mid-size,fwd
+f250 7.3 crew 4x4,ford,truck,8 cylinders,full-size,4wd
+escape,ford,SUV,4 cylinders,mid-size,4wd
+fit,honda,hatchback,4 cylinders,mid-size,fwd
+acadia,gmc,SUV,6 cylinders,full-size,rwd
+terrain,gmc,SUV,6 cylinders,compact,fwd
+escalade esv,cadillac,SUV,8 cylinders,full-size,4wd
+rdx,acura,SUV,4 cylinders,mid-size,4wd
+1500 sierra,gmc,pickup,8 cylinders,full-size,4wd
+impreza,subaru,hatchback,4 cylinders,full-size,4wd
+sierra 3500,gmc,truck,8 cylinders,full-size,rwd
+corolla,toyota,sedan,4 cylinders,full-size,fwd
+highlander limited awd,toyota,SUV,6 cylinders,full-size,4wd
+srx,cadillac,SUV,6 cylinders,mid-size,fwd
+xts luxury,cadillac,sedan,6 cylinders,full-size,fwd
+benz e350,mercedes-benz,sedan,6 cylinders,full-size,4wd
+silverado lt z71,chevrolet,pickup,8 cylinders,full-size,4wd
+new beetle coupe,volkswagen,coupe,4 cylinders,compact,fwd
+sorrento ex,kia,SUV,6 cylinders,full-size,4wd
+silverado 2500,chevrolet,truck,8 cylinders,full-size,rwd
+trax lt,chevrolet,SUV,4 cylinders,mid-size,4wd
+savana,gmc,van,8 cylinders,full-size,rwd
+1500,ram,truck,6 cylinders,full-size,rwd
+tundra 4x4 limited,toyota,truck,8 cylinders,full-size,4wd
+long wheel base,rover,SUV,8 cylinders,full-size,4wd
+1500 suburban,chevrolet,SUV,8 cylinders,full-size,4wd
+element ex awd,honda,SUV,4 cylinders,full-size,4wd
+f-150 fx4 4wd,ford,pickup,8 cylinders,full-size,4wd
+a6 quattro,audi,wagon,6 cylinders,mid-size,4wd
+express 2500 cargo van,chevrolet,van,8 cylinders,full-size,rwd
+cobalt ss supercharged,chevrolet,coupe,4 cylinders,compact,fwd
+1500 classic,ram,truck,6 cylinders,mid-size,rwd
+benz e350 4matic,mercedes-benz,sedan,6 cylinders,mid-size,4wd
+impreza wrx,subaru,wagon,4 cylinders,compact,4wd
+business coupe,ford,coupe,8 cylinders,full-size,rwd
+odyssey,honda,van,6 cylinders,compact,fwd
+x3,bmw,SUV,6 cylinders,mid-size,4wd
+sentra s,nissan,sedan,4 cylinders,compact,fwd
+c250,mercedes-benz,sedan,4 cylinders,compact,rwd
+cooper s,mini,hatchback,4 cylinders,compact,fwd
+explorer limited,ford,SUV,6 cylinders,full-size,4wd
+cx-5 grand touring,mazda,SUV,4 cylinders,compact,4wd
+4500 hd,ram,other,6 cylinders,full-size,rwd
+e-class,mercedes-benz,sedan,4 cylinders,mid-size,rwd
+xv crosstrek 2.0i limited,subaru,hatchback,4 cylinders,sub-compact,4wd
+sprinter 2500 170”,mercedes-benz,van,4 cylinders,full-size,rwd
+dart sxt plus,dodge,sedan,4 cylinders,full-size,fwd
+e350 super duty,ford,van,8 cylinders,full-size,rwd
+a4 2.0t premium plus,audi,sedan,4 cylinders,compact,4wd
+220s / 3.0,mercedes-benz,sedan,6 cylinders,full-size,rwd
+is 350 sedan,lexus,sedan,6 cylinders,mid-size,rwd
+silverado 3500hd,chevrolet,truck,8 cylinders,full-size,4wd
+colorado,chevrolet,truck,5 cylinders,full-size,4wd
+malibu,chevrolet,sedan,4 cylinders,compact,fwd
+e-350,ford,van,8 cylinders,full-size,rwd
+terrain,gmc,SUV,4 cylinders,sub-compact,fwd
+k5 blazer,chevrolet,SUV,8 cylinders,full-size,4wd
+maxima sv,nissan,sedan,6 cylinders,full-size,fwd
+durango,dodge,SUV,8 cylinders,mid-size,rwd
+f-150 xl crew cab,ford,pickup,6 cylinders,full-size,fwd
+odyssey touring,honda,van,6 cylinders,full-size,4wd
+sienna le 7-passenger,toyota,van,6 cylinders,full-size,fwd
+f150 4x4,ford,truck,8 cylinders,full-size,4wd
+mustang,ford,convertible,6 cylinders,mid-size,rwd
+fusion sel,ford,sedan,6 cylinders,compact,fwd
+yukon,gmc,SUV,8 cylinders,mid-size,rwd
+escape xlt,ford,SUV,6 cylinders,mid-size,fwd
+elantra,hyundai,sedan,4 cylinders,full-size,fwd
+sebring touring,chrysler,sedan,6 cylinders,mid-size,fwd
+brz,subaru,coupe,10 cylinders,mid-size,4wd
+compass trailhawk 4wd,jeep,SUV,4 cylinders,mid-size,4wd
+5500 slt diesel,ram,truck,6 cylinders,full-size,4wd
+protege,mazda,sedan,4 cylinders,compact,fwd
+edge awd,ford,SUV,6 cylinders,mid-size,4wd
+sentra fe+,nissan,sedan,4 cylinders,mid-size,fwd
+f150 xlt 4x4,ford,pickup,8 cylinders,full-size,4wd
+1500,ram,truck,6 cylinders,full-size,4wd
+lancer es,mitsubishi,sedan,4 cylinders,compact,fwd
+suburban,gmc,SUV,8 cylinders,full-size,rwd
+"sti only 1,402 miles",subaru,sedan,4 cylinders,mid-size,4wd
+impala,chevrolet,sedan,8 cylinders,full-size,rwd
+c10,chevrolet,pickup,8 cylinders,full-size,rwd
+fiesta,ford,hatchback,3 cylinders,compact,fwd
+accord,honda,coupe,4 cylinders,full-size,fwd
+benz glk350 4matic,mercedes-benz,SUV,6 cylinders,mid-size,4wd
+monterey,mercury,sedan,8 cylinders,full-size,rwd
+bonneville,pontiac,sedan,6 cylinders,mid-size,fwd
+tacoma,toyota,pickup,6 cylinders,full-size,4wd
+pilot,honda,SUV,6 cylinders,full-size,fwd
+edge sel crossover,ford,other,6 cylinders,mid-size,fwd
+m550i x-drive,bmw,sedan,8 cylinders,full-size,4wd
+vue v6,saturn,SUV,6 cylinders,full-size,4wd
+xterra s 4wd 4.0l v6,nissan,SUV,6 cylinders,full-size,4wd
+dart se,dodge,sedan,4 cylinders,compact,fwd
+odyssey touring elite,honda,mini-van,6 cylinders,full-size,fwd
+cruze limited,chevrolet,sedan,4 cylinders,mid-size,fwd
+prius hybrid,toyota,hatchback,4 cylinders,sub-compact,fwd
+pilot ex-l,honda,SUV,6 cylinders,full-size,fwd
+colorado ls z71,chevrolet,pickup,5 cylinders,mid-size,4wd
+cooper s convertible,mini,convertible,4 cylinders,compact,fwd
+sienna xle,toyota,mini-van,6 cylinders,full-size,fwd
+xc90 awd,volvo,SUV,8 cylinders,mid-size,4wd
+santa fe sport,hyundai,SUV,4 cylinders,mid-size,fwd
+3500hd slt 4x4,ram,pickup,6 cylinders,full-size,4wd
+wrangler sport unlimited,jeep,SUV,6 cylinders,mid-size,4wd
+genesis,hyundai,sedan,4 cylinders,compact,fwd
+highlander,toyota,SUV,6 cylinders,mid-size,fwd
+envoy slt,gmc,SUV,6 cylinders,full-size,rwd
+camry,toyota,sedan,4 cylinders,mid-size,rwd
+optima sx turbo,kia,sedan,4 cylinders,full-size,fwd
+6i,mazda,sedan,4 cylinders,mid-size,fwd
+f-150 stx 4x4,ford,truck,8 cylinders,full-size,4wd
+dakota,dodge,truck,8 cylinders,mid-size,4wd
+caliber sxt,dodge,hatchback,4 cylinders,mid-size,fwd
+grand caravan sxt,dodge,mini-van,6 cylinders,mid-size,fwd
+sierra stepside z71 4x4,gmc,pickup,8 cylinders,mid-size,4wd
+promaster cargo van,ram,van,6 cylinders,full-size,fwd
+ranger xlt,ford,truck,6 cylinders,mid-size,rwd
+b2300,mazda,pickup,4 cylinders,mid-size,rwd
+f-150 xlt,ford,pickup,8 cylinders,full-size,rwd
+1500,ram,truck,8 cylinders,compact,4wd
+forte,kia,sedan,4 cylinders,mid-size,fwd
+super duty f-350 srw,ford,truck,8 cylinders,full-size,rwd
+f250 super duty,ford,truck,8 cylinders,compact,4wd
+jetta sportwagen,volkswagen,sedan,4 cylinders,mid-size,fwd
+x6,bmw,SUV,6 cylinders,mid-size,4wd
+2500hd duramax,chevrolet,pickup,8 cylinders,full-size,4wd
+accord ex,honda,coupe,4 cylinders,compact,fwd
+envoy,gmc,SUV,6 cylinders,mid-size,4wd
+liberty limited,jeep,SUV,6 cylinders,mid-size,rwd
+3500,ram,pickup,6 cylinders,full-size,rwd
+civic cpe,honda,coupe,4 cylinders,mid-size,fwd
+f-250 xlt,ford,truck,8 cylinders,full-size,fwd
+sts,cadillac,sedan,6 cylinders,full-size,rwd
+fit base,honda,hatchback,4 cylinders,compact,fwd
+highlander,toyota,SUV,4 cylinders,mid-size,fwd
+yukon denali,gmc,SUV,8 cylinders,full-size,rwd
+tundra sr5,toyota,pickup,8 cylinders,full-size,4wd
+armada platinum,nissan,SUV,8 cylinders,full-size,4wd
+f-250 super duty xlt,ford,truck,8 cylinders,full-size,4wd
+g6,pontiac,sedan,6 cylinders,full-size,fwd
+f150 lariat,ford,pickup,8 cylinders,mid-size,fwd
+equinox lt,chevrolet,SUV,4 cylinders,mid-size,4wd
+highlander,toyota,SUV,6 cylinders,full-size,fwd
+is 250,lexus,sedan,6 cylinders,sub-compact,rwd
+f-150 xlt,ford,truck,8 cylinders,full-size,4wd
+firebird trans am,pontiac,coupe,8 cylinders,compact,rwd
+prius v,toyota,wagon,4 cylinders,full-size,fwd
+silverado 3500hd,chevrolet,pickup,8 cylinders,full-size,4wd
+x3 3.0i,bmw,SUV,6 cylinders,full-size,4wd
+golf tdi alh 1.9l,volkswagen,hatchback,4 cylinders,compact,fwd
+ranchero,ford,pickup,8 cylinders,full-size,rwd
+tuscon gls,hyundai,SUV,4 cylinders,mid-size,fwd
+trailblazer ls 4x4,chevrolet,SUV,6 cylinders,mid-size,4wd
+f150 supercrew,ford,pickup,8 cylinders,full-size,4wd
+g37s,infiniti,sedan,6 cylinders,mid-size,rwd
+s40 t5,volvo,sedan,5 cylinders,compact,fwd
+ridgeline,honda,truck,6 cylinders,mid-size,4wd
+accord sport,honda,sedan,4 cylinders,full-size,fwd
+fit,honda,hatchback,4 cylinders,compact,fwd
+forte lx,kia,sedan,4 cylinders,mid-size,fwd
+sierra 2500hd,gmc,pickup,8 cylinders,full-size,rwd
+silverado ltz,chevrolet,pickup,8 cylinders,full-size,4wd
+colorado,chevrolet,pickup,5 cylinders,mid-size,4wd
+canyon crew cab,gmc,truck,5 cylinders,mid-size,rwd
+matrix,toyota,hatchback,4 cylinders,compact,fwd
+solara sle convertible,toyota,convertible,6 cylinders,mid-size,fwd
+mustang convertible,ford,convertible,6 cylinders,full-size,rwd
+solstice,pontiac,convertible,4 cylinders,sub-compact,rwd
+cascada,buick,convertible,4 cylinders,compact,fwd
+canyon,gmc,pickup,5 cylinders,mid-size,rwd
+escort lx,ford,hatchback,4 cylinders,compact,fwd
+s60,volvo,sedan,5 cylinders,mid-size,fwd
+tarus gl wagon,ford,sedan,6 cylinders,mid-size,fwd
+f150 4x4,ford,truck,8 cylinders,mid-size,4wd
+lumina,chevrolet,sedan,6 cylinders,mid-size,fwd
+pathfinder le 4x4,nissan,SUV,6 cylinders,mid-size,4wd
+challenger scat pack,dodge,coupe,8 cylinders,mid-size,rwd
+g35 coupe,infiniti,coupe,6 cylinders,mid-size,fwd
+terrain,gmc,SUV,4 cylinders,full-size,4wd
+silverado,chevrolet,pickup,8 cylinders,full-size,fwd
+silverado 1500 crew 4x4,chevrolet,truck,8 cylinders,full-size,4wd
+ranger,ford,truck,6 cylinders,mid-size,fwd
+sequoia,toyota,SUV,8 cylinders,full-size,4wd
+a7,audi,hatchback,6 cylinders,compact,4wd
+tahoe ls,chevrolet,SUV,6 cylinders,full-size,4wd
+mustang,ford,coupe,10 cylinders,mid-size,4wd
+accord,honda,sedan,6 cylinders,compact,fwd
+740li,bmw,sedan,6 cylinders,full-size,rwd
+blazer ls 2 dr,chevrolet,SUV,6 cylinders,mid-size,4wd
+dakota,dodge,truck,6 cylinders,mid-size,rwd
+c70 t5 convertible,volvo,convertible,5 cylinders,mid-size,fwd
+equinox,chevrolet,SUV,6 cylinders,full-size,fwd
+328i,bmw,sedan,4 cylinders,compact,rwd
+is 250 awd,lexus,sedan,6 cylinders,full-size,4wd
+venza,toyota,SUV,6 cylinders,full-size,4wd
+silverado,chevrolet,truck,6 cylinders,full-size,rwd
+journey,dodge,SUV,4 cylinders,full-size,fwd
+challenger,dodge,coupe,6 cylinders,compact,rwd
+f250 king ranch,ford,pickup,8 cylinders,full-size,4wd
+brz,subaru,coupe,4 cylinders,mid-size,4wd
+tundra sr5 crew max,toyota,pickup,8 cylinders,full-size,rwd
+caravan,dodge,van,6 cylinders,full-size,4wd
+malibu lt,chevrolet,sedan,4 cylinders,compact,fwd
+civic gx,honda,sedan,4 cylinders,mid-size,fwd
+excursion limited rwd,ford,SUV,8 cylinders,full-size,rwd
+q50 awd,infiniti,sedan,6 cylinders,full-size,4wd
+f150 lariat,ford,pickup,8 cylinders,full-size,4wd
+genesis coupe 2.0t,hyundai,coupe,4 cylinders,compact,rwd
+350,ford,truck,10 cylinders,full-size,4wd
+sportage,kia,wagon,4 cylinders,compact,fwd
+frontier,nissan,truck,6 cylinders,mid-size,rwd
+navigator,lincoln,SUV,8 cylinders,full-size,rwd
+is250,lexus,sedan,6 cylinders,full-size,fwd
+rx 350,lexus,SUV,6 cylinders,full-size,fwd
+rogue,nissan,wagon,4 cylinders,mid-size,4wd
+mx-5,mazda,convertible,4 cylinders,compact,rwd
+200,chrysler,sedan,6 cylinders,mid-size,fwd
+sonoma,gmc,pickup,4 cylinders,mid-size,rwd
+hardtop,mini,hatchback,4 cylinders,sub-compact,fwd
+x3 xdrive28i,bmw,SUV,4 cylinders,compact,4wd
+1500 laramie slt,ram,truck,8 cylinders,full-size,rwd
+forester,subaru,SUV,4 cylinders,compact,4wd
+equinox 1lt awd,chevrolet,SUV,4 cylinders,mid-size,4wd
+camry hybrid,toyota,sedan,4 cylinders,mid-size,fwd
+cruze,chevrolet,sedan,4 cylinders,compact,fwd
+silverado 1500 ltz 4x4,chevrolet,truck,8 cylinders,mid-size,4wd
+cherokee,jeep,SUV,6 cylinders,mid-size,fwd
+tacoma 4wd,toyota,truck,6 cylinders,full-size,4wd
+bronco ii,ford,SUV,6 cylinders,compact,4wd
+silverado lt,chevrolet,truck,8 cylinders,full-size,4wd
+escape se 4wd,ford,SUV,4 cylinders,compact,4wd
+gladiator rubicon,jeep,truck,6 cylinders,full-size,4wd
+sedan deville concours,cadillac,sedan,8 cylinders,full-size,fwd
+sentra sl,nissan,sedan,4 cylinders,compact,fwd
+m3,bmw,convertible,8 cylinders,full-size,rwd
+f150 supercrew fx4 4x4,ford,truck,8 cylinders,full-size,4wd
+flex,ford,SUV,6 cylinders,full-size,fwd
+skylark,buick,sedan,4 cylinders,mid-size,rwd
+nitro sxt 4wd,dodge,SUV,6 cylinders,mid-size,4wd
+g1500,gmc,van,8 cylinders,mid-size,rwd
+f350 super duty crew cab,ford,truck,10 cylinders,full-size,rwd
+expedition xlt,ford,SUV,8 cylinders,full-size,rwd
+wrangler,jeep,offroad,4 cylinders,full-size,4wd
+journey,dodge,SUV,6 cylinders,compact,fwd
+super duty f-250,ford,truck,8 cylinders,full-size,4wd
+cooper countryman s,mini,SUV,4 cylinders,mid-size,fwd
+1500 slt,ram,truck,8 cylinders,full-size,4wd
+camaro 1lt,chevrolet,coupe,4 cylinders,full-size,rwd
+f250,ford,truck,8 cylinders,full-size,rwd
+avalon,toyota,sedan,6 cylinders,mid-size,fwd
+f150 super crew cab,ford,pickup,8 cylinders,full-size,4wd
+3 series 320xi xdrive,bmw,sedan,4 cylinders,full-size,4wd
+c-class c250 sport,mercedes-benz,sedan,4 cylinders,full-size,rwd
+g sedan g37x awd,infiniti,sedan,6 cylinders,full-size,4wd
+eurovan gls,volkswagen,mini-van,6 cylinders,full-size,fwd
+cube krom,nissan,SUV,4 cylinders,compact,fwd
+b3,dodge,truck,4 cylinders,mid-size,rwd
+caliber r/t,dodge,hatchback,4 cylinders,mid-size,fwd
+altima 2.5sl,nissan,sedan,4 cylinders,compact,fwd
+v50,volvo,wagon,5 cylinders,mid-size,4wd
+benz 250,mercedes-benz,sedan,6 cylinders,mid-size,rwd
+cts sedan,cadillac,sedan,4 cylinders,mid-size,4wd
+f-type premium,jaguar,coupe,6 cylinders,compact,rwd
+2500 hd 4x4 short bed,chevrolet,pickup,8 cylinders,full-size,4wd
+mks,lincoln,sedan,6 cylinders,mid-size,fwd
+s10 ls,chevrolet,pickup,6 cylinders,mid-size,4wd
+f350 4x4,ford,truck,8 cylinders,full-size,4wd
+blazer 4 by 4,chevrolet,SUV,6 cylinders,mid-size,4wd
+e-class,mercedes-benz,sedan,8 cylinders,mid-size,rwd
+versa sl hatchback,nissan,hatchback,4 cylinders,mid-size,fwd
+suburban 1500 lt,chevrolet,SUV,8 cylinders,full-size,4wd
+clk430,mercedes-benz,coupe,8 cylinders,mid-size,rwd
+escape,ford,SUV,4 cylinders,compact,4wd
+eclipse cross,mitsubishi,SUV,4 cylinders,full-size,4wd
+rav4,toyota,SUV,6 cylinders,full-size,4wd
+is f,lexus,sedan,8 cylinders,sub-compact,rwd
+monte carlo ss,chevrolet,coupe,8 cylinders,compact,rwd
+dakota,dodge,truck,6 cylinders,full-size,rwd
+x3 2013 2.8i xdrive awd,bmw,SUV,6 cylinders,mid-size,4wd
+suburban ltz,chevrolet,SUV,8 cylinders,full-size,4wd
+wrangler unlimited,jeep,SUV,6 cylinders,full-size,fwd
+g35 sedan,infiniti,sedan,6 cylinders,full-size,rwd
+sierra 4x4,gmc,truck,8 cylinders,full-size,4wd
+ex35,infiniti,SUV,6 cylinders,full-size,rwd
+leaf sl hatchback 4d,nissan,hatchback,other,compact,fwd
+astro,chevrolet,van,6 cylinders,mid-size,rwd
+acadia awd,gmc,SUV,6 cylinders,mid-size,4wd
+tucson,hyundai,SUV,6 cylinders,full-size,fwd
+xk 8convertible,jaguar,convertible,8 cylinders,mid-size,rwd
+wrangler,jeep,offroad,6 cylinders,full-size,fwd
+ls 460,lexus,sedan,8 cylinders,mid-size,fwd
+wrangler,jeep,other,6 cylinders,compact,4wd
+forester x sport utility,subaru,SUV,4 cylinders,mid-size,4wd
+outlook xr,saturn,SUV,6 cylinders,full-size,fwd
+grand cherokee laredo,jeep,SUV,6 cylinders,full-size,rwd
+pickup,toyota,pickup,6 cylinders,mid-size,4wd
+f150 4-door,ford,truck,8 cylinders,full-size,rwd
+1500 6 cyl crew cab,ram,pickup,6 cylinders,full-size,rwd
+mustang,ford,coupe,6 cylinders,sub-compact,rwd
+g37 journey,infiniti,coupe,6 cylinders,mid-size,rwd
+ion,saturn,sedan,4 cylinders,compact,fwd
+gs430,lexus,sedan,8 cylinders,full-size,rwd
+rdx,acura,SUV,4 cylinders,full-size,4wd
+silverado 2500 hd,chevrolet,pickup,8 cylinders,full-size,4wd
+lacrosse premium,buick,sedan,6 cylinders,mid-size,fwd
+"nitro 4x4, 4dr, cars",dodge,SUV,6 cylinders,mid-size,4wd
+f-350 super duty king ranc,ford,truck,8 cylinders,full-size,4wd
+envoy xl,gmc,other,6 cylinders,full-size,4wd
+soul,kia,hatchback,4 cylinders,sub-compact,fwd
+crv,honda,SUV,4 cylinders,mid-size,rwd
+town & country touring,chrysler,mini-van,6 cylinders,mid-size,fwd
+thunderbird,ford,coupe,8 cylinders,full-size,rwd
+es 300,lexus,sedan,6 cylinders,full-size,fwd
+altima,nissan,sedan,10 cylinders,compact,4wd
+2002,bmw,coupe,4 cylinders,compact,rwd
+camry le v6,toyota,sedan,6 cylinders,mid-size,fwd
+sierra 3500,gmc,truck,8 cylinders,full-size,4wd
+f-150,ford,truck,6 cylinders,full-size,fwd
+century sedan,buick,sedan,6 cylinders,full-size,fwd
+tiguan,volkswagen,SUV,4 cylinders,mid-size,fwd
+corolla ce,toyota,sedan,4 cylinders,compact,fwd
+big horn,ram,truck,8 cylinders,full-size,4wd
+xterra se,nissan,SUV,6 cylinders,full-size,4wd
+f-150,ford,truck,8 cylinders,mid-size,4wd
+dakota sport,dodge,pickup,8 cylinders,mid-size,fwd
+forte ex,kia,sedan,4 cylinders,compact,fwd
+accord sedan,honda,sedan,4 cylinders,mid-size,fwd
+patriot,jeep,truck,4 cylinders,mid-size,fwd
+gs 350 f-sport premium awd,lexus,sedan,6 cylinders,mid-size,4wd
+higlander limited 4wd,toyota,SUV,4 cylinders,full-size,4wd
+super duty f-250 srw,ford,truck,8 cylinders,full-size,4wd
+express 3500 passenger,chevrolet,van,8 cylinders,full-size,rwd
+versa,nissan,hatchback,4 cylinders,compact,fwd
+cavalier,chevrolet,sedan,4 cylinders,compact,fwd
+outback,subaru,hatchback,6 cylinders,mid-size,4wd
+ranger supercab xlt,ford,pickup,6 cylinders,mid-size,rwd
+traverse,chevrolet,SUV,6 cylinders,mid-size,fwd
+grand cherokee,jeep,SUV,10 cylinders,full-size,4wd
+sierra denali,gmc,pickup,8 cylinders,full-size,4wd
+bronco,ford,offroad,8 cylinders,full-size,4wd
+g37 sedan,infiniti,sedan,6 cylinders,compact,rwd
+passat,volkswagen,sedan,6 cylinders,mid-size,fwd
+charger r/t,dodge,sedan,8 cylinders,full-size,4wd
+spectra5,kia,hatchback,4 cylinders,compact,fwd
+express 2500 v8,chevrolet,van,8 cylinders,full-size,rwd
+blazer,chevrolet,SUV,6 cylinders,full-size,4wd
+silverado,chevrolet,SUV,8 cylinders,full-size,4wd
+1500,ram,truck,10 cylinders,full-size,4wd
+transit connect wagon,ford,mini-van,4 cylinders,mid-size,fwd
+f-150 xlt,ford,pickup,6 cylinders,full-size,4wd
+outback 2.5i premium,subaru,SUV,4 cylinders,full-size,4wd
+535i,bmw,sedan,6 cylinders,full-size,rwd
+x3 xdrive28i,bmw,SUV,6 cylinders,mid-size,fwd
+canyon crew cab,gmc,pickup,5 cylinders,mid-size,rwd
+colorado extended cab,chevrolet,pickup,5 cylinders,mid-size,4wd
+verza,nissan,sedan,4 cylinders,mid-size,fwd
+colorado z71,chevrolet,pickup,5 cylinders,mid-size,4wd
+firebird,pontiac,coupe,8 cylinders,full-size,rwd
+cooper clubman s,mini,hatchback,4 cylinders,full-size,fwd
+wrangler sahara 4x4,jeep,SUV,6 cylinders,full-size,4wd
+optima lx,kia,sedan,4 cylinders,mid-size,fwd
+f250 super duty,ford,truck,10 cylinders,full-size,4wd
+passat,volkswagen,sedan,6 cylinders,full-size,fwd
+equinox ls,chevrolet,SUV,4 cylinders,sub-compact,fwd
+versa,nissan,hatchback,4 cylinders,sub-compact,fwd
+g6,pontiac,sedan,6 cylinders,compact,fwd
+silverado,chevrolet,sedan,6 cylinders,mid-size,rwd
+accent gls 4dr sedan,hyundai,sedan,4 cylinders,compact,fwd
+f-250 platinum,ford,pickup,8 cylinders,full-size,4wd
+solara,toyota,coupe,6 cylinders,mid-size,fwd
+f350 diesel powerstroke 4x4,ford,truck,8 cylinders,full-size,4wd
+civic coupe ex,honda,coupe,4 cylinders,compact,fwd
+silverado 4x4,chevrolet,truck,8 cylinders,full-size,4wd
+tacoma 4-dr 4x4,toyota,truck,6 cylinders,mid-size,4wd
+fiesta,ford,sedan,4 cylinders,sub-compact,fwd
+silverado 1500 lt,chevrolet,pickup,8 cylinders,full-size,4wd
+express 1500,chevrolet,van,6 cylinders,full-size,rwd
+suburban 1500,gmc,SUV,8 cylinders,full-size,4wd
+silverado z71,chevrolet,pickup,8 cylinders,full-size,4wd
+grand prix se,pontiac,sedan,6 cylinders,mid-size,fwd
+f-150 king ranch 4x4,ford,truck,8 cylinders,full-size,4wd
+f150 xl,ford,pickup,8 cylinders,full-size,4wd
+jimmy 4x4,gmc,SUV,8 cylinders,full-size,4wd
+grand cherokee overland,jeep,SUV,6 cylinders,full-size,4wd
+econoline e350 super duty,ford,van,8 cylinders,full-size,rwd
+hhr ls,chevrolet,SUV,4 cylinders,mid-size,fwd
+rouge sv,nissan,SUV,4 cylinders,mid-size,4wd
+g-4500 eldorado,chevrolet,bus,8 cylinders,full-size,rwd
+2500 4x4,ram,truck,6 cylinders,full-size,4wd
+elantra,hyundai,hatchback,4 cylinders,mid-size,fwd
+jimmy slt,gmc,SUV,6 cylinders,mid-size,rwd
+silverado 1500 lt,chevrolet,truck,8 cylinders,full-size,4wd
+envision,buick,SUV,6 cylinders,mid-size,4wd
+f150,ford,truck,8 cylinders,full-size,rwd
+pilot ex,honda,SUV,6 cylinders,full-size,4wd
+altima,nissan,coupe,4 cylinders,compact,rwd
+es300,lexus,sedan,6 cylinders,full-size,fwd
+"outback 2,5 i 4wd",subaru,wagon,4 cylinders,full-size,4wd
+yaris s,toyota,sedan,4 cylinders,compact,fwd
+f-150 4x4 supercrew pickup,ford,truck,6 cylinders,full-size,4wd
+civic si sedan,honda,sedan,4 cylinders,compact,fwd
+super duty f-550,ford,pickup,10 cylinders,full-size,4wd
+suburban lt 2500 4wd,chevrolet,SUV,8 cylinders,full-size,4wd
+silverado 1500 z71,chevrolet,pickup,8 cylinders,full-size,4wd
+cr-v exl,honda,SUV,4 cylinders,mid-size,fwd
+camry hybrid,toyota,sedan,4 cylinders,compact,fwd
+civic,honda,other,4 cylinders,mid-size,4wd
+accord,honda,coupe,4 cylinders,mid-size,rwd
+528i m sport,bmw,sedan,4 cylinders,mid-size,rwd
+encore touring,buick,SUV,4 cylinders,sub-compact,4wd
+ml350,mercedes-benz,SUV,6 cylinders,full-size,4wd
+fusion sport,ford,sedan,6 cylinders,full-size,fwd
+hhr,chevrolet,hatchback,4 cylinders,mid-size,fwd
+chevelle ss,chevrolet,coupe,8 cylinders,full-size,rwd
+350z,nissan,hatchback,6 cylinders,mid-size,rwd
+taurus sho awd,ford,sedan,6 cylinders,full-size,4wd
+yaris,toyota,hatchback,4 cylinders,compact,fwd
+patriot,jeep,SUV,4 cylinders,full-size,4wd
+wrx sti,subaru,sedan,4 cylinders,mid-size,4wd
+traverse lt,chevrolet,SUV,6 cylinders,mid-size,fwd
+pilot lx,honda,SUV,6 cylinders,full-size,4wd
+maxima se,nissan,sedan,6 cylinders,full-size,fwd
+liberty,jeep,SUV,6 cylinders,mid-size,4wd
+silverado 1500 ld,chevrolet,truck,8 cylinders,mid-size,4wd
+spectra5 sx,kia,hatchback,4 cylinders,mid-size,fwd
+2500 slt crew cummins,ram,pickup,6 cylinders,full-size,rwd
+altima 2.5 sv,nissan,sedan,4 cylinders,mid-size,fwd
+f250 super duty,ford,pickup,8 cylinders,full-size,rwd
+hr-v ex-l w/navi,honda,SUV,4 cylinders,sub-compact,4wd
+300,chrysler,sedan,6 cylinders,full-size,4wd
+enclave cxl awd,buick,SUV,6 cylinders,full-size,4wd
+lucerne,buick,sedan,8 cylinders,full-size,fwd
+a4,audi,sedan,4 cylinders,sub-compact,4wd
+a8 l,audi,sedan,8 cylinders,full-size,4wd
+x5 xdrive35i,bmw,SUV,6 cylinders,full-size,4wd
+f250 super duty 4x4,ford,truck,8 cylinders,full-size,4wd
+sonata,hyundai,other,4 cylinders,mid-size,fwd
+versa sl,nissan,sedan,4 cylinders,mid-size,fwd
+qx56,infiniti,SUV,8 cylinders,full-size,rwd
+f350 4x4,ford,pickup,8 cylinders,full-size,4wd
+6 series,bmw,coupe,8 cylinders,mid-size,4wd
+srx,cadillac,SUV,6 cylinders,compact,fwd
+highlander limited,toyota,SUV,6 cylinders,mid-size,fwd
+aveo,chevrolet,sedan,4 cylinders,compact,fwd
+sebring convertible,chrysler,convertible,6 cylinders,full-size,fwd
+tacoma 4x4,toyota,truck,4 cylinders,mid-size,4wd
+f550,ford,truck,8 cylinders,full-size,rwd
+silverado 1500 4 x 4,chevrolet,truck,8 cylinders,full-size,4wd
+deville,cadillac,sedan,8 cylinders,full-size,rwd
+passat 1.8t,volkswagen,sedan,4 cylinders,full-size,fwd
+xterra 4x4,nissan,SUV,6 cylinders,mid-size,4wd
+ion quad coupe,saturn,coupe,4 cylinders,compact,fwd
+expedition eddie bauer,ford,SUV,8 cylinders,full-size,rwd
+hhr,chevrolet,van,4 cylinders,full-size,fwd
+sienna,toyota,mini-van,6 cylinders,mid-size,fwd
+fj cruiser 91k miles,toyota,SUV,6 cylinders,full-size,rwd
+trailblazer ext,chevrolet,SUV,6 cylinders,mid-size,4wd
+express cargo van,chevrolet,van,8 cylinders,mid-size,4wd
+rx300,lexus,SUV,6 cylinders,mid-size,4wd
+crv ex-l,honda,SUV,4 cylinders,mid-size,fwd
+300m special,chrysler,sedan,6 cylinders,full-size,fwd
+grand cherokee limited,jeep,SUV,6 cylinders,mid-size,4wd
+sorento,kia,SUV,4 cylinders,full-size,fwd
+benz cla250 4matic,mercedes-benz,coupe,4 cylinders,mid-size,4wd
+428i xdrive,bmw,coupe,4 cylinders,mid-size,4wd
+charger,dodge,sedan,8 cylinders,full-size,4wd
+express cutaway,chevrolet,van,8 cylinders,full-size,rwd
+cr-v,honda,SUV,4 cylinders,compact,fwd
+crosstrek,subaru,wagon,4 cylinders,mid-size,4wd
+edge,ford,SUV,6 cylinders,full-size,rwd
+f350 king ranch,ford,truck,8 cylinders,full-size,4wd
+mazda6 i touring,mazda,sedan,4 cylinders,mid-size,fwd
+ranger v-6,ford,truck,6 cylinders,mid-size,rwd
+1500,ram,truck,8 cylinders,full-size,fwd
+rio,kia,sedan,4 cylinders,sub-compact,fwd
+town and country l,chrysler,mini-van,6 cylinders,full-size,fwd
+300,chrysler,sedan,8 cylinders,full-size,rwd
+benz e320,mercedes-benz,other,6 cylinders,mid-size,rwd
+cr-v ex-l,honda,SUV,4 cylinders,compact,fwd
+wrangler x,jeep,SUV,6 cylinders,compact,4wd
+sierra 2500hd crew cab,gmc,pickup,8 cylinders,full-size,4wd
+fleetwood brougham,cadillac,sedan,8 cylinders,full-size,fwd
+outback 2.5xt,subaru,SUV,4 cylinders,mid-size,4wd
+sonata gls,hyundai,sedan,4 cylinders,mid-size,fwd
+ram1500 crew cab,dodge,pickup,8 cylinders,full-size,4wd
+focus zx3,ford,hatchback,4 cylinders,compact,fwd
+f550 4x4,ford,truck,8 cylinders,full-size,4wd
+pt cruiser,chrysler,hatchback,4 cylinders,full-size,fwd
+xc70 awd,volvo,wagon,6 cylinders,full-size,4wd
+328ci,bmw,coupe,6 cylinders,mid-size,fwd
+escape sel,ford,SUV,4 cylinders,sub-compact,fwd
+titan,nissan,truck,8 cylinders,mid-size,4wd
+pt cruiser,chrysler,SUV,4 cylinders,mid-size,fwd
+truck,chevrolet,truck,8 cylinders,full-size,rwd
+f250 xl,ford,pickup,8 cylinders,full-size,rwd
+camaro,chevrolet,coupe,8 cylinders,compact,rwd
+f-150 lariat 4wd super crew,ford,pickup,8 cylinders,full-size,4wd
+2500,ram,truck,other,full-size,4wd
+f150 stx,ford,pickup,other,full-size,4wd
+xf supercharged,jaguar,sedan,8 cylinders,compact,rwd
+sedona lx,kia,van,6 cylinders,full-size,fwd
+cherokee sport 4x4,jeep,SUV,6 cylinders,mid-size,4wd
+spark,chevrolet,hatchback,4 cylinders,compact,fwd
+dakota,dodge,pickup,6 cylinders,full-size,4wd
+camaro lt 6 speed,chevrolet,coupe,6 cylinders,full-size,rwd
+sonic,chevrolet,sedan,4 cylinders,compact,fwd
+e-250,ford,van,6 cylinders,full-size,rwd
+accord se sedan,honda,sedan,4 cylinders,full-size,fwd
+t-bird,ford,coupe,8 cylinders,mid-size,rwd
+ridgeline,honda,pickup,6 cylinders,mid-size,4wd
+camry,toyota,sedan,6 cylinders,full-size,fwd
+wrangler 4x4,jeep,offroad,6 cylinders,full-size,4wd
+terrain sle,gmc,SUV,4 cylinders,mid-size,fwd
+lesabre,buick,sedan,6 cylinders,full-size,fwd
+jimmy,gmc,SUV,6 cylinders,mid-size,4wd
+wrangler yj,jeep,offroad,6 cylinders,full-size,4wd
+ls430,lexus,sedan,8 cylinders,full-size,rwd
+windstar van,ford,mini-van,6 cylinders,mid-size,fwd
+escape,ford,SUV,4 cylinders,full-size,rwd
+jetta se,volkswagen,sedan,4 cylinders,mid-size,fwd
+f-250,ford,truck,10 cylinders,full-size,4wd
+prius,toyota,sedan,4 cylinders,full-size,fwd
+genesis coupe 2.0t,hyundai,coupe,4 cylinders,mid-size,rwd
+1500 lt,chevrolet,truck,8 cylinders,full-size,rwd
+grand prix gt,pontiac,sedan,6 cylinders,full-size,fwd
+century custom,buick,sedan,6 cylinders,full-size,fwd
+wrangler unlimited sahara,jeep,SUV,6 cylinders,mid-size,4wd
+tacoma,toyota,pickup,4 cylinders,mid-size,4wd
+x5,bmw,SUV,6 cylinders,mid-size,4wd
+maxima,nissan,sedan,6 cylinders,mid-size,rwd
+patriot,jeep,SUV,4 cylinders,mid-size,4wd
+2500 cargo van,chevrolet,van,8 cylinders,full-size,rwd
+envoy slt,gmc,SUV,6 cylinders,full-size,4wd
+330e iperformance,bmw,sedan,4 cylinders,compact,rwd
+acadia,gmc,SUV,4 cylinders,mid-size,4wd
+wrangler 4x4,jeep,offroad,6 cylinders,mid-size,4wd
+f150 stx super cab 4x4,ford,truck,8 cylinders,mid-size,4wd
+rsx type s,acura,coupe,4 cylinders,compact,fwd
+jetta tdi diesel,volkswagen,sedan,4 cylinders,compact,fwd
+passat,volkswagen,sedan,4 cylinders,compact,fwd
+i3 range extender hatchback,bmw,hatchback,other,mid-size,rwd
+s7,audi,sedan,8 cylinders,full-size,4wd
+wrangler sport 4.0,jeep,SUV,6 cylinders,mid-size,4wd
+king cab xe,nissan,pickup,4 cylinders,compact,rwd
+s70,volvo,sedan,5 cylinders,mid-size,rwd
+raider,mitsubishi,pickup,8 cylinders,full-size,4wd
+freestar sel,ford,van,6 cylinders,full-size,fwd
+e-class,mercedes-benz,coupe,6 cylinders,sub-compact,rwd
+300c,chrysler,sedan,6 cylinders,full-size,rwd
+durango slt 4x4,dodge,SUV,8 cylinders,full-size,4wd
+impala lt,chevrolet,sedan,6 cylinders,mid-size,fwd
+sierra 3500hd denali,gmc,pickup,8 cylinders,full-size,4wd
+rogue,nissan,wagon,4 cylinders,compact,4wd
+2500,ram,pickup,8 cylinders,full-size,rwd
+1500,chevrolet,truck,8 cylinders,full-size,4wd
+travese,chevrolet,SUV,6 cylinders,full-size,fwd
+gti,volkswagen,hatchback,10 cylinders,compact,4wd
+cts,cadillac,coupe,6 cylinders,mid-size,4wd
+accord hybrid,honda,sedan,4 cylinders,mid-size,fwd
+benz e320,mercedes-benz,sedan,6 cylinders,mid-size,rwd
+ranger xlt,ford,pickup,6 cylinders,mid-size,4wd
+canyon,gmc,truck,5 cylinders,full-size,4wd
+mazda6,mazda,sedan,6 cylinders,compact,fwd
+200 limited,chrysler,sedan,4 cylinders,full-size,fwd
+f150 lariat,ford,pickup,8 cylinders,full-size,rwd
+cummins 3500 laramie,ram,pickup,6 cylinders,full-size,4wd
+sml 320,mercedes-benz,SUV,6 cylinders,mid-size,4wd
+silverado 1500 z-71 4x4,chevrolet,truck,8 cylinders,full-size,4wd
+sprinter,mercedes-benz,van,6 cylinders,full-size,rwd
+a6 premium quattro 3.0,audi,sedan,6 cylinders,full-size,4wd
+rx330 premium,lexus,SUV,6 cylinders,mid-size,fwd
+f-250 xl,ford,truck,8 cylinders,full-size,rwd
+landcruiser fj60,toyota,offroad,6 cylinders,full-size,4wd
+f250 super duty,ford,pickup,10 cylinders,full-size,4wd
+crv elx,honda,SUV,4 cylinders,mid-size,fwd
+s-type,jaguar,sedan,8 cylinders,mid-size,rwd
+f-150 xlt supercrew 4x4 sb,ford,truck,8 cylinders,full-size,4wd
+ls460,lexus,sedan,8 cylinders,full-size,rwd
+sierra z71 4x4,gmc,truck,8 cylinders,full-size,4wd
+transit cargo,ford,van,6 cylinders,full-size,rwd
+440,dodge,sedan,8 cylinders,full-size,rwd
+eurovan camper,volkswagen,van,6 cylinders,full-size,fwd
+mpv lx,mazda,SUV,6 cylinders,mid-size,fwd
+galant,mitsubishi,sedan,4 cylinders,full-size,fwd
+edge sel awd,ford,SUV,6 cylinders,compact,4wd
+stepside,chevrolet,truck,other,full-size,fwd
+a6,audi,sedan,6 cylinders,mid-size,4wd
+ats,cadillac,coupe,4 cylinders,mid-size,4wd
+armada se,nissan,SUV,8 cylinders,full-size,4wd
+s4,audi,sedan,8 cylinders,mid-size,4wd
+town & country,chrysler,mini-van,6 cylinders,mid-size,fwd
+monterey,mercury,coupe,8 cylinders,full-size,rwd
+e-class e 500 4ma,mercedes-benz,wagon,8 cylinders,full-size,4wd
+g6,pontiac,sedan,6 cylinders,mid-size,fwd
+f350 lariat,ford,pickup,8 cylinders,full-size,4wd
+gs350,lexus,sedan,6 cylinders,full-size,4wd
+jimmy,gmc,SUV,6 cylinders,full-size,4wd
+2500 big horn,ram,truck,8 cylinders,full-size,4wd
+mariner,mercury,SUV,6 cylinders,mid-size,fwd
+prius hybrid,toyota,hatchback,4 cylinders,full-size,fwd
+benz e350,mercedes-benz,sedan,6 cylinders,mid-size,rwd
+impala,chevrolet,sedan,4 cylinders,mid-size,fwd
+optima sx turbo,kia,sedan,4 cylinders,compact,rwd
+camry solara,toyota,convertible,6 cylinders,compact,fwd
+740i,bmw,sedan,8 cylinders,full-size,rwd
+sky roadster 2d,saturn,convertible,4 cylinders,mid-size,rwd
+q50,infiniti,sedan,6 cylinders,mid-size,rwd
+dts premium collection,cadillac,sedan,8 cylinders,full-size,fwd
+e450 shuttle bus,ford,bus,8 cylinders,full-size,rwd
+2500 laramie slt,ram,pickup,8 cylinders,full-size,4wd
+cx-3,mazda,SUV,4 cylinders,compact,4wd
+journey,dodge,SUV,4 cylinders,mid-size,fwd
+ranger,ford,truck,4 cylinders,mid-size,rwd
+equinox,chevrolet,SUV,6 cylinders,full-size,4wd
+tundra double cab 4x4,toyota,truck,8 cylinders,full-size,4wd
+f-250 lariat,ford,pickup,6 cylinders,full-size,4wd
+camry xle,toyota,sedan,4 cylinders,mid-size,fwd
+sonata,hyundai,sedan,6 cylinders,full-size,fwd
+civic hybrid,honda,sedan,4 cylinders,compact,4wd
+impreza sport,subaru,hatchback,4 cylinders,compact,4wd
+silverado 4x4 ltz,chevrolet,truck,8 cylinders,full-size,rwd
+corvette z06,chevrolet,coupe,8 cylinders,mid-size,rwd
+chevelle,chevrolet,sedan,8 cylinders,full-size,rwd
+6 i touring,mazda,sedan,4 cylinders,full-size,fwd
+deville dhs,cadillac,sedan,8 cylinders,full-size,fwd
+liberty,jeep,SUV,6 cylinders,mid-size,rwd
+grand cherokee laredo,jeep,SUV,8 cylinders,mid-size,rwd
+accord coupe ex-l,honda,coupe,4 cylinders,mid-size,fwd
+flex,ford,SUV,6 cylinders,mid-size,fwd
+transit connect xlt,ford,SUV,4 cylinders,full-size,fwd
+civic ex,honda,coupe,4 cylinders,mid-size,fwd
+odyssey ex,honda,mini-van,6 cylinders,full-size,fwd
+silverado crew cab,chevrolet,pickup,8 cylinders,full-size,rwd
+acadia slt,gmc,SUV,6 cylinders,full-size,fwd
+sonata sport,hyundai,sedan,4 cylinders,mid-size,fwd
+avenger se,dodge,sedan,6 cylinders,mid-size,fwd
+cr-v lx,honda,SUV,4 cylinders,full-size,fwd
+outback,subaru,wagon,4 cylinders,full-size,4wd
+a6 premium plus quattro,audi,sedan,4 cylinders,full-size,4wd
+3500 4x4 2500,ram,truck,6 cylinders,full-size,4wd
+imprezza wrx/awd 4-door,subaru,sedan,4 cylinders,mid-size,4wd
+2500 4x4 long bed,gmc,truck,8 cylinders,full-size,4wd
+highlander plus .one owne,toyota,SUV,6 cylinders,full-size,fwd
+a3,audi,wagon,4 cylinders,compact,fwd
+soul,kia,SUV,4 cylinders,mid-size,fwd
+f250 superduty,ford,truck,8 cylinders,full-size,rwd
+impreza 2.5i premium awd,subaru,sedan,4 cylinders,mid-size,4wd
+grand prix,pontiac,sedan,8 cylinders,compact,rwd
+excursion,ford,SUV,10 cylinders,full-size,rwd
+envoy denali,gmc,SUV,8 cylinders,mid-size,4wd
+santa fe,hyundai,SUV,6 cylinders,mid-size,4wd
+spark,chevrolet,hatchback,4 cylinders,mid-size,fwd
+v70,volvo,wagon,4 cylinders,mid-size,fwd
+sienna xle,toyota,mini-van,6 cylinders,mid-size,fwd
+f-250,ford,truck,8 cylinders,full-size,rwd
+malibu premier,chevrolet,sedan,6 cylinders,mid-size,fwd
+expedition xlt,ford,truck,8 cylinders,full-size,rwd
+sonis,chevrolet,sedan,4 cylinders,mid-size,fwd
+new yorker,chrysler,sedan,8 cylinders,full-size,rwd
+focus,ford,sedan,3 cylinders,compact,fwd
+yukon xl slt,gmc,SUV,8 cylinders,full-size,4wd
+freestar,ford,mini-van,6 cylinders,full-size,fwd
+suv,infiniti,SUV,6 cylinders,full-size,4wd
+650i,bmw,coupe,8 cylinders,mid-size,rwd
+g37x,infiniti,coupe,6 cylinders,compact,4wd
+malibu,chevrolet,sedan,6 cylinders,mid-size,fwd
+sierra 3500hd 4x4,gmc,pickup,8 cylinders,full-size,4wd
+sl500,mercedes-benz,convertible,8 cylinders,compact,rwd
+ranger,ford,truck,4 cylinders,compact,rwd
+rendezvous,buick,SUV,6 cylinders,mid-size,4wd
+sable ls,mercury,sedan,6 cylinders,mid-size,fwd
+renegade sport,jeep,SUV,4 cylinders,mid-size,4wd
+land cruiser 1997,toyota,SUV,6 cylinders,full-size,4wd
+fit,honda,hatchback,4 cylinders,sub-compact,fwd
+gti,volkswagen,hatchback,4 cylinders,compact,fwd
+a4 quattro,audi,sedan,4 cylinders,mid-size,4wd
+nv1500,nissan,van,6 cylinders,full-size,rwd
+impala limited,chevrolet,sedan,6 cylinders,compact,fwd
+f100,ford,truck,8 cylinders,full-size,fwd
+f-350 super duty,ford,truck,8 cylinders,full-size,4wd
+cobalt lt,chevrolet,coupe,4 cylinders,mid-size,rwd
+optima lx,kia,sedan,4 cylinders,compact,fwd
+acadia sle,gmc,SUV,4 cylinders,mid-size,fwd
+325i,bmw,sedan,4 cylinders,mid-size,rwd
+rx350 f-sport,lexus,SUV,6 cylinders,mid-size,4wd
+f-250 super duty,ford,truck,8 cylinders,full-size,4wd
+tacoma double cab,toyota,truck,6 cylinders,full-size,4wd
+cruze lt,chevrolet,sedan,4 cylinders,compact,fwd
+325i,bmw,sedan,6 cylinders,mid-size,rwd
+charger,dodge,sedan,8 cylinders,compact,rwd
+journey,dodge,SUV,6 cylinders,full-size,fwd
+sierra 3500hd,gmc,pickup,8 cylinders,full-size,4wd
+sentra,nissan,sedan,4 cylinders,full-size,fwd
+f250 super duty lariat,ford,pickup,8 cylinders,full-size,4wd
+aura,saturn,sedan,4 cylinders,mid-size,fwd
+pathfinder,nissan,SUV,6 cylinders,full-size,4wd
+2.5i sport wagon awd,subaru,hatchback,4 cylinders,compact,4wd
+impala ss,chevrolet,coupe,8 cylinders,full-size,rwd
+other,subaru,sedan,4 cylinders,compact,4wd
+accord ex-l,honda,sedan,6 cylinders,mid-size,rwd
+transit 250,ford,van,6 cylinders,full-size,rwd
+outlander sport,mitsubishi,SUV,4 cylinders,compact,fwd
+is250 sedan,lexus,sedan,6 cylinders,compact,rwd
+fiesta,ford,sedan,4 cylinders,compact,fwd
+pt cruiser,chrysler,wagon,4 cylinders,mid-size,fwd
+srx awd,cadillac,SUV,6 cylinders,full-size,4wd
+cruze,chevrolet,sedan,4 cylinders,full-size,fwd
+f-150 raptor,ford,truck,6 cylinders,full-size,4wd
+taurus,ford,sedan,4 cylinders,full-size,fwd
+ssr ls,chevrolet,truck,8 cylinders,full-size,rwd
+f350 super duty,ford,pickup,8 cylinders,full-size,rwd
+sierra 1500 z-71 4x4,gmc,truck,8 cylinders,full-size,4wd
+caliber,dodge,SUV,4 cylinders,compact,fwd
+f-350 xl 4x4,ford,pickup,8 cylinders,full-size,4wd
+charger,dodge,sedan,6 cylinders,compact,rwd
+enclave,buick,SUV,6 cylinders,mid-size,fwd
+1500,ram,truck,6 cylinders,mid-size,rwd
+convertible,mini,convertible,4 cylinders,sub-compact,fwd
+rx 300,lexus,SUV,6 cylinders,mid-size,4wd
+viper rt/10,dodge,coupe,10 cylinders,compact,rwd
+suburban 1500 ltz,chevrolet,SUV,6 cylinders,full-size,4wd
+g37 coupe journey,infiniti,coupe,6 cylinders,mid-size,rwd
+rogue,nissan,SUV,4 cylinders,compact,4wd
+nitro,dodge,SUV,6 cylinders,mid-size,rwd
+m3,bmw,sedan,10 cylinders,compact,4wd
+silverado 1500 ld,chevrolet,truck,8 cylinders,mid-size,rwd
+kodiak,chevrolet,other,6 cylinders,full-size,4wd
+f150 supercrew xlt 4x4,ford,pickup,6 cylinders,full-size,4wd
+maxima s,nissan,sedan,6 cylinders,full-size,fwd
+silverado 1500 lt 4x4,chevrolet,offroad,8 cylinders,full-size,4wd
+960,volvo,sedan,4 cylinders,full-size,rwd
+new beetle,volkswagen,hatchback,4 cylinders,compact,fwd
+cobalt ss,chevrolet,coupe,4 cylinders,compact,fwd
+f250,ford,pickup,8 cylinders,mid-size,4wd
+cruze ltz,chevrolet,sedan,4 cylinders,compact,fwd
+mirage,mitsubishi,coupe,4 cylinders,compact,fwd
+prelude,honda,coupe,4 cylinders,compact,rwd
+altima 2.5 s,nissan,sedan,4 cylinders,full-size,fwd
+cl600,mercedes-benz,coupe,12 cylinders,full-size,rwd
+navigator l,lincoln,SUV,6 cylinders,full-size,4wd
+ranger,ford,pickup,4 cylinders,compact,rwd
+c-10 silverado,chevrolet,pickup,8 cylinders,full-size,rwd
+traverse ltz,chevrolet,SUV,6 cylinders,mid-size,4wd
+cx-5,mazda,SUV,4 cylinders,full-size,4wd
+3 series,bmw,coupe,6 cylinders,mid-size,4wd
+200 lx,chrysler,sedan,4 cylinders,mid-size,fwd
+rx330,lexus,SUV,6 cylinders,full-size,rwd
+taurus sel,ford,sedan,6 cylinders,mid-size,fwd
+altima 2.5 sl,nissan,sedan,4 cylinders,full-size,fwd
+tacoma double cab sr5,toyota,truck,6 cylinders,mid-size,fwd
+explorer,ford,SUV,6 cylinders,mid-size,rwd
+land cruiser,toyota,SUV,6 cylinders,full-size,4wd
+fusion titanium,ford,sedan,4 cylinders,mid-size,fwd
+prius plug in,toyota,sedan,4 cylinders,full-size,fwd
+fairlane,ford,coupe,8 cylinders,full-size,rwd
+benz e320,mercedes-benz,sedan,8 cylinders,full-size,rwd
+jetta,volkswagen,sedan,4 cylinders,full-size,fwd
+zephyr,lincoln,sedan,6 cylinders,mid-size,fwd
+slt 4x4 duramax,gmc,pickup,8 cylinders,full-size,4wd
+pilot ex,honda,SUV,6 cylinders,full-size,fwd
+camry se,toyota,sedan,4 cylinders,mid-size,fwd
+mustang shelby gt500,ford,other,8 cylinders,mid-size,rwd
+milan,mercury,sedan,4 cylinders,compact,fwd
+d150,ram,truck,6 cylinders,full-size,rwd
+transit 350,ford,van,6 cylinders,full-size,rwd
+express cargo van,chevrolet,van,8 cylinders,mid-size,rwd
+trailblazer,chevrolet,SUV,6 cylinders,mid-size,rwd
+cr-v ex-l crv exl,honda,SUV,4 cylinders,full-size,fwd
+escape xlt,ford,SUV,6 cylinders,full-size,fwd
+350z,nissan,coupe,6 cylinders,mid-size,rwd
+firebird,pontiac,coupe,6 cylinders,mid-size,rwd
+c4500,chevrolet,truck,8 cylinders,full-size,fwd
+rendezvous,buick,SUV,6 cylinders,full-size,fwd
+civic,honda,hatchback,4 cylinders,sub-compact,fwd
+sentra sv - rear camera - bluetooth - sunroof - ga,nissan,sedan,4 cylinders,mid-size,fwd
+malibu lt,chevrolet,sedan,4 cylinders,full-size,fwd
+2500 slt,ram,truck,8 cylinders,full-size,4wd
+encore sport touring,buick,SUV,4 cylinders,mid-size,fwd
+outlook xr,saturn,sedan,6 cylinders,full-size,fwd
+cooper 4 door,mini,hatchback,3 cylinders,compact,fwd
+impreza,subaru,sedan,4 cylinders,mid-size,4wd
+excursion eddie bauer,ford,SUV,6 cylinders,full-size,4wd
+outback 2.5i premium,subaru,wagon,4 cylinders,mid-size,4wd
+slt,dodge,other,6 cylinders,full-size,rwd
+200,chrysler,sedan,4 cylinders,full-size,fwd
+fit ex hatchback 4d,honda,hatchback,4 cylinders,mid-size,fwd
+rsx,acura,coupe,4 cylinders,compact,fwd
+convertible,mini,convertible,3 cylinders,sub-compact,fwd
+camry se,toyota,sedan,4 cylinders,full-size,fwd
+express,chevrolet,van,8 cylinders,mid-size,rwd
+aveo ls,chevrolet,sedan,4 cylinders,compact,fwd
+tacoma,toyota,truck,4 cylinders,sub-compact,rwd
+m3 sedan 2015,bmw,sedan,6 cylinders,mid-size,rwd
+es 300,lexus,sedan,4 cylinders,full-size,fwd
+fusion titanium,ford,sedan,6 cylinders,mid-size,fwd
+silverado 1500,chevrolet,truck,6 cylinders,mid-size,rwd
+explorer xlt 4x4,ford,truck,6 cylinders,mid-size,4wd
+xj8,jaguar,sedan,8 cylinders,full-size,rwd
+tucson,hyundai,SUV,4 cylinders,compact,4wd
+tacoma 4x4,toyota,pickup,4 cylinders,mid-size,4wd
+sprinter 2500,mercedes-benz,van,6 cylinders,full-size,rwd
+sierra 4x4 extended cab,gmc,truck,8 cylinders,full-size,4wd
+acadia,gmc,SUV,10 cylinders,full-size,4wd
+dakota club cab slt,dodge,truck,8 cylinders,mid-size,rwd
+susburban ltz 4x4,chevrolet,SUV,8 cylinders,full-size,4wd
+super duty f450,ford,truck,10 cylinders,full-size,rwd
+camry,toyota,sedan,4 cylinders,full-size,rwd
+jetta sportwagen se,volkswagen,wagon,4 cylinders,compact,fwd
+f150 lariat 4x4,ford,truck,8 cylinders,full-size,4wd
+altima 3.5 s,nissan,sedan,4 cylinders,full-size,fwd
+cr-v awd ex-l,honda,SUV,4 cylinders,mid-size,4wd
+wrangler jk sport,jeep,convertible,6 cylinders,compact,4wd
+srx,cadillac,SUV,6 cylinders,full-size,4wd
+civic ex sedan,honda,sedan,4 cylinders,mid-size,fwd
+colorado,chevrolet,truck,6 cylinders,mid-size,4wd
+prius c,toyota,sedan,4 cylinders,compact,fwd
+impreza,subaru,sedan,4 cylinders,compact,4wd
+camaro lt convertible,chevrolet,convertible,6 cylinders,full-size,rwd
+f-150 fx4 truck loaded for,ford,truck,6 cylinders,full-size,4wd
+ranger,ford,truck,6 cylinders,full-size,4wd
+venture,chevrolet,mini-van,6 cylinders,mid-size,rwd
+cube,nissan,wagon,4 cylinders,compact,fwd
+edge,ford,SUV,4 cylinders,full-size,4wd
+rx350 awd,lexus,SUV,6 cylinders,full-size,4wd
+428i,bmw,coupe,4 cylinders,mid-size,rwd
+genesis 3.8l,hyundai,sedan,6 cylinders,mid-size,rwd
+xjl,jaguar,sedan,8 cylinders,full-size,4wd
+veloster,hyundai,hatchback,4 cylinders,compact,fwd
+g37x,infiniti,sedan,6 cylinders,full-size,4wd
+sienna ce,toyota,mini-van,6 cylinders,full-size,fwd
+accord sport sedan 4d,honda,sedan,4 cylinders,full-size,fwd
+sebring,chrysler,convertible,6 cylinders,mid-size,fwd
+is 250,lexus,sedan,6 cylinders,mid-size,4wd
+q50,infiniti,sedan,6 cylinders,full-size,rwd
+2500 cummins,ram,pickup,6 cylinders,full-size,4wd
+cherokee,jeep,SUV,4 cylinders,compact,fwd
+traverse lt awd,chevrolet,SUV,6 cylinders,full-size,4wd
+pickup 3500 laramie 4,ram,pickup,6 cylinders,full-size,4wd
+cruze lt,chevrolet,sedan,4 cylinders,full-size,fwd
+428i m sport package,bmw,coupe,4 cylinders,compact,rwd
+xterra,nissan,SUV,6 cylinders,full-size,fwd
+f 250 powerstroke,ford,truck,8 cylinders,full-size,4wd
+renegade,jeep,SUV,4 cylinders,full-size,rwd
+caravan sxt,dodge,mini-van,6 cylinders,mid-size,fwd
+4dr ext cab sle,gmc,truck,8 cylinders,full-size,rwd
+4-series,bmw,coupe,6 cylinders,mid-size,4wd
+milan,mercury,sedan,6 cylinders,mid-size,fwd
+pt cruiser,chrysler,truck,4 cylinders,compact,fwd
+mariner premier,mercury,SUV,6 cylinders,full-size,fwd
+impreza,subaru,wagon,4 cylinders,mid-size,4wd
+aztek,pontiac,SUV,6 cylinders,full-size,fwd
+cherokee latitude,jeep,SUV,4 cylinders,mid-size,4wd
+traverse lt,chevrolet,wagon,6 cylinders,full-size,fwd
+odyssey,honda,van,6 cylinders,mid-size,fwd
+v70 wagon,volvo,wagon,5 cylinders,full-size,fwd
+tucson,hyundai,SUV,4 cylinders,full-size,fwd
+cr-v ex,honda,SUV,4 cylinders,compact,4wd
+sprinter 2500,mercedes-benz,van,6 cylinders,full-size,4wd
+deville limo,cadillac,other,8 cylinders,full-size,fwd
+grand am gt,pontiac,sedan,6 cylinders,mid-size,fwd
+deisel cummins 3500,ram,truck,6 cylinders,full-size,4wd
+terrain slt-2 awd,gmc,SUV,6 cylinders,compact,4wd
+s5 cabriolet,audi,convertible,6 cylinders,compact,4wd
+sport hse,rover,SUV,8 cylinders,full-size,4wd
+gti two door 2.0 turbo,volkswagen,hatchback,4 cylinders,compact,fwd
+f-150,ford,pickup,8 cylinders,mid-size,rwd
+sierra 4x4,gmc,truck,8 cylinders,compact,4wd
+suburban lt 1500,chevrolet,SUV,8 cylinders,full-size,4wd
+sc 400,lexus,coupe,8 cylinders,mid-size,rwd
+suburban 1500 ltz,chevrolet,sedan,8 cylinders,sub-compact,4wd
+cc,volkswagen,sedan,4 cylinders,full-size,fwd
+de-d7,volvo,truck,6 cylinders,full-size,rwd
+xterra 4x4,nissan,SUV,6 cylinders,full-size,4wd
+2500 slt,ram,truck,6 cylinders,full-size,4wd
+frontier ext cab sv,nissan,pickup,4 cylinders,mid-size,rwd
+m37,infiniti,sedan,6 cylinders,full-size,rwd
+f-350,ford,sedan,8 cylinders,full-size,4wd
+yaris,toyota,coupe,4 cylinders,compact,fwd
+special 2dr coupe,buick,coupe,8 cylinders,full-size,rwd
+3 series,bmw,sedan,6 cylinders,compact,rwd
+accord,honda,sedan,6 cylinders,full-size,fwd
+f-350 lariat diesel 4wd,ford,truck,8 cylinders,full-size,4wd
+g35 sedan,infiniti,sedan,6 cylinders,compact,rwd
+s5,audi,coupe,6 cylinders,sub-compact,4wd
+mustang convertible,ford,convertible,6 cylinders,mid-size,rwd
+wrangler jk sahara,jeep,offroad,6 cylinders,full-size,4wd
+q5,audi,SUV,10 cylinders,full-size,4wd
+cobalt lt,chevrolet,sedan,4 cylinders,mid-size,fwd
+accord sport,honda,sedan,4 cylinders,compact,fwd
+370 z,nissan,convertible,6 cylinders,mid-size,rwd
+f150 xl,ford,pickup,8 cylinders,full-size,rwd
+5-series,bmw,sedan,6 cylinders,mid-size,4wd
+milan,mercury,sedan,6 cylinders,full-size,4wd
+outback 2.5i wagon 4d,subaru,wagon,4 cylinders,mid-size,4wd
+1500 crew cab,ram,truck,8 cylinders,full-size,rwd
+benz c300,mercedes-benz,sedan,4 cylinders,mid-size,rwd
+eclipse gs,mitsubishi,hatchback,4 cylinders,mid-size,fwd
+2500 hd crew cab,chevrolet,pickup,8 cylinders,full-size,4wd
+dakota,dodge,truck,8 cylinders,full-size,4wd
+f150 fx4 supercrew,ford,truck,6 cylinders,full-size,4wd
+equinox lt,chevrolet,SUV,4 cylinders,mid-size,fwd
+yukon xl,gmc,SUV,8 cylinders,full-size,fwd
+300xl,chrysler,sedan,6 cylinders,full-size,4wd
+fusion se,ford,sedan,4 cylinders,full-size,fwd
+nitro sxt,dodge,SUV,6 cylinders,full-size,4wd
+f-150 xlt chrome package - navi - rear camera -,ford,pickup,6 cylinders,full-size,rwd
+d30 dump trk,dodge,truck,8 cylinders,full-size,rwd
+passat,volkswagen,SUV,4 cylinders,mid-size,fwd
+camry le,toyota,sedan,4 cylinders,full-size,fwd
+colorado lt,chevrolet,truck,4 cylinders,full-size,4wd
+mustang shelby gt350,ford,coupe,8 cylinders,mid-size,rwd
+lacrosse,buick,sedan,6 cylinders,mid-size,fwd
+rx 8,mazda,coupe,3 cylinders,mid-size,rwd
+f-250 sd,ford,truck,10 cylinders,full-size,4wd
+3.2tl,acura,sedan,6 cylinders,full-size,fwd
+cooper s,mini,hatchback,4 cylinders,mid-size,fwd
+a5,audi,coupe,4 cylinders,sub-compact,4wd
+f250 super duty xlt,ford,pickup,8 cylinders,full-size,4wd
+rogue sv,nissan,SUV,4 cylinders,compact,fwd
+frontier se crew cab,nissan,pickup,6 cylinders,mid-size,rwd
+compass,jeep,SUV,4 cylinders,full-size,4wd
+suburban z71,chevrolet,offroad,8 cylinders,full-size,4wd
+traverse lt awd,chevrolet,SUV,6 cylinders,mid-size,4wd
+f-750,ford,truck,6 cylinders,full-size,rwd
+cruze eco,chevrolet,sedan,4 cylinders,full-size,fwd
+e350 super duty van,ford,van,8 cylinders,full-size,rwd
+outback ilimited,subaru,SUV,4 cylinders,full-size,4wd
+savana g2500,gmc,truck,8 cylinders,full-size,rwd
+c300,mercedes-benz,sedan,6 cylinders,mid-size,rwd
+sierra 1500 sle z71,gmc,truck,8 cylinders,full-size,4wd
+trailblazer lt 4wd,chevrolet,SUV,6 cylinders,mid-size,4wd
+f450 super duty,ford,truck,8 cylinders,full-size,rwd
+soul,kia,sedan,4 cylinders,compact,fwd
+lacrosse cxl,buick,sedan,6 cylinders,full-size,fwd
+solara,toyota,coupe,4 cylinders,mid-size,fwd
+traverse,chevrolet,SUV,6 cylinders,full-size,4wd
+accord se,honda,sedan,6 cylinders,mid-size,fwd
+sportage,kia,SUV,4 cylinders,mid-size,4wd
+f-150 limited,ford,pickup,6 cylinders,full-size,4wd
+6,mazda,sedan,4 cylinders,mid-size,fwd
+sierra,gmc,truck,6 cylinders,full-size,rwd
+benz c230 v6,mercedes-benz,sedan,6 cylinders,full-size,rwd
+200 - new tires - heated seats - recently smogged,chrysler,sedan,4 cylinders,mid-size,fwd
+el camino,chevrolet,truck,8 cylinders,full-size,rwd
+equinox all wheel drive,chevrolet,SUV,6 cylinders,full-size,4wd
+ranger super cab,ford,truck,6 cylinders,full-size,rwd
+tundra pick up truck sr5,toyota,pickup,8 cylinders,full-size,rwd
+suburban lt 4x4,chevrolet,SUV,8 cylinders,full-size,4wd
+trailblazer lt,chevrolet,SUV,5 cylinders,full-size,4wd
+tacoma 4x4,toyota,pickup,6 cylinders,mid-size,4wd
+colorado,chevrolet,truck,4 cylinders,full-size,rwd
+ridgeline rts,honda,truck,6 cylinders,mid-size,4wd
+wrx premium,subaru,sedan,4 cylinders,full-size,4wd
+tacoma sr5,toyota,pickup,6 cylinders,mid-size,4wd
+suburban lt,chevrolet,SUV,8 cylinders,full-size,fwd
+cruze,chevrolet,coupe,4 cylinders,full-size,fwd
+escape titanium,ford,SUV,4 cylinders,mid-size,4wd
+cherokee,jeep,SUV,6 cylinders,full-size,4wd
+3500 dually,chevrolet,truck,8 cylinders,full-size,rwd
+2500 slt 4x4,ram,truck,6 cylinders,full-size,4wd
+s5 cabriolet,audi,convertible,6 cylinders,mid-size,4wd
+ranger xl,ford,truck,4 cylinders,mid-size,rwd
+accord sport 1.5 turbo,honda,sedan,4 cylinders,mid-size,fwd
+journey,dodge,SUV,6 cylinders,mid-size,fwd
+benz clk500,mercedes-benz,convertible,8 cylinders,mid-size,rwd
+f350,ford,pickup,8 cylinders,full-size,4wd
+fusion sel,ford,sedan,6 cylinders,full-size,fwd
+accord se 2 door,honda,coupe,4 cylinders,mid-size,fwd
+series one pickup,gmc,truck,6 cylinders,full-size,rwd
+tacoma prerunner dbl cab,toyota,pickup,6 cylinders,mid-size,rwd
+sable,mercury,sedan,6 cylinders,mid-size,fwd
+outback limited,subaru,hatchback,4 cylinders,full-size,fwd
+flex,ford,wagon,6 cylinders,full-size,4wd
+f250 super duty diesel xl,ford,truck,8 cylinders,full-size,rwd
+cts,cadillac,sedan,6 cylinders,mid-size,4wd
+forester 2.5i touring,subaru,wagon,4 cylinders,mid-size,4wd
+prius hybrid prius,toyota,sedan,4 cylinders,full-size,fwd
+f-550,ford,truck,8 cylinders,full-size,rwd
+e-series cargo e series car,ford,van,8 cylinders,full-size,rwd
+3500 flatbed 4x4 dually crew,ram,truck,8 cylinders,full-size,4wd
+legacy,subaru,wagon,4 cylinders,mid-size,4wd
+grand caravan,dodge,mini-van,4 cylinders,full-size,fwd
+cl 3.0,acura,coupe,6 cylinders,mid-size,fwd
+sierra,gmc,offroad,6 cylinders,full-size,rwd
+durango r/t,dodge,SUV,8 cylinders,full-size,4wd
+e 150 econoline,ford,van,8 cylinders,full-size,rwd
+rondo lx,kia,wagon,4 cylinders,full-size,fwd
+crosstrek,subaru,SUV,4 cylinders,compact,4wd
+accent gls,hyundai,sedan,4 cylinders,compact,fwd
+granada,ford,coupe,8 cylinders,full-size,rwd
+montana van,pontiac,van,6 cylinders,full-size,fwd
+camaro,chevrolet,coupe,6 cylinders,mid-size,fwd
+accord 4-door sedan,honda,sedan,4 cylinders,mid-size,fwd
+quest,nissan,van,6 cylinders,full-size,fwd
+liberty sport awd,jeep,SUV,6 cylinders,full-size,4wd
+cobalt,chevrolet,sedan,4 cylinders,compact,fwd
+crosstrek 2.0i premium,subaru,hatchback,4 cylinders,mid-size,4wd
+suburban 2500,chevrolet,SUV,8 cylinders,full-size,4wd
+avalon xl,toyota,sedan,6 cylinders,mid-size,fwd
+terrain,gmc,SUV,4 cylinders,full-size,fwd
+fleetmaster,chevrolet,hatchback,6 cylinders,full-size,rwd
+m3 coupe,bmw,coupe,6 cylinders,compact,rwd
+transit t150 xlt van,ford,van,6 cylinders,full-size,rwd
+captiva,chevrolet,SUV,4 cylinders,full-size,fwd
+f450 super duty,ford,pickup,8 cylinders,full-size,rwd
+rx 330,lexus,SUV,6 cylinders,full-size,fwd
+cruze eco fwd,chevrolet,sedan,4 cylinders,compact,fwd
+colorado crew cab,chevrolet,truck,5 cylinders,mid-size,rwd
+sonic lt rs,chevrolet,sedan,4 cylinders,sub-compact,fwd
+corvette,chevrolet,convertible,8 cylinders,compact,rwd
+rx 450h,lexus,SUV,6 cylinders,full-size,fwd
+benz 230 4,mercedes-benz,sedan,4 cylinders,full-size,rwd
+sierra 3500 hd crew cab,gmc,truck,8 cylinders,full-size,4wd
+wrangler 65 tj,jeep,SUV,6 cylinders,full-size,4wd
+camaro,chevrolet,sedan,6 cylinders,full-size,fwd
+tahoe ltz 4x4 captain's,chevrolet,SUV,8 cylinders,full-size,4wd
+equinox,chevrolet,SUV,6 cylinders,mid-size,4wd
+sebring,chrysler,sedan,6 cylinders,mid-size,fwd
+accord special edition,honda,sedan,4 cylinders,mid-size,fwd
+escape se 4x4,ford,SUV,4 cylinders,mid-size,4wd
+canyon,gmc,truck,6 cylinders,compact,rwd
+transit,ford,van,4 cylinders,mid-size,fwd
+impala ltz,chevrolet,sedan,6 cylinders,full-size,rwd
+journey sxt,dodge,van,4 cylinders,mid-size,fwd
+330ci,bmw,coupe,6 cylinders,compact,rwd
+navigator 4x4,lincoln,SUV,8 cylinders,full-size,4wd
+4runner limited lifted 4,toyota,SUV,6 cylinders,full-size,4wd
+silverado 1500hd,chevrolet,pickup,8 cylinders,full-size,4wd
+vue,saturn,SUV,4 cylinders,mid-size,fwd
+edge sel,ford,SUV,6 cylinders,full-size,fwd
+xlt lariat,ford,pickup,8 cylinders,full-size,rwd
+335i xdrive,bmw,coupe,6 cylinders,mid-size,4wd
+outback wagon new head gaskets and timing belt,subaru,wagon,4 cylinders,mid-size,4wd
+armada,nissan,SUV,8 cylinders,full-size,4wd
+avalanche z71 4x4,chevrolet,pickup,8 cylinders,full-size,4wd
+srx luxury,cadillac,SUV,6 cylinders,mid-size,fwd
+2500 laramie,ram,pickup,8 cylinders,full-size,4wd
+bronco,ford,SUV,8 cylinders,full-size,4wd
+suburban 1500,chevrolet,SUV,8 cylinders,full-size,4wd
+passat wagon,volkswagen,wagon,4 cylinders,full-size,fwd
+benz gl550,mercedes-benz,SUV,8 cylinders,full-size,4wd
+flex,ford,sedan,6 cylinders,full-size,fwd
+passat,volkswagen,sedan,5 cylinders,mid-size,fwd
+gti,volkswagen,hatchback,4 cylinders,sub-compact,fwd
+tiguan,volkswagen,SUV,4 cylinders,compact,fwd
+f250 lariat,ford,pickup,8 cylinders,full-size,4wd
+charger sxt awd,dodge,sedan,6 cylinders,mid-size,4wd
+mazda3,mazda,hatchback,4 cylinders,mid-size,fwd
+2500 passenger van,chevrolet,mini-van,8 cylinders,full-size,4wd
+200 limited,chrysler,sedan,4 cylinders,mid-size,fwd
+magnum sxt,dodge,sedan,6 cylinders,full-size,rwd
+cx-5,mazda,hatchback,4 cylinders,mid-size,fwd
+dakota,ram,pickup,6 cylinders,full-size,rwd
+tacoma double cab 4wd v6,toyota,truck,6 cylinders,mid-size,4wd
+touareg,volkswagen,SUV,6 cylinders,mid-size,4wd
+740il,bmw,sedan,8 cylinders,full-size,fwd
+pacifica limited,chrysler,SUV,6 cylinders,full-size,fwd
+q5 quattro premium plus,audi,SUV,4 cylinders,mid-size,4wd
+golf,volkswagen,coupe,4 cylinders,compact,fwd
+sierra,gmc,truck,8 cylinders,full-size,rwd
+1500 laramie 4x4,ram,pickup,8 cylinders,full-size,4wd
+f150 supercrew 4x4,ford,pickup,6 cylinders,full-size,4wd
+econoline,ford,van,8 cylinders,sub-compact,rwd
+cayenne,porche,SUV,8 cylinders,full-size,4wd
+c/k 3500,chevrolet,truck,8 cylinders,full-size,rwd
+encore leather,buick,SUV,4 cylinders,compact,fwd
+m2,bmw,coupe,6 cylinders,compact,rwd
+outback,subaru,SUV,6 cylinders,compact,4wd
+equinox ltz awd,chevrolet,SUV,4 cylinders,mid-size,4wd
+cx-5,mazda,mini-van,4 cylinders,mid-size,fwd
+accord,honda,coupe,6 cylinders,full-size,fwd
+continental reserve fwd,lincoln,sedan,6 cylinders,full-size,fwd
+outback 2.5i limited,subaru,wagon,4 cylinders,mid-size,4wd
+five hundred sel,ford,sedan,6 cylinders,compact,fwd
+cts,cadillac,sedan,6 cylinders,mid-size,fwd
+corvette,chevrolet,convertible,8 cylinders,mid-size,rwd
+xc90 2.ol turbo 4wd,volvo,SUV,4 cylinders,full-size,4wd
+grand cherokee srt8,jeep,SUV,8 cylinders,full-size,4wd
+sierra denali,gmc,truck,8 cylinders,full-size,4wd
+xc60 awd,volvo,SUV,6 cylinders,mid-size,4wd
+wrangler unlimited rubicon,jeep,SUV,6 cylinders,full-size,4wd
+s4 premium plus,audi,sedan,4 cylinders,compact,4wd
+acadia denali,gmc,SUV,6 cylinders,full-size,4wd
+3.2tl,acura,sedan,6 cylinders,full-size,rwd
+classic,rover,SUV,8 cylinders,full-size,4wd
+3500,chevrolet,truck,8 cylinders,full-size,4wd
+highlander,toyota,SUV,4 cylinders,mid-size,4wd
+200,chrysler,sedan,4 cylinders,compact,fwd
+650i convertible,bmw,convertible,8 cylinders,full-size,rwd
+matrix,toyota,wagon,4 cylinders,mid-size,fwd
+ranger crew cab lariat 4x4,ford,pickup,4 cylinders,mid-size,4wd
+rdx,acura,SUV,6 cylinders,compact,4wd
+odyssey,honda,SUV,6 cylinders,full-size,fwd
+corolla le 4dr sedan,toyota,sedan,4 cylinders,mid-size,fwd
+rx350 awd,lexus,SUV,6 cylinders,mid-size,4wd
+escape se,ford,SUV,4 cylinders,mid-size,4wd
+juke,nissan,SUV,4 cylinders,compact,fwd
+charger sxt,dodge,sedan,6 cylinders,full-size,rwd
+lancer evolution,mitsubishi,sedan,10 cylinders,compact,4wd
+odyssey lx,honda,mini-van,6 cylinders,full-size,fwd
+cr-v ex-l,honda,SUV,4 cylinders,mid-size,4wd
+grand cherokee limited 4x4,jeep,SUV,8 cylinders,mid-size,4wd
+1/2 ton pickups,gmc,truck,8 cylinders,full-size,4wd
+suburban z71,chevrolet,SUV,8 cylinders,full-size,4wd
+rav4 limited,toyota,SUV,4 cylinders,mid-size,fwd
+cadenza,kia,sedan,6 cylinders,mid-size,fwd
+ridgeline 4x4,honda,truck,6 cylinders,mid-size,4wd
+500 pop,fiat,hatchback,4 cylinders,compact,fwd
+explorer eddie bauer,ford,truck,6 cylinders,full-size,4wd
+cruze ls sedan,chevrolet,sedan,4 cylinders,full-size,fwd
+f150 super cab,ford,truck,8 cylinders,full-size,rwd
+deville,cadillac,sedan,8 cylinders,full-size,fwd
+bonneville,pontiac,sedan,6 cylinders,full-size,fwd
+highlander sport,toyota,SUV,6 cylinders,mid-size,4wd
+transit 350 wagon lowroofxl,ford,wagon,6 cylinders,mid-size,fwd
+trailblazer ls,chevrolet,SUV,6 cylinders,compact,fwd
+a3 awd premium plus,audi,sedan,4 cylinders,sub-compact,4wd
+silverado,chevrolet,pickup,6 cylinders,full-size,4wd
+mks,lincoln,sedan,6 cylinders,mid-size,4wd
+explorer eddie bauer,ford,SUV,6 cylinders,full-size,rwd
+sentra sr,nissan,sedan,4 cylinders,compact,fwd
+civic sport,honda,sedan,4 cylinders,full-size,fwd
+c230 kompressor,mercedes-benz,sedan,4 cylinders,compact,rwd
+matrix s,toyota,sedan,4 cylinders,full-size,fwd
+335i,bmw,sedan,6 cylinders,mid-size,rwd
+c-class,mercedes-benz,sedan,4 cylinders,compact,4wd
+325i,bmw,coupe,6 cylinders,mid-size,rwd
+e class e350 amg,mercedes-benz,sedan,6 cylinders,mid-size,rwd
+rogue,nissan,SUV,10 cylinders,full-size,4wd
+a4,audi,sedan,4 cylinders,mid-size,rwd
+grand caravan gt,dodge,mini-van,6 cylinders,mid-size,4wd
+4runner,toyota,SUV,8 cylinders,mid-size,4wd
+f450 utility bed power stroke diesel,ford,pickup,8 cylinders,full-size,rwd
+mountaineer,mercury,SUV,8 cylinders,mid-size,4wd
+tacoma x-runner v6,toyota,truck,6 cylinders,mid-size,fwd
+s-type r,jaguar,sedan,8 cylinders,mid-size,rwd
+diesel crew cab,ford,truck,8 cylinders,full-size,4wd
+330i,bmw,sedan,6 cylinders,mid-size,rwd
+borrego,kia,SUV,8 cylinders,full-size,4wd
+express lt 3500,chevrolet,van,8 cylinders,full-size,rwd
+mks reserve,lincoln,SUV,4 cylinders,mid-size,fwd
+528i,bmw,sedan,6 cylinders,mid-size,rwd
+rogue select s,nissan,SUV,4 cylinders,compact,4wd
+fiesta,ford,hatchback,4 cylinders,compact,fwd
+g37,infiniti,convertible,6 cylinders,mid-size,rwd
+passat 2.0t,volkswagen,sedan,4 cylinders,compact,fwd
+5 series 530i,bmw,sedan,6 cylinders,full-size,rwd
+explorer sport trac,ford,truck,6 cylinders,compact,rwd
+grand caravan sxt,dodge,van,6 cylinders,full-size,rwd
+rabbit,volkswagen,hatchback,5 cylinders,full-size,fwd
+2500 5.7l hemi,ram,pickup,8 cylinders,full-size,4wd
+grand marquis ls,mercury,sedan,8 cylinders,mid-size,rwd
+quest,nissan,mini-van,4 cylinders,mid-size,fwd
+aura xr,saturn,sedan,6 cylinders,mid-size,fwd
+e250 cargo,ford,van,8 cylinders,full-size,rwd
+prius - bluetooth - recently smogged - great commu,toyota,sedan,4 cylinders,mid-size,fwd
+miata,mazda,convertible,4 cylinders,sub-compact,rwd
+cooper s,mini,coupe,4 cylinders,mid-size,fwd
+prius c 1,toyota,hatchback,4 cylinders,sub-compact,fwd
+tacoma,toyota,truck,6 cylinders,compact,4wd
+expedition el,ford,SUV,8 cylinders,full-size,4wd
+g37xs,infiniti,sedan,6 cylinders,mid-size,4wd
+expedition el limited,ford,SUV,8 cylinders,full-size,rwd
+encore,buick,SUV,4 cylinders,full-size,fwd
+4runner sr5,toyota,SUV,6 cylinders,compact,rwd
+cadenza limited-sxl,kia,sedan,6 cylinders,full-size,fwd
+1500 rebel,ram,truck,8 cylinders,full-size,4wd
+750il,bmw,sedan,12 cylinders,full-size,rwd
+mdx nighthawk ed awd,acura,SUV,6 cylinders,mid-size,4wd
+c70,chevrolet,truck,8 cylinders,full-size,rwd
+crz,honda,coupe,3 cylinders,compact,fwd
+z28 camaro,chevrolet,coupe,8 cylinders,full-size,rwd
+cherokee classic,jeep,SUV,6 cylinders,compact,4wd
+silverado 1500 ls 4x4,chevrolet,truck,8 cylinders,full-size,4wd
+pathfinder s,nissan,SUV,6 cylinders,full-size,fwd
+f-150 xlt 4x4,ford,pickup,6 cylinders,full-size,4wd
+rendezvous,buick,hatchback,6 cylinders,mid-size,fwd
+rvr evoque,rover,SUV,4 cylinders,mid-size,4wd
+530i,bmw,sedan,6 cylinders,mid-size,rwd
+probe hatchback 2d,ford,hatchback,4 cylinders,compact,fwd
+legacy gt limited spec b,subaru,sedan,4 cylinders,compact,4wd
+forester,subaru,SUV,4 cylinders,full-size,4wd
+x3 xdrive28i,bmw,SUV,6 cylinders,full-size,4wd
+equinox,chevrolet,SUV,4 cylinders,compact,4wd
+prius plug-in,toyota,hatchback,4 cylinders,full-size,fwd
+300c,chrysler,sedan,8 cylinders,full-size,fwd
+yaris,toyota,sedan,4 cylinders,compact,4wd
+f-150,ford,pickup,6 cylinders,mid-size,4wd
+impala,chevrolet,coupe,6 cylinders,full-size,rwd
+versa,nissan,sedan,4 cylinders,sub-compact,fwd
+cooper clubman s,mini,coupe,4 cylinders,compact,fwd
+optima gdi,kia,sedan,4 cylinders,mid-size,fwd
+mdx,acura,wagon,6 cylinders,mid-size,4wd
+nv200,nissan,van,4 cylinders,full-size,fwd
+f-150 xl,ford,pickup,8 cylinders,full-size,rwd
+firebird,pontiac,coupe,8 cylinders,mid-size,rwd
+tacoma,toyota,truck,4 cylinders,compact,4wd
+sierra 1500 sle,gmc,pickup,6 cylinders,full-size,fwd
+tahoe ltz 4x4,chevrolet,SUV,8 cylinders,full-size,4wd
+mdx sh-awd,acura,SUV,6 cylinders,mid-size,4wd
+discovery,land rover,SUV,8 cylinders,full-size,4wd
+benz g500,mercedes-benz,SUV,8 cylinders,full-size,4wd
+cooper countryman s all4,mini,offroad,4 cylinders,mid-size,4wd
+tundra crewmax 4wd,toyota,pickup,8 cylinders,full-size,4wd
+accord ex-l,honda,sedan,6 cylinders,mid-size,fwd
+verano,buick,sedan,4 cylinders,compact,fwd
+wrangler,jeep,offroad,6 cylinders,mid-size,4wd
+f150 xlt,ford,truck,8 cylinders,full-size,4wd
+mdx nighthawk ed awd,acura,SUV,6 cylinders,mid-size,fwd
+rogue sl awd,nissan,SUV,4 cylinders,compact,4wd
+f-100,ford,truck,8 cylinders,full-size,rwd
+traverse awd 4dr ltz,chevrolet,SUV,6 cylinders,full-size,4wd
+forester 2.5i limited,subaru,wagon,4 cylinders,mid-size,4wd
+grand caravan sxt,dodge,van,6 cylinders,full-size,fwd
+transit 150 cargo van,ford,van,6 cylinders,full-size,fwd
+promaster 1500,ram,van,8 cylinders,full-size,rwd
+soul base,kia,hatchback,4 cylinders,mid-size,fwd
+f-250 4wd diesel 1owner rust free tx truck,ford,truck,8 cylinders,full-size,4wd
+accord,honda,coupe,6 cylinders,compact,fwd
+e-series cargo e-350 e350 s,ford,van,8 cylinders,full-size,rwd
+glc-class,mercedes-benz,SUV,10 cylinders,full-size,4wd
+300 zx turbo coupe,nissan,coupe,6 cylinders,compact,rwd
+maxima,nissan,sedan,6 cylinders,full-size,fwd
+sentra 2.0,nissan,sedan,4 cylinders,compact,fwd
+super duty,ford,pickup,8 cylinders,compact,4wd
+sierra 1500,gmc,pickup,8 cylinders,mid-size,rwd
+sonata se limited,hyundai,sedan,4 cylinders,full-size,fwd
+g35,infiniti,sedan,6 cylinders,mid-size,rwd
+xf,jaguar,SUV,8 cylinders,full-size,rwd
+tahoe lt z71 4x4,chevrolet,SUV,8 cylinders,full-size,4wd
+solara,toyota,coupe,6 cylinders,sub-compact,fwd
+pruis v,toyota,hatchback,4 cylinders,mid-size,fwd
+elantra sport sedan 4d,hyundai,sedan,4 cylinders,compact,fwd
+mkx,lincoln,SUV,6 cylinders,full-size,4wd
+sti fully built,subaru,sedan,4 cylinders,mid-size,4wd
+f-150 supercrew xlt 4x4,ford,truck,8 cylinders,full-size,4wd
+mustang gt,ford,coupe,8 cylinders,compact,rwd
+century,buick,coupe,6 cylinders,full-size,rwd
+outback 2.5i premium,subaru,wagon,4 cylinders,full-size,4wd
+f-350,ford,van,8 cylinders,full-size,rwd
+ranger xlt,ford,pickup,6 cylinders,compact,4wd
+f-350 xlt crew cab fx4,ford,pickup,8 cylinders,full-size,4wd
+accent,hyundai,sedan,4 cylinders,mid-size,fwd
+f250 super duty xl,ford,truck,8 cylinders,full-size,rwd
+q45,infiniti,sedan,8 cylinders,mid-size,rwd
+charger,dodge,sedan,8 cylinders,full-size,rwd
+dakota,dodge,truck,8 cylinders,full-size,rwd
+rdx,acura,SUV,6 cylinders,full-size,4wd
+yukon xl,gmc,truck,8 cylinders,full-size,rwd
+f150 f-150 4x4 4wd crew,ford,truck,6 cylinders,full-size,4wd
+650i,bmw,hatchback,8 cylinders,full-size,4wd
+frontier,nissan,truck,6 cylinders,full-size,rwd
+santa fe,hyundai,SUV,6 cylinders,mid-size,fwd
+1500 slt,ram,truck,8 cylinders,full-size,rwd
+tundra crewmax 4wd trd,toyota,truck,8 cylinders,full-size,4wd
+200 s,chrysler,sedan,4 cylinders,compact,fwd
+6-series,bmw,convertible,8 cylinders,mid-size,rwd
+500sl,mercedes-benz,convertible,8 cylinders,full-size,4wd
+escalade luxury awd,cadillac,SUV,8 cylinders,full-size,4wd
+e150 explorer,ford,van,8 cylinders,full-size,rwd
+hhr lt,chevrolet,hatchback,4 cylinders,mid-size,fwd
+firebird trans am,pontiac,hatchback,8 cylinders,mid-size,rwd
+avalanche 1500,chevrolet,truck,8 cylinders,full-size,rwd
+grand cherokee limited 4wd,jeep,SUV,6 cylinders,mid-size,4wd
+k10 4x4,chevrolet,truck,8 cylinders,full-size,4wd
+m3 convertible,bmw,convertible,6 cylinders,compact,rwd
+370z coupe,nissan,coupe,6 cylinders,compact,rwd
+ls,lincoln,sedan,6 cylinders,mid-size,rwd
+sierra 2500hd 4x4,gmc,pickup,8 cylinders,full-size,4wd
+camry se,toyota,sedan,4 cylinders,full-size,rwd
+camaro rs,chevrolet,coupe,6 cylinders,mid-size,rwd
+4runner 4x4,toyota,truck,4 cylinders,compact,4wd
+escalade ext,cadillac,pickup,8 cylinders,full-size,4wd
+outback awd 4dr. suv cars,subaru,SUV,4 cylinders,mid-size,4wd
+jimmy sls rust free 4 dr,gmc,SUV,6 cylinders,mid-size,4wd
+camaro z28,chevrolet,coupe,8 cylinders,mid-size,rwd
+durango slt 4wd,dodge,SUV,8 cylinders,full-size,4wd
+mirage,mitsubishi,hatchback,3 cylinders,compact,fwd
+a4,audi,sedan,4 cylinders,mid-size,fwd
+impala,chevrolet,coupe,6 cylinders,mid-size,fwd
+s4,audi,sedan,8 cylinders,compact,4wd
+3500 hd,ram,truck,8 cylinders,full-size,rwd
+civic ex,honda,coupe,4 cylinders,compact,fwd
+eos lux,volkswagen,convertible,4 cylinders,mid-size,fwd
+grand cherokee laredo,jeep,SUV,8 cylinders,full-size,fwd
+f150 xlt supercab,ford,truck,8 cylinders,full-size,rwd
+f-350 f350,ford,pickup,8 cylinders,full-size,rwd
+bronco eddie bauer,ford,SUV,8 cylinders,full-size,4wd
+wrangler sahara,jeep,SUV,6 cylinders,full-size,4wd
+ramm 2500,dodge,pickup,8 cylinders,full-size,4wd
+focus,ford,sedan,4 cylinders,sub-compact,fwd
+s60,volvo,sedan,5 cylinders,full-size,fwd
+benz e550,mercedes-benz,convertible,8 cylinders,mid-size,rwd
+matrix,toyota,wagon,4 cylinders,compact,4wd
+rogue sport sl awd,nissan,SUV,4 cylinders,full-size,4wd
+xc90 2.5t,volvo,SUV,5 cylinders,full-size,fwd
+canyon extended cab pickup,gmc,pickup,6 cylinders,mid-size,4wd
+yukon xl slt 1500,gmc,SUV,8 cylinders,full-size,rwd
+3 i,mazda,sedan,4 cylinders,compact,fwd
+town and country,chrysler,van,6 cylinders,full-size,rwd
+svt focus,ford,hatchback,4 cylinders,sub-compact,fwd
+g37 sport,infiniti,coupe,6 cylinders,compact,rwd
+highlander xle awd,toyota,SUV,6 cylinders,full-size,4wd
+es 330 sedan,lexus,sedan,6 cylinders,mid-size,fwd
+sq5,audi,SUV,6 cylinders,mid-size,4wd
+mark lt,lincoln,pickup,8 cylinders,full-size,4wd
+accord lx,honda,coupe,4 cylinders,mid-size,fwd
+benz s420,mercedes-benz,sedan,8 cylinders,full-size,rwd
+635csi,bmw,coupe,6 cylinders,full-size,rwd
+e-150,ford,van,8 cylinders,full-size,rwd
+crv ex,honda,SUV,4 cylinders,mid-size,4wd
+forester,subaru,wagon,4 cylinders,compact,4wd
+tsx sedan,acura,sedan,4 cylinders,full-size,fwd
+sonata se 4dr sedan,hyundai,sedan,4 cylinders,full-size,fwd
+wrangler unlimited sahara,jeep,offroad,6 cylinders,full-size,4wd
+cla-class,mercedes-benz,coupe,4 cylinders,compact,4wd
+mountaineer,mercury,SUV,6 cylinders,full-size,4wd
+f-150 xl 4x4,ford,pickup,8 cylinders,full-size,4wd
+vigor,acura,sedan,5 cylinders,compact,fwd
+4500 reg cab 4x4 fltbd,ram,truck,6 cylinders,full-size,4wd
+c230,mercedes-benz,sedan,6 cylinders,mid-size,rwd
+2500,gmc,pickup,8 cylinders,full-size,rwd
+accent,hyundai,sedan,4 cylinders,compact,fwd
+grand cherokee overland,jeep,SUV,6 cylinders,full-size,fwd
+350z,nissan,coupe,6 cylinders,compact,rwd
+535i,bmw,sedan,6 cylinders,full-size,4wd
+g35x,infiniti,sedan,6 cylinders,full-size,4wd
+genesis 5.0l r-spec,hyundai,sedan,8 cylinders,full-size,fwd
+grand caravan sxt,dodge,mini-van,4 cylinders,full-size,fwd
+e-series chassis e-350 sd,ford,other,8 cylinders,full-size,rwd
+park avenue ultra,buick,sedan,6 cylinders,full-size,fwd
+dts,cadillac,coupe,8 cylinders,full-size,fwd
+commander,jeep,SUV,6 cylinders,full-size,rwd
+ls 400,lexus,sedan,6 cylinders,full-size,rwd
+rainier,buick,SUV,8 cylinders,full-size,4wd
+outlander,mitsubishi,SUV,4 cylinders,mid-size,fwd
+pacifica,chrysler,mini-van,6 cylinders,full-size,fwd
+es 350,lexus,sedan,10 cylinders,compact,4wd
+suburban,chevrolet,truck,8 cylinders,full-size,fwd
+wrangler unlimited,jeep,offroad,6 cylinders,mid-size,4wd
+cx-5,mazda,SUV,4 cylinders,mid-size,4wd
+sierra 1500 z71,gmc,truck,8 cylinders,full-size,4wd
+wrangler unlimited sahara,jeep,SUV,6 cylinders,sub-compact,4wd
+roadmaster estate wagon,buick,wagon,8 cylinders,full-size,rwd
+malibu maxx ls,chevrolet,hatchback,6 cylinders,mid-size,fwd
+f-250 hd 7.3,ford,truck,8 cylinders,full-size,4wd
+fj cruiser,toyota,SUV,6 cylinders,full-size,rwd
+l300,saturn,sedan,6 cylinders,mid-size,fwd
+santa fe,hyundai,SUV,6 cylinders,compact,4wd
+patriot,jeep,SUV,4 cylinders,compact,4wd
+big horn edition,ram,pickup,8 cylinders,full-size,4wd
+silverado 2500hd ltz,chevrolet,pickup,8 cylinders,full-size,4wd
+grand prix gtp,pontiac,sedan,6 cylinders,mid-size,fwd
+nitro slt 4x4,dodge,SUV,6 cylinders,full-size,rwd
+camaro rs,chevrolet,coupe,8 cylinders,mid-size,rwd
+g35,infiniti,sedan,6 cylinders,full-size,rwd
+tacoma prerunner,toyota,truck,6 cylinders,mid-size,rwd
+ls 430,lexus,sedan,8 cylinders,full-size,fwd
+gr cherokee special edition,jeep,SUV,8 cylinders,full-size,4wd
+ex35,infiniti,hatchback,6 cylinders,mid-size,rwd
+1500 big horn-sport,ram,pickup,8 cylinders,full-size,4wd
+tahoe lt,chevrolet,SUV,8 cylinders,full-size,rwd
+durango sport utility 4d,dodge,SUV,8 cylinders,mid-size,4wd
+benz ml350 awd,mercedes-benz,SUV,6 cylinders,mid-size,4wd
+lesabre limited 4dr sedan,buick,sedan,6 cylinders,full-size,rwd
+f-250 xlt,ford,truck,8 cylinders,full-size,4wd
+ranger xlt,ford,pickup,6 cylinders,full-size,4wd
+camry,toyota,SUV,6 cylinders,full-size,fwd
+ud1800,nissan,truck,6 cylinders,full-size,rwd
+330ci convertible,bmw,convertible,6 cylinders,sub-compact,rwd
+electra 225,buick,sedan,8 cylinders,full-size,rwd
+excursion eddie bauer 4x4,ford,SUV,8 cylinders,full-size,4wd
+escape,ford,SUV,6 cylinders,compact,4wd
+yukon,gmc,SUV,8 cylinders,sub-compact,4wd
+liberty sport,jeep,SUV,6 cylinders,mid-size,4wd
+benz e320,mercedes-benz,sedan,6 cylinders,full-size,rwd
+a6 3.0t prestige,audi,sedan,6 cylinders,full-size,4wd
+4runner limited 4wd,toyota,SUV,6 cylinders,full-size,4wd
+smart fortwo,mercedes-benz,hatchback,3 cylinders,sub-compact,rwd
+cooper countryman,mini,coupe,4 cylinders,full-size,fwd
+cla-class,mercedes-benz,sedan,4 cylinders,compact,4wd
+335 coupe,bmw,coupe,6 cylinders,mid-size,rwd
+tiguan 2.0t se sport,volkswagen,SUV,4 cylinders,compact,fwd
+wrangler unlimited,jeep,SUV,8 cylinders,full-size,4wd
+mkc,lincoln,SUV,4 cylinders,full-size,4wd
+dakota,ram,truck,8 cylinders,full-size,4wd
+srx,cadillac,SUV,6 cylinders,mid-size,4wd
+silverado ls,chevrolet,truck,8 cylinders,full-size,rwd
+f 350,ford,truck,8 cylinders,full-size,4wd
+pt cruiser,chrysler,van,4 cylinders,compact,fwd
+￼ accord vp￼ ￼,honda,sedan,4 cylinders,full-size,fwd
+1500 slt,dodge,truck,8 cylinders,full-size,rwd
+f150 king ranch 4x4,ford,truck,6 cylinders,full-size,4wd
+silverado 1500 work truck,chevrolet,truck,8 cylinders,full-size,4wd
+300m touring,chrysler,sedan,6 cylinders,full-size,rwd
+genesis coupe 2.0 rspec,hyundai,coupe,4 cylinders,mid-size,rwd
+ls 430,lexus,sedan,8 cylinders,full-size,rwd
+express passenger,chevrolet,van,6 cylinders,full-size,rwd
+e450,ford,bus,10 cylinders,full-size,rwd
+w250,dodge,pickup,6 cylinders,full-size,4wd
+4runner sr5 4x4,toyota,SUV,6 cylinders,mid-size,4wd
+superchar,rover,SUV,8 cylinders,full-size,4wd
+sienna,toyota,sedan,6 cylinders,full-size,fwd
+patriot limited,jeep,SUV,4 cylinders,mid-size,4wd
+lesabre estate wagon,buick,wagon,8 cylinders,full-size,rwd
+focus s,ford,coupe,4 cylinders,compact,fwd
+super deluxe convertible,ford,convertible,8 cylinders,full-size,rwd
+altima,nissan,coupe,4 cylinders,mid-size,rwd
+e-450 box truck,ford,van,8 cylinders,full-size,rwd
+verano,buick,sedan,4 cylinders,compact,rwd
+fiesta,ford,sedan,4 cylinders,full-size,fwd
+3 series 328i coupe,bmw,coupe,6 cylinders,mid-size,rwd
+civic cng,honda,sedan,4 cylinders,mid-size,fwd
+freestyle,ford,SUV,6 cylinders,mid-size,fwd
+a4 2.0t,audi,convertible,4 cylinders,mid-size,4wd
+e150 hightop wheelchair van,ford,van,8 cylinders,full-size,rwd
+express 1500 w/ doors,chevrolet,van,6 cylinders,full-size,rwd
+sequoia limited,toyota,SUV,8 cylinders,full-size,4wd
+3500 sport,ram,truck,6 cylinders,full-size,4wd
+qx4,infiniti,SUV,6 cylinders,full-size,4wd
+wrangler,jeep,offroad,6 cylinders,compact,4wd
+sable,mercury,sedan,6 cylinders,full-size,fwd
+expedition xlt 4x4,ford,SUV,8 cylinders,full-size,4wd
+c-class,mercedes-benz,sedan,6 cylinders,compact,fwd
+rogue,nissan,SUV,4 cylinders,full-size,rwd
+f150 super cab,ford,pickup,8 cylinders,full-size,4wd
+civic ex,honda,sedan,4 cylinders,full-size,4wd
+3500 big horn,ram,truck,6 cylinders,full-size,4wd
+3i sport,mazda,sedan,4 cylinders,mid-size,fwd
+benz c230,mercedes-benz,sedan,6 cylinders,mid-size,rwd
+impala,chevrolet,sedan,4 cylinders,compact,fwd
+optima ex,kia,sedan,4 cylinders,mid-size,fwd
+silverado 2500hd,chevrolet,pickup,8 cylinders,full-size,rwd
+accord exl,honda,sedan,6 cylinders,mid-size,fwd
+2500,ram,truck,6 cylinders,full-size,rwd
+sl silverado 2500,gmc,truck,8 cylinders,full-size,rwd
+cx-7,mazda,SUV,6 cylinders,full-size,4wd
+impreza premium,subaru,sedan,4 cylinders,mid-size,4wd
+dakota 2wd,dodge,pickup,6 cylinders,mid-size,fwd
+freestyle,ford,SUV,6 cylinders,full-size,fwd
+tsx,acura,sedan,4 cylinders,mid-size,fwd
+c 300 luxury,mercedes-benz,sedan,6 cylinders,mid-size,rwd
+e450,ford,van,8 cylinders,full-size,rwd
+f150 super crew,ford,truck,8 cylinders,full-size,4wd
+sierra,gmc,truck,8 cylinders,full-size,fwd
+vibe,pontiac,hatchback,4 cylinders,full-size,fwd
+e350 starcraft,ford,bus,10 cylinders,full-size,rwd
+lx 450,lexus,SUV,6 cylinders,full-size,4wd
+grand marquis ls premium,mercury,sedan,8 cylinders,full-size,rwd
+cts coupe,cadillac,coupe,6 cylinders,mid-size,rwd
+2500 laramie 4x4,ram,pickup,6 cylinders,full-size,4wd
+land cruiser,toyota,offroad,6 cylinders,full-size,4wd
+frontier crew cab,nissan,truck,6 cylinders,mid-size,4wd
+express 2500,chevrolet,truck,8 cylinders,full-size,rwd
+express 1500 cargo van,chevrolet,van,6 cylinders,full-size,rwd
+escape,ford,SUV,6 cylinders,compact,fwd
+c-class,mercedes-benz,sedan,6 cylinders,mid-size,rwd
+ranger,ford,truck,6 cylinders,compact,rwd
+150 reg cab,ram,truck,8 cylinders,compact,4wd
+wrangler,jeep,offroad,6 cylinders,full-size,4wd
+2,mazda,hatchback,4 cylinders,sub-compact,fwd
+f-150,ford,other,6 cylinders,full-size,rwd
+k-20 4x4,chevrolet,pickup,8 cylinders,full-size,4wd
+wrangler s yj soft top,jeep,SUV,6 cylinders,full-size,4wd
+rx 450,lexus,SUV,6 cylinders,full-size,4wd
+express 2500 cargo,chevrolet,van,8 cylinders,full-size,rwd
+f-150 platinum,ford,truck,6 cylinders,full-size,4wd
+f350 dualy flat bed,ford,truck,8 cylinders,full-size,rwd
+camry le,toyota,sedan,4 cylinders,compact,fwd
+corrola,toyota,sedan,4 cylinders,mid-size,fwd
+ranger,ford,SUV,6 cylinders,mid-size,4wd
+armada sl,nissan,SUV,8 cylinders,full-size,4wd
+x5 sdrive 35i,bmw,SUV,6 cylinders,full-size,rwd
+f 150 stepside sport,ford,SUV,6 cylinders,full-size,fwd
+optima sx turbo,kia,sedan,6 cylinders,full-size,fwd
+x3 awd,bmw,SUV,6 cylinders,mid-size,4wd
+elantra gt,hyundai,hatchback,4 cylinders,compact,fwd
+srx4,cadillac,SUV,6 cylinders,full-size,4wd
+tacoma,toyota,pickup,4 cylinders,full-size,rwd
+b9 tribeca,subaru,SUV,6 cylinders,mid-size,4wd
+excursion limited 4x4,ford,SUV,8 cylinders,full-size,4wd
+nx 200t,lexus,SUV,4 cylinders,mid-size,4wd
+911 carrera 4,porche,coupe,6 cylinders,compact,4wd
+torrent fwd 4dr,pontiac,SUV,6 cylinders,mid-size,fwd
+canyon,gmc,truck,6 cylinders,full-size,4wd
+titan xd,nissan,truck,8 cylinders,full-size,4wd
+mdx awd tech,acura,SUV,6 cylinders,mid-size,4wd
+x-type,jaguar,sedan,6 cylinders,mid-size,4wd
+murano sv,nissan,SUV,6 cylinders,full-size,4wd
+300,chrysler,coupe,8 cylinders,full-size,rwd
+rx330 awd,lexus,SUV,6 cylinders,compact,4wd
+2500 4x4 / hemi 5.7l,ram,truck,8 cylinders,full-size,4wd
+c63 amg 507,mercedes-benz,coupe,8 cylinders,compact,rwd
+charger 5.7l hemi police c,dodge,sedan,8 cylinders,mid-size,rwd
+cherokee,jeep,SUV,4 cylinders,compact,4wd
+focus se,ford,hatchback,4 cylinders,compact,fwd
+outback wagon limited leather new head gskets and timing belt,subaru,wagon,4 cylinders,mid-size,4wd
+d150,dodge,pickup,8 cylinders,compact,rwd
+sprinter 2500,dodge,van,5 cylinders,full-size,rwd
+volt premier,chevrolet,sedan,4 cylinders,mid-size,fwd
+jimmy c/k 1500,gmc,SUV,8 cylinders,full-size,4wd
+explorer,ford,SUV,4 cylinders,full-size,4wd
+suburban k1500,gmc,SUV,8 cylinders,full-size,4wd
+sierra z71 sle 4x4,gmc,truck,8 cylinders,full-size,4wd
+f150 4x4,ford,truck,6 cylinders,full-size,4wd
+avalanche 1500,chevrolet,truck,8 cylinders,mid-size,4wd
+town & country limited,chrysler,van,6 cylinders,full-size,fwd
+aveo,chevrolet,hatchback,4 cylinders,compact,fwd
+suburban 1500 ltz,chevrolet,SUV,8 cylinders,full-size,4wd
+citation ii,chevrolet,sedan,6 cylinders,compact,rwd
+beat,honda,convertible,3 cylinders,sub-compact,rwd
+sentra sr turbo,nissan,sedan,4 cylinders,compact,fwd
+sonoma crew cab 4x4,gmc,pickup,6 cylinders,compact,4wd
+discovery ll,rover,SUV,8 cylinders,mid-size,4wd
+cube sl,nissan,wagon,4 cylinders,compact,fwd
+explorer,ford,SUV,10 cylinders,full-size,4wd
+320i xdrive,bmw,sedan,4 cylinders,full-size,4wd
+tercel,toyota,coupe,4 cylinders,compact,fwd
+740li xdrive,bmw,sedan,6 cylinders,full-size,4wd
+explorer xlt,ford,SUV,8 cylinders,mid-size,rwd
+mustang,ford,coupe,4 cylinders,mid-size,rwd
+e150 econoline cargo van,ford,van,8 cylinders,full-size,rwd
+escape,ford,SUV,6 cylinders,full-size,4wd
+mustang gt convertible,ford,convertible,8 cylinders,mid-size,rwd
+protege5,mazda,sedan,4 cylinders,sub-compact,fwd
+sierra 2500hd,gmc,pickup,6 cylinders,full-size,4wd
+camaro ss,chevrolet,coupe,10 cylinders,mid-size,4wd
+wrx,subaru,coupe,4 cylinders,compact,4wd
+chevelle,chevrolet,convertible,8 cylinders,full-size,rwd
+explorer sport trac,ford,truck,6 cylinders,mid-size,rwd
+fusion s,ford,sedan,4 cylinders,full-size,fwd
+accord,honda,coupe,4 cylinders,mid-size,fwd
+1500 bighorn,ram,pickup,8 cylinders,full-size,rwd
+328,bmw,sedan,6 cylinders,full-size,rwd
+dary sxt,dodge,sedan,6 cylinders,compact,fwd
+1500 quad cab,ram,pickup,8 cylinders,full-size,rwd
+thunderbird,ford,coupe,8 cylinders,mid-size,rwd
+silverado lt,chevrolet,pickup,8 cylinders,full-size,4wd
+328i,bmw,sedan,6 cylinders,mid-size,rwd
+apache c10,chevrolet,pickup,8 cylinders,full-size,rwd
+cr-z,honda,coupe,4 cylinders,compact,fwd
+camry,toyota,other,4 cylinders,mid-size,fwd
+caliber sxt,dodge,sedan,4 cylinders,full-size,fwd
+f150 supercrew cab fx4,ford,pickup,8 cylinders,full-size,4wd
+4runner,toyota,SUV,8 cylinders,full-size,rwd
+grand cherokee overland,jeep,SUV,8 cylinders,full-size,4wd
+240z,datsun,coupe,6 cylinders,compact,rwd
+sierra 2500hd slt,gmc,pickup,8 cylinders,full-size,4wd
+charger police,dodge,sedan,8 cylinders,full-size,rwd
+prius 4,toyota,hatchback,4 cylinders,compact,fwd
+corvette z06,chevrolet,coupe,8 cylinders,full-size,rwd
+cts 4,cadillac,wagon,6 cylinders,full-size,4wd
+ats premium,cadillac,sedan,4 cylinders,full-size,rwd
+300d,mercedes-benz,sedan,5 cylinders,full-size,rwd
+tundra crew max 4wd,toyota,truck,8 cylinders,full-size,4wd
+260z,datsun,other,6 cylinders,compact,rwd
+sierra 2500hd,gmc,truck,8 cylinders,full-size,rwd
+sierra 1500 crew sle rwd,gmc,truck,8 cylinders,full-size,rwd
+m35x awd,infiniti,sedan,6 cylinders,full-size,4wd
+accord,honda,coupe,4 cylinders,full-size,rwd
+e-class,mercedes-benz,sedan,6 cylinders,mid-size,rwd
+beetle,volkswagen,coupe,5 cylinders,mid-size,fwd
+jx35,infiniti,SUV,6 cylinders,full-size,4wd
+fiesta se hatchback,ford,hatchback,4 cylinders,compact,fwd
+camaro convert,chevrolet,convertible,8 cylinders,mid-size,rwd
+murano sl,nissan,SUV,4 cylinders,full-size,fwd
+legacy outback,subaru,sedan,6 cylinders,mid-size,4wd
+lw200,saturn,wagon,4 cylinders,mid-size,fwd
+x3,bmw,SUV,6 cylinders,full-size,4wd
+volt,chevrolet,sedan,4 cylinders,compact,fwd
+is 250,lexus,sedan,6 cylinders,compact,rwd
+x5 awd,bmw,SUV,4 cylinders,full-size,4wd
+f250,ford,pickup,8 cylinders,full-size,rwd
+insight hybrid,honda,hatchback,4 cylinders,sub-compact,fwd
+5 series,bmw,sedan,6 cylinders,mid-size,rwd
+cooper clubman,mini,wagon,4 cylinders,compact,fwd
+mustang coupe 5-spd,ford,coupe,6 cylinders,full-size,rwd
+dakota,dodge,pickup,6 cylinders,mid-size,4wd
+f-150 4x4 truck f150 trucks,ford,pickup,8 cylinders,full-size,4wd
+corvette,chevrolet,convertible,8 cylinders,compact,fwd
+m5,bmw,sedan,8 cylinders,compact,rwd
+excursion 4x4,ford,SUV,8 cylinders,full-size,4wd
+pt cruiser,chrysler,hatchback,4 cylinders,compact,fwd
+firebird formula,pontiac,coupe,8 cylinders,full-size,rwd
+f150 supercrew cab,ford,truck,8 cylinders,full-size,rwd
+h h r,chevrolet,sedan,4 cylinders,mid-size,fwd
+sierra 1500 sle,gmc,pickup,8 cylinders,full-size,4wd
+colorado,chevrolet,truck,6 cylinders,full-size,rwd
+elantra gls,hyundai,sedan,4 cylinders,full-size,fwd
+frontier se crew cab,nissan,truck,6 cylinders,full-size,4wd
+beetle coupe,volkswagen,hatchback,4 cylinders,compact,fwd
+corolla.le,toyota,sedan,4 cylinders,mid-size,fwd
+mariner hybrid,mercury,SUV,4 cylinders,mid-size,4wd
+prius ii,toyota,hatchback,4 cylinders,mid-size,fwd
+five hundred,ford,sedan,6 cylinders,full-size,fwd
+impreza,subaru,hatchback,4 cylinders,compact,4wd
+stratus 4dr,dodge,sedan,4 cylinders,mid-size,fwd
+f150 xlt crew 4x4,ford,truck,8 cylinders,full-size,4wd
+highlander le,toyota,SUV,4 cylinders,mid-size,fwd
+dakota,dodge,truck,8 cylinders,mid-size,rwd
+flex limited awd,ford,SUV,6 cylinders,full-size,4wd
+f350 super duty lariat,ford,truck,8 cylinders,full-size,4wd
+passat se,volkswagen,sedan,5 cylinders,mid-size,fwd
+sportage,kia,SUV,4 cylinders,mid-size,fwd
+1500 laramie 4 x 4,ram,truck,8 cylinders,full-size,4wd
+x5 3.0i awd,bmw,SUV,6 cylinders,full-size,4wd
+fiesta,ford,sedan,4 cylinders,mid-size,fwd
+qx56,infiniti,SUV,8 cylinders,full-size,4wd
+p3500,chevrolet,truck,6 cylinders,full-size,rwd
+tundra,toyota,truck,8 cylinders,mid-size,rwd
+sierra slt 4x4,gmc,truck,8 cylinders,full-size,4wd
+interceptor,ford,sedan,8 cylinders,full-size,rwd
+f350 super duty,ford,truck,8 cylinders,full-size,4wd
+tacoma,toyota,truck,4 cylinders,full-size,4wd
+f-150,ford,truck,4 cylinders,full-size,4wd
+titan,nissan,pickup,8 cylinders,full-size,rwd
+sequoia limited 4x4,toyota,SUV,8 cylinders,full-size,4wd
+325i sedan,bmw,sedan,6 cylinders,mid-size,rwd
+f150 fx4 4x4,ford,truck,6 cylinders,full-size,4wd
+4runner,toyota,SUV,4 cylinders,mid-size,rwd
+f350 crew cab 4x4,ford,truck,8 cylinders,full-size,4wd
+outlander,mitsubishi,SUV,6 cylinders,mid-size,fwd
+outback 3.6 r wagon,subaru,wagon,6 cylinders,mid-size,4wd
+1500 crew cab,ram,pickup,8 cylinders,full-size,4wd
+mirage g4 es,mitsubishi,sedan,3 cylinders,sub-compact,fwd
+gs 300,lexus,sedan,6 cylinders,mid-size,4wd
+forester limited,subaru,wagon,4 cylinders,mid-size,4wd
+accord lx,honda,sedan,4 cylinders,compact,rwd
+expedition,ford,SUV,8 cylinders,mid-size,4wd
+yaris hatchback,toyota,hatchback,4 cylinders,mid-size,fwd
+beetle,volkswagen,coupe,4 cylinders,compact,rwd
+outback awd,subaru,wagon,4 cylinders,full-size,4wd
+f-250 super cab,ford,truck,8 cylinders,full-size,rwd
+1500 quad cab 4x4,ram,truck,8 cylinders,full-size,4wd
+s40,volvo,sedan,5 cylinders,full-size,fwd
+westfalia,volkswagen,van,4 cylinders,mid-size,rwd
+xc9o,volvo,SUV,6 cylinders,mid-size,4wd
+tundra crewmax 1794,toyota,pickup,8 cylinders,full-size,rwd
+durango 5.9 rt,dodge,SUV,8 cylinders,full-size,4wd
+5500,ram,truck,8 cylinders,full-size,4wd
+328xi,bmw,sedan,6 cylinders,mid-size,rwd
+sonic lt,chevrolet,hatchback,4 cylinders,compact,fwd
+altima 2.5 sv,nissan,sedan,4 cylinders,full-size,fwd
+dakota crew cab,dodge,pickup,6 cylinders,mid-size,4wd
+promaster cargo van,ram,van,4 cylinders,full-size,fwd
+g37s coupe,infiniti,coupe,6 cylinders,compact,rwd
+lx470 land cruiser,lexus,SUV,8 cylinders,full-size,4wd
+wrangler,jeep,SUV,4 cylinders,compact,4wd
+malibu ltz,chevrolet,sedan,6 cylinders,mid-size,fwd
+cruze eco,chevrolet,sedan,4 cylinders,compact,fwd
+gx 460,lexus,SUV,8 cylinders,full-size,rwd
+328i hard top convertible - navi - leather and hea,bmw,convertible,6 cylinders,sub-compact,rwd
+sierra 1500 denali,gmc,pickup,8 cylinders,full-size,4wd
+f150 4 door,ford,truck,8 cylinders,full-size,4wd
+ats,cadillac,sedan,other,full-size,rwd
+rendevous,buick,SUV,6 cylinders,full-size,fwd
+corvette grand sport,chevrolet,coupe,8 cylinders,mid-size,rwd
+altima 2.5 s,nissan,coupe,4 cylinders,full-size,fwd
+savana,gmc,truck,8 cylinders,full-size,rwd
+scion tc,toyota,hatchback,4 cylinders,sub-compact,fwd
+1500 hemi 5.7l big horn edition - running boar,ram,pickup,8 cylinders,full-size,rwd
+monte carlo,chevrolet,coupe,6 cylinders,full-size,fwd
+camaro rs,chevrolet,convertible,8 cylinders,full-size,rwd
+2500 heavy duty 4x4,ram,truck,8 cylinders,compact,4wd
+altima,nissan,coupe,6 cylinders,compact,fwd
+express 3500 15 passenger,chevrolet,van,8 cylinders,full-size,rwd
+300 srt8,chrysler,sedan,8 cylinders,full-size,rwd
+civic ex,honda,sedan,4 cylinders,full-size,fwd
+frontier sv 4x4,nissan,pickup,6 cylinders,mid-size,4wd
+hhr,chevrolet,SUV,4 cylinders,mid-size,fwd
+forester 2.5i,subaru,hatchback,4 cylinders,mid-size,4wd
+fiesta ses,ford,sedan,4 cylinders,compact,fwd
+"2500 crewcab 4wd diesel, lifted, bumpers, low mile",ram,pickup,6 cylinders,full-size,4wd
+jetta tdi,volkswagen,coupe,4 cylinders,compact,fwd
+transit connect xlt cargo,ford,mini-van,4 cylinders,mid-size,fwd
+mustang fastback,ford,coupe,6 cylinders,mid-size,rwd
+escape limited 4x4,ford,SUV,6 cylinders,mid-size,4wd
+f150 xlt,ford,pickup,6 cylinders,full-size,rwd
+soul,kia,hatchback,4 cylinders,compact,fwd
+camry,toyota,sedan,4 cylinders,compact,fwd
+sonata gl,hyundai,sedan,4 cylinders,full-size,fwd
+cooper s hardtop,mini,coupe,4 cylinders,compact,fwd
+patriot,jeep,offroad,4 cylinders,mid-size,4wd
+rx450h,lexus,SUV,6 cylinders,full-size,4wd
+econoline cargo van,ford,van,8 cylinders,full-size,rwd
+super duty,ford,truck,8 cylinders,full-size,rwd
+tacoma,toyota,truck,4 cylinders,mid-size,4wd
+quest,nissan,mini-van,6 cylinders,full-size,fwd
+silverado ltz,chevrolet,pickup,6 cylinders,full-size,4wd
+altima 2.5 s coupe,nissan,coupe,4 cylinders,compact,fwd
+5-series,bmw,sedan,6 cylinders,compact,4wd
+charger sxt sedan 4d,dodge,sedan,6 cylinders,full-size,rwd
+lacrosse leather,buick,sedan,6 cylinders,full-size,fwd
+pilot ex-l,honda,SUV,6 cylinders,mid-size,4wd
+legacy gt awd,subaru,sedan,4 cylinders,mid-size,4wd
+outback eddie bauer,subaru,wagon,6 cylinders,full-size,4wd
+f150 supercrew cab xlt,ford,truck,8 cylinders,full-size,rwd
+mustang 5.0,ford,hatchback,8 cylinders,mid-size,rwd
+dart,dodge,sedan,4 cylinders,mid-size,fwd
+650i,bmw,sedan,8 cylinders,full-size,4wd
+4 series,bmw,convertible,4 cylinders,sub-compact,rwd
+mustang,ford,convertible,8 cylinders,mid-size,rwd
+eos komfort,volkswagen,convertible,4 cylinders,mid-size,fwd
+benz e-320,mercedes-benz,sedan,6 cylinders,full-size,rwd
+corvette convertible,chevrolet,convertible,8 cylinders,mid-size,rwd
+camry hybrid le,toyota,sedan,4 cylinders,mid-size,fwd
+mustang gt,ford,hatchback,8 cylinders,mid-size,rwd
+commander,jeep,SUV,8 cylinders,compact,4wd
+3,mazda,sedan,4 cylinders,compact,fwd
+terrain denali,gmc,SUV,6 cylinders,mid-size,4wd
+eldorado etc,cadillac,coupe,8 cylinders,full-size,fwd
+benz e500,mercedes-benz,sedan,8 cylinders,compact,4wd
+rav 4 sport,toyota,SUV,6 cylinders,full-size,4wd
+s4,audi,sedan,6 cylinders,mid-size,4wd
+cobalt,chevrolet,sedan,4 cylinders,mid-size,fwd
+santa fe xl,hyundai,SUV,6 cylinders,full-size,fwd
+envoy xl,gmc,SUV,6 cylinders,mid-size,fwd
+300 awd,chrysler,sedan,6 cylinders,full-size,4wd
+i3 range extender hatchback,bmw,hatchback,other,compact,rwd
+benz 450 sl,mercedes-benz,convertible,8 cylinders,mid-size,rwd
+3.0 cl,acura,coupe,6 cylinders,mid-size,fwd
+crv lx,honda,SUV,4 cylinders,compact,fwd
+beetle coupe,volkswagen,coupe,5 cylinders,compact,fwd
+mustang convertible,ford,convertible,8 cylinders,mid-size,rwd
+volt,chevrolet,hatchback,4 cylinders,compact,fwd
+1500 slt quad cab 3.6 liter,ram,pickup,6 cylinders,full-size,rwd
+renegade latitude,jeep,SUV,4 cylinders,mid-size,4wd
+sierra 2500 slt long bed di,gmc,truck,8 cylinders,full-size,4wd
+rav4 sport awd,toyota,SUV,4 cylinders,mid-size,4wd
+impala lt,chevrolet,sedan,8 cylinders,mid-size,fwd
+econoline,ford,bus,8 cylinders,full-size,rwd
+focus sel,ford,sedan,4 cylinders,mid-size,fwd
+dakota,dodge,truck,6 cylinders,full-size,4wd
+durango st,dodge,SUV,6 cylinders,full-size,rwd
+f350 xl,ford,truck,8 cylinders,full-size,rwd
+m3,bmw,coupe,6 cylinders,compact,rwd
+f250 super duty,ford,pickup,8 cylinders,full-size,fwd
+santa fe sport,hyundai,SUV,6 cylinders,full-size,fwd
+cooper countryman s all4,mini,hatchback,4 cylinders,compact,4wd
+- custom tudor sedan,ford,coupe,6 cylinders,full-size,rwd
+f150 xl supercrew 4x4,ford,truck,8 cylinders,full-size,4wd
+coupe,ford,coupe,8 cylinders,full-size,rwd
+niro lx hybrid wagon,kia,wagon,4 cylinders,mid-size,fwd
+xc60 t6 premier plus,volvo,SUV,6 cylinders,full-size,4wd
+gs350,lexus,sedan,6 cylinders,full-size,fwd
+rondo lx 4dr,kia,sedan,4 cylinders,full-size,fwd
+prius hybrid,toyota,sedan,4 cylinders,compact,fwd
+four runner,toyota,SUV,6 cylinders,mid-size,rwd
+silverado 3500,chevrolet,truck,8 cylinders,full-size,4wd
+focus se,ford,sedan,4 cylinders,sub-compact,fwd
+e350-class 4m,mercedes-benz,sedan,6 cylinders,full-size,4wd
+wrangler,jeep,other,4 cylinders,compact,4wd
+gt-r,nissan,coupe,10 cylinders,mid-size,4wd
+model x long range,tesla,SUV,other,full-size,4wd
+silverdo 10,chevrolet,pickup,8 cylinders,full-size,rwd
+rc 300 f sport,lexus,coupe,4 cylinders,mid-size,rwd
+crossfire,chrysler,coupe,6 cylinders,mid-size,rwd
+cougar ls 1987,mercury,coupe,6 cylinders,mid-size,rwd
+gx 470,lexus,SUV,8 cylinders,full-size,4wd
+3500 4x4 diesel,ram,truck,6 cylinders,full-size,4wd
+trax,chevrolet,SUV,4 cylinders,mid-size,fwd
+camry solara convertible,toyota,convertible,6 cylinders,mid-size,fwd
+trailblazer ext ls,chevrolet,SUV,6 cylinders,mid-size,4wd
+pickup truck,toyota,pickup,4 cylinders,compact,rwd
+cooper,mini,hatchback,4 cylinders,mid-size,fwd
+tahoe ls,chevrolet,SUV,8 cylinders,mid-size,fwd
+c-max,ford,hatchback,4 cylinders,compact,fwd
+sebring limited,chrysler,convertible,6 cylinders,mid-size,fwd
+f450,ford,truck,10 cylinders,full-size,rwd
+hhr ss,chevrolet,hatchback,4 cylinders,compact,fwd
+tl with tech sedan,acura,sedan,6 cylinders,compact,fwd
+santa fe sport awd,hyundai,SUV,4 cylinders,full-size,4wd
+genesis coupe,hyundai,coupe,10 cylinders,mid-size,4wd
+f-150 fx4 supercrew,ford,pickup,6 cylinders,full-size,4wd
+yukon denali awd,gmc,SUV,8 cylinders,full-size,4wd
+ranger xl super cab,ford,truck,4 cylinders,full-size,rwd
+sonata gls,hyundai,sedan,6 cylinders,mid-size,fwd
+civic,honda,sedan,4 cylinders,full-size,fwd
+e-350 xl superduty,ford,van,8 cylinders,full-size,rwd
+econoline e-250,ford,van,8 cylinders,full-size,rwd
+el camino,chevrolet,pickup,8 cylinders,mid-size,rwd
+jetta sle 2.5,volkswagen,sedan,5 cylinders,mid-size,fwd
+durango,dodge,SUV,6 cylinders,full-size,4wd
+rogue sv hybrid,nissan,SUV,4 cylinders,mid-size,fwd
+benz c300,mercedes-benz,sedan,6 cylinders,mid-size,4wd
+cherokee,jeep,SUV,4 cylinders,mid-size,fwd
+traverse ls,chevrolet,SUV,6 cylinders,full-size,4wd
+crosstrek,subaru,SUV,4 cylinders,full-size,4wd
+rc300 turbo coupe,lexus,coupe,4 cylinders,mid-size,fwd
+320ix,bmw,sedan,4 cylinders,compact,4wd
+deville dts,cadillac,sedan,8 cylinders,full-size,fwd
+s5,audi,coupe,8 cylinders,full-size,4wd
+cc sport,volkswagen,sedan,4 cylinders,mid-size,fwd
+colorado,chevrolet,truck,6 cylinders,compact,rwd
+r-class,mercedes-benz,SUV,6 cylinders,full-size,4wd
+custom camper longhorn,chevrolet,pickup,8 cylinders,full-size,rwd
+liberty sport,jeep,SUV,6 cylinders,compact,4wd
+mustang,ford,coupe,8 cylinders,sub-compact,rwd
+g37,infiniti,sedan,6 cylinders,mid-size,rwd
+yaris ia,toyota,sedan,4 cylinders,compact,fwd
+cts 3.6l performance,cadillac,sedan,6 cylinders,full-size,4wd
+accord se,honda,sedan,4 cylinders,mid-size,fwd
+transit cargo van,ford,mini-van,4 cylinders,compact,fwd
+m35,infiniti,sedan,6 cylinders,mid-size,rwd
+jetta 2.5l se,volkswagen,sedan,5 cylinders,compact,fwd
+optima,kia,sedan,6 cylinders,full-size,fwd
+tacoma,toyota,pickup,4 cylinders,compact,4wd
+phaeton,volkswagen,sedan,8 cylinders,full-size,4wd
+mustang premium,ford,coupe,6 cylinders,mid-size,rwd
+rogue sv,nissan,SUV,4 cylinders,mid-size,4wd
+clk550 cabriolet,mercedes-benz,convertible,8 cylinders,compact,rwd
+regal,buick,sedan,6 cylinders,full-size,fwd
+500 sport,fiat,hatchback,4 cylinders,compact,fwd
+f-150 lariat,ford,truck,6 cylinders,full-size,rwd
+x5 xdrive35i,bmw,SUV,6 cylinders,mid-size,4wd
+accord sport,honda,sedan,4 cylinders,mid-size,fwd
+tundra limited 4x4,toyota,truck,6 cylinders,full-size,4wd
+mazda3,mazda,sedan,4 cylinders,mid-size,fwd
+ridgeline rtl,honda,truck,6 cylinders,mid-size,4wd
+explorer xlt,ford,SUV,6 cylinders,mid-size,fwd
+accent gls,hyundai,sedan,4 cylinders,mid-size,fwd
+versa sv,nissan,sedan,4 cylinders,full-size,fwd
+sonic,chevrolet,sedan,4 cylinders,mid-size,fwd
+focus se hatchback,ford,hatchback,4 cylinders,compact,fwd
+rx8,mazda,coupe,other,compact,rwd
+passat 1.8 tsi,volkswagen,sedan,4 cylinders,full-size,fwd
+silverado 1500 ltz,chevrolet,truck,8 cylinders,full-size,4wd
+civic,honda,SUV,4 cylinders,full-size,rwd
+f-150,ford,pickup,6 cylinders,full-size,fwd
+sorento,kia,SUV,4 cylinders,mid-size,4wd
+tacoma prerunner,toyota,truck,6 cylinders,full-size,rwd
+fj cruiser 4x4,toyota,SUV,6 cylinders,mid-size,4wd
+expedition limited 3rd row,ford,SUV,8 cylinders,full-size,rwd
+xc90,volvo,SUV,6 cylinders,full-size,4wd
+3500,ram,truck,6 cylinders,full-size,rwd
+f150 platinum 4x4,ford,pickup,6 cylinders,full-size,4wd
+- galaxie,ford,sedan,8 cylinders,full-size,rwd
+q5 premium plus quattro,audi,SUV,4 cylinders,mid-size,4wd
+silverado lwb,chevrolet,pickup,8 cylinders,full-size,rwd
+odyssey elite touring,honda,mini-van,6 cylinders,compact,fwd
+3100 pickup,chevrolet,truck,8 cylinders,full-size,rwd
+crown victoria,ford,sedan,8 cylinders,compact,rwd
+f350 superduty 4x4,ford,truck,8 cylinders,full-size,4wd
+sienna xle limited,toyota,mini-van,6 cylinders,compact,fwd
+f350 lariat 4x4,ford,truck,10 cylinders,full-size,4wd
+sierra 1500 slt,gmc,truck,8 cylinders,full-size,rwd
+frontier,nissan,truck,6 cylinders,compact,rwd
+accent se hatchback 4d,hyundai,hatchback,4 cylinders,compact,fwd
+sierra 2500,gmc,pickup,8 cylinders,full-size,4wd
+328 xdrive,bmw,sedan,6 cylinders,mid-size,4wd
+freelander,land rover,SUV,4 cylinders,mid-size,fwd
+sierra 2500hd sle 4wd,gmc,truck,8 cylinders,full-size,4wd
+x5 30i xdrive,bmw,SUV,6 cylinders,mid-size,4wd
+silverado 1500 ls,chevrolet,pickup,8 cylinders,full-size,4wd
+cr-v,honda,SUV,4 cylinders,mid-size,rwd
+f150 xlt 4x4 texas edition,ford,pickup,6 cylinders,full-size,4wd
+f-650,ford,truck,8 cylinders,full-size,rwd
+civic hybrid,honda,sedan,4 cylinders,mid-size,fwd
+camry se,toyota,sedan,4 cylinders,compact,fwd
+f150 king ranch 4x4,ford,pickup,8 cylinders,full-size,4wd
+trailblazer lt 4x4,chevrolet,SUV,6 cylinders,mid-size,4wd
+mariner premier,mercury,SUV,6 cylinders,mid-size,4wd
+altima,nissan,sedan,4 cylinders,full-size,rwd
+v40,volvo,wagon,4 cylinders,compact,fwd
+silvarado 2500,chevrolet,sedan,8 cylinders,full-size,4wd
+lrgacy,subaru,sedan,4 cylinders,full-size,4wd
+cherokee,jeep,SUV,6 cylinders,compact,fwd
+freestyle,ford,wagon,6 cylinders,mid-size,fwd
+titan le 4x4,nissan,pickup,8 cylinders,full-size,4wd
+dart rallye,dodge,sedan,4 cylinders,compact,fwd
+f250 xlt,ford,pickup,8 cylinders,full-size,4wd
+prius,toyota,hatchback,4 cylinders,full-size,fwd
+trailblazer ss tbss,chevrolet,SUV,8 cylinders,mid-size,4wd
+terrain slt,gmc,truck,4 cylinders,full-size,rwd
+w4500,gmc,truck,8 cylinders,full-size,rwd
+s60 2.5t awd,volvo,sedan,5 cylinders,full-size,4wd
+f-150 lariat,ford,pickup,8 cylinders,full-size,4wd
+avalanche,chevrolet,pickup,8 cylinders,full-size,rwd
+rdx,acura,SUV,6 cylinders,mid-size,fwd
+altima,nissan,coupe,4 cylinders,compact,fwd
+captiva sport,chevrolet,SUV,4 cylinders,compact,fwd
+caliber srt 4,dodge,hatchback,4 cylinders,mid-size,fwd
+equinox ls,chevrolet,SUV,4 cylinders,mid-size,4wd
+liberty sport 4x4,jeep,SUV,6 cylinders,mid-size,4wd
+f-550 4x4,ford,other,10 cylinders,full-size,4wd
+escape titanium turbo boost,ford,SUV,4 cylinders,mid-size,fwd
+compass,jeep,SUV,4 cylinders,mid-size,fwd
+f250 super duty xlt,ford,truck,8 cylinders,full-size,4wd
+a4 2.0t premium plus,audi,sedan,4 cylinders,mid-size,4wd
+3 sport touring,mazda,sedan,4 cylinders,mid-size,fwd
+rx 330,lexus,SUV,6 cylinders,compact,fwd
+lumina,chevrolet,sedan,6 cylinders,full-size,fwd
+g 35x,infiniti,sedan,6 cylinders,full-size,4wd
+civic sport,honda,hatchback,4 cylinders,mid-size,fwd
+prius,toyota,hatchback,4 cylinders,full-size,rwd
+titan sv 4x4,nissan,pickup,8 cylinders,full-size,4wd
+750li xdrive,bmw,sedan,8 cylinders,full-size,4wd
+f-150 king ranch,ford,pickup,8 cylinders,full-size,rwd
+focus zx5,ford,hatchback,4 cylinders,compact,fwd
+f-150 xl,ford,pickup,6 cylinders,full-size,rwd
+crown victoria,ford,coupe,8 cylinders,full-size,rwd
+sonic lt hatchback,chevrolet,hatchback,4 cylinders,sub-compact,fwd
+sierra 1500,gmc,pickup,8 cylinders,mid-size,4wd
+428i coupe,bmw,coupe,4 cylinders,mid-size,rwd
+insight ex/navigation,honda,hatchback,4 cylinders,compact,fwd
+beetle bug,volkswagen,coupe,4 cylinders,compact,rwd
+328i,bmw,sedan,4 cylinders,mid-size,fwd
+spark ls,chevrolet,hatchback,4 cylinders,sub-compact,fwd
+impreza 2.5i sedan,subaru,sedan,4 cylinders,compact,4wd
+benz,mercedes-benz,bus,8 cylinders,full-size,rwd
+lucerne,buick,sedan,6 cylinders,full-size,fwd
+f-350 4x4 truck f350 trucks,ford,pickup,8 cylinders,full-size,4wd
+focus se hatchback,ford,bus,4 cylinders,compact,fwd
+baja,subaru,pickup,4 cylinders,full-size,4wd
+envoy,gmc,SUV,6 cylinders,mid-size,rwd
+325i convertible,bmw,convertible,6 cylinders,mid-size,rwd
+expedition,ford,truck,8 cylinders,full-size,rwd
+eldorado,cadillac,coupe,8 cylinders,full-size,fwd
+mustang,ford,coupe,4 cylinders,compact,rwd
+speed6,mazda,sedan,4 cylinders,mid-size,4wd
+astro van,chevrolet,mini-van,6 cylinders,mid-size,rwd
+fj cruiser 4x4,toyota,SUV,6 cylinders,full-size,4wd
+explorer,ford,SUV,6 cylinders,full-size,rwd
+excursion,ford,SUV,10 cylinders,full-size,4wd
+q50,infiniti,sedan,10 cylinders,compact,4wd
+outlander xls,mitsubishi,hatchback,6 cylinders,full-size,rwd
+yukon xl,gmc,truck,8 cylinders,full-size,4wd
+wrx,subaru,sedan,10 cylinders,compact,4wd
+sc430 convertible,lexus,convertible,8 cylinders,full-size,rwd
+gti s,volkswagen,hatchback,4 cylinders,compact,fwd
+z4 3.0si,bmw,convertible,6 cylinders,compact,rwd
+"silverado 1500 4wd, only 7k miles, lifted, king sh",chevrolet,pickup,8 cylinders,full-size,4wd
+focus se,ford,sedan,3 cylinders,compact,fwd
+tempo,ford,coupe,4 cylinders,mid-size,fwd
+f150 xlt supercrew,ford,truck,6 cylinders,full-size,4wd
+sprinter cargo vans,mercedes-benz,van,6 cylinders,full-size,rwd
+impreza,subaru,sedan,4 cylinders,full-size,fwd
+equinox ltz,chevrolet,SUV,4 cylinders,mid-size,4wd
+trax,chevrolet,SUV,4 cylinders,sub-compact,4wd
+hot rod,ford,convertible,8 cylinders,compact,rwd
+tuscon awd,hyundai,SUV,4 cylinders,mid-size,4wd
+grand caravan gt,dodge,mini-van,6 cylinders,full-size,fwd
+dart aero multiair turbo,dodge,sedan,4 cylinders,mid-size,fwd
+pilot touring awd,honda,SUV,6 cylinders,mid-size,4wd
+cts sedan,cadillac,sedan,6 cylinders,full-size,4wd
+sl2,saturn,sedan,4 cylinders,mid-size,fwd
+2500 hd,ram,pickup,8 cylinders,full-size,4wd
+renegade,jeep,SUV,4 cylinders,compact,4wd
+highlander,honda,sedan,6 cylinders,mid-size,rwd
+sts-v,cadillac,sedan,8 cylinders,full-size,rwd
+ml500,mercedes-benz,SUV,8 cylinders,full-size,4wd
+q7 s-line prestige,audi,SUV,6 cylinders,full-size,4wd
+express passenger,chevrolet,van,8 cylinders,full-size,rwd
+sts4,cadillac,sedan,6 cylinders,full-size,4wd
+legacy limited awd,subaru,sedan,6 cylinders,compact,4wd
+ranger,ford,truck,6 cylinders,full-size,fwd
+silverado 3500,chevrolet,truck,8 cylinders,full-size,rwd
+element,honda,wagon,4 cylinders,mid-size,fwd
+crv,honda,SUV,4 cylinders,compact,4wd
+2500 duramax diesel,chevrolet,pickup,8 cylinders,full-size,rwd
+benz e350 estate,mercedes-benz,wagon,6 cylinders,full-size,4wd
+journey,dodge,SUV,6 cylinders,full-size,4wd
+f150 supercrew cab,ford,truck,8 cylinders,full-size,4wd
+f250 crew cab 4x4,ford,pickup,8 cylinders,full-size,4wd
+civic lx,honda,sedan,4 cylinders,full-size,fwd
+silverado lt 4x4,chevrolet,pickup,8 cylinders,full-size,4wd
+f-250 diesel 1owner rust free texas truck,ford,truck,8 cylinders,full-size,4wd
+rogue sv awd,nissan,SUV,4 cylinders,sub-compact,4wd
+fj cruiser,toyota,SUV,6 cylinders,mid-size,4wd
+mustang,ford,sedan,4 cylinders,full-size,fwd
+tundra 4wd,toyota,truck,8 cylinders,mid-size,4wd
+camry xle v6,toyota,sedan,6 cylinders,full-size,fwd
+prius four,toyota,hatchback,4 cylinders,mid-size,fwd
+compass latitude 4x4,jeep,SUV,4 cylinders,compact,4wd
+200 s,chrysler,sedan,6 cylinders,mid-size,fwd
+silverado 3500 series,chevrolet,truck,6 cylinders,full-size,rwd
+1500 slt v8,ram,truck,8 cylinders,full-size,rwd
+62 series,cadillac,coupe,8 cylinders,full-size,rwd
+rl,acura,sedan,6 cylinders,mid-size,4wd
+jetta,volkswagen,sedan,5 cylinders,mid-size,4wd
+1500 laramie 4x4,ram,truck,8 cylinders,full-size,4wd
+benz s550,mercedes-benz,sedan,8 cylinders,full-size,rwd
+3 series 328i,bmw,sedan,4 cylinders,compact,rwd
+fusion sel,ford,sedan,6 cylinders,mid-size,fwd
+silverado 1500 classic,chevrolet,truck,6 cylinders,full-size,rwd
+taurus sho,ford,sedan,6 cylinders,mid-size,fwd
+maverick,ford,coupe,8 cylinders,mid-size,rwd
+tundra limited crewmax 4,toyota,truck,8 cylinders,full-size,4wd
+qx56 sport utility,infiniti,SUV,8 cylinders,full-size,4wd
+f-150 f150,ford,truck,8 cylinders,full-size,4wd
+wrangler rubicon,jeep,convertible,6 cylinders,mid-size,4wd
+jetta wagon,volkswagen,hatchback,4 cylinders,mid-size,fwd
+300 limited,chrysler,sedan,6 cylinders,mid-size,rwd
+roadster,ford,convertible,8 cylinders,mid-size,rwd
+quest se,nissan,van,6 cylinders,full-size,fwd
+impala ls sedan,chevrolet,sedan,6 cylinders,full-size,fwd
+suburban 1500,chevrolet,offroad,8 cylinders,full-size,4wd
+pt cruiser,chrysler,convertible,4 cylinders,compact,fwd
+tundra sr5,toyota,pickup,8 cylinders,full-size,rwd
+explorer eddie bauer,ford,SUV,6 cylinders,mid-size,4wd
+avenger sxt,dodge,sedan,4 cylinders,mid-size,fwd
+rl sh-awd,acura,sedan,6 cylinders,mid-size,4wd
+altima 2.5 s,nissan,coupe,4 cylinders,mid-size,fwd
+outback premium,subaru,wagon,4 cylinders,mid-size,4wd
+accord ex-l,honda,sedan,6 cylinders,full-size,fwd
+pathfinder sv,nissan,SUV,6 cylinders,full-size,4wd
+impreza premium,subaru,SUV,4 cylinders,mid-size,4wd
+2500 laramie,ram,truck,6 cylinders,full-size,4wd
+wrangler sahara,jeep,offroad,6 cylinders,mid-size,4wd
+dakoa,dodge,pickup,8 cylinders,full-size,rwd
+vue,saturn,SUV,6 cylinders,mid-size,fwd
+xj8 l,jaguar,sedan,8 cylinders,full-size,rwd
+f450 stake bed,ford,truck,10 cylinders,full-size,rwd
+lancer,mitsubishi,sedan,10 cylinders,compact,4wd
+1500 sport,ram,truck,8 cylinders,full-size,4wd
+liberty sport 4x4,jeep,SUV,6 cylinders,full-size,4wd
+avalanche,chevrolet,SUV,8 cylinders,full-size,4wd
+cx-9,mazda,SUV,6 cylinders,full-size,fwd
+vue,saturn,SUV,6 cylinders,full-size,4wd
+grand cherokee larado,jeep,SUV,6 cylinders,mid-size,4wd
+challenger sxt plus,dodge,coupe,6 cylinders,mid-size,rwd
+tacoma prerunner,toyota,pickup,6 cylinders,mid-size,rwd
+3 series,bmw,wagon,4 cylinders,full-size,4wd
+thunderbird convertible,ford,convertible,8 cylinders,mid-size,rwd
+qx80,infiniti,SUV,8 cylinders,full-size,rwd
+acadia sle,gmc,SUV,4 cylinders,mid-size,4wd
+dakota crew cab,dodge,pickup,6 cylinders,full-size,rwd
+rx300,lexus,SUV,6 cylinders,mid-size,fwd
+benz e320 bluetec,mercedes-benz,sedan,6 cylinders,mid-size,rwd
+qx56 4x4,infiniti,SUV,8 cylinders,full-size,4wd
+4runner limited sr5,toyota,SUV,6 cylinders,mid-size,4wd
+silverado 1500,chevrolet,pickup,6 cylinders,full-size,4wd
+z4 2.5i,bmw,convertible,6 cylinders,compact,rwd
+wrangler sahara,jeep,convertible,6 cylinders,mid-size,4wd
+equinox ltz,chevrolet,SUV,4 cylinders,full-size,fwd
+"town,and country",chrysler,mini-van,6 cylinders,full-size,fwd
+500l,fiat,SUV,4 cylinders,compact,fwd
+x1,bmw,SUV,4 cylinders,compact,4wd
+benz ml350 4matic,mercedes-benz,SUV,6 cylinders,full-size,4wd
+benz ml63 amg,mercedes-benz,SUV,8 cylinders,mid-size,4wd
+escape se awd ecoboost,ford,SUV,4 cylinders,mid-size,4wd
+grand marquis ls,mercury,coupe,8 cylinders,full-size,rwd
+f250 lariat crew cab 4x4,ford,truck,10 cylinders,full-size,4wd
+sierra 1500 sle crew,gmc,truck,8 cylinders,full-size,rwd
+tacoma double cab,toyota,truck,6 cylinders,mid-size,rwd
+excursion xlt,ford,SUV,8 cylinders,full-size,rwd
+rio,kia,sedan,4 cylinders,mid-size,fwd
+riviera,buick,coupe,8 cylinders,full-size,fwd
+silverado 1500 z71 4x4,chevrolet,truck,8 cylinders,full-size,4wd
+f150 lariat,ford,truck,8 cylinders,full-size,4wd
+venza awd,toyota,SUV,6 cylinders,mid-size,4wd
+cx-9 touring,mazda,SUV,4 cylinders,full-size,4wd
+e-350,ford,truck,8 cylinders,full-size,rwd
+caliber sxt,dodge,hatchback,4 cylinders,compact,fwd
+impala ls fleet,chevrolet,sedan,6 cylinders,full-size,fwd
+accord 2-door coupe,honda,coupe,4 cylinders,mid-size,fwd
+c-class,mercedes-benz,sedan,6 cylinders,mid-size,fwd
+f 550,ford,other,8 cylinders,full-size,rwd
+ion redline,saturn,coupe,4 cylinders,compact,fwd
+mustang,ford,convertible,8 cylinders,sub-compact,rwd
+deville,cadillac,coupe,8 cylinders,full-size,rwd
+benz s-600 coup,mercedes-benz,coupe,12 cylinders,full-size,rwd
+pt cruiser limited,chrysler,hatchback,4 cylinders,compact,fwd
+sprinter cargo vans,mercedes-benz,van,6 cylinders,mid-size,rwd
+g-6,pontiac,sedan,4 cylinders,mid-size,fwd
+cobalt ls,chevrolet,sedan,4 cylinders,compact,fwd
+z 71 4x4,chevrolet,pickup,8 cylinders,full-size,4wd
+express 3500,chevrolet,van,6 cylinders,full-size,rwd
+rogue krom,nissan,SUV,4 cylinders,compact,fwd
+srx awd,cadillac,SUV,6 cylinders,mid-size,4wd
+f150 supercrew cab xlt,ford,truck,8 cylinders,full-size,4wd
+outback,subaru,wagon,6 cylinders,mid-size,4wd
+e250 econoline,ford,van,8 cylinders,full-size,rwd
+ilx,acura,sedan,4 cylinders,full-size,fwd
+grand cherokee laredo,jeep,SUV,8 cylinders,full-size,rwd
+q7 tdi prestige,audi,SUV,6 cylinders,full-size,4wd
+camry,toyota,sedan,6 cylinders,mid-size,fwd
+rav4,toyota,truck,4 cylinders,full-size,4wd
+pruis three,toyota,sedan,4 cylinders,mid-size,fwd
+equinox lt,chevrolet,SUV,6 cylinders,full-size,fwd
+corolla,toyota,sedan,4 cylinders,sub-compact,fwd
+brz,subaru,coupe,4 cylinders,sub-compact,rwd
+dp,gmc,truck,8 cylinders,full-size,rwd
+express 2500,chevrolet,van,6 cylinders,full-size,rwd
+grand cherokee laredo,jeep,SUV,8 cylinders,full-size,4wd
+impreza,subaru,wagon,4 cylinders,compact,4wd
+xk8,jaguar,convertible,8 cylinders,mid-size,rwd
+500,fiat,coupe,4 cylinders,compact,fwd
